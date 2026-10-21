@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 529 180" role="img" aria-labelledby="title desc">
+  <title id="title">BARNES International Realty</title>
+  <desc id="desc">Логотип BARNES International Realty</desc>
+  <style>
+    .brand {
+      fill: #0D0D0D;
+      font-family: Didot, "Bodoni 72", "Bodoni 72 Smallcaps", "Times New Roman", serif;
+      font-size: 112px;
+      font-weight: 400;
+      letter-spacing: -3px;
+    }
+
+    .descriptor {
+      fill: #0D0D0D;
+      font-family: Commissioner, Arial, sans-serif;
+      font-size: 22px;
+      font-weight: 400;
+      letter-spacing: 10px;
+    }
+  </style>
+  <text class="brand" x="264.5" y="106" text-anchor="middle" textLength="520" lengthAdjust="spacingAndGlyphs">BARNES</text>
+  <text class="descriptor" x="264.5" y="166" text-anchor="middle" textLength="344" lengthAdjust="spacing">INTERNATIONAL REALTY</text>
+</svg>

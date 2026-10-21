@@ -1,0 +1,3286 @@
+{
+  "sourceRepository": "daniilterekh-prog/barnes-sites",
+  "sourceCommit": "7b96f7811639f3a84dafdaf9f22ec018f6be50ff",
+  "files": [
+    {
+      "path": ".nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "INDEX.md",
+      "sha256": "459613dc416c97558d1cc9a2b366d5bc84760cba13a4c6d3e796e1c123bb8618"
+    },
+    {
+      "path": "README.md",
+      "sha256": "a0f247ebcae29ada45d6d33e24a8ab9e9a11984e5e343083a01d01f956d44010"
+    },
+    {
+      "path": "docs/landing-builder/block-library/README.md",
+      "sha256": "64852d162abf19bf67d99aab7e6293cc2424ce8dab13c04b2753e84265a12c94"
+    },
+    {
+      "path": "docs/landing-builder/block-library/catalog-data.js",
+      "sha256": "51845361d601ec72b5f1e6848e151d49d8318830bec2eb9b2823bc93ae66bf0a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/headers-1440.jpg",
+      "sha256": "02b634ab2ca6bb23f1af50e6a2be83d45c3ffb49bd306f185dbb43c36bb1a2ee"
+    },
+    {
+      "path": "docs/landing-builder/block-library/index.html",
+      "sha256": "4dcdbfc1782e547399f74e5e708e4f9805a70975943762ec70cca08b9ab00a24"
+    },
+    {
+      "path": "docs/landing-builder/block-library/library-1440.jpg",
+      "sha256": "8ad9afebe51b9ac1aaf0598d5b2ae81fd334e9b66806ef7e20dfc53e23eeab0c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/library-390.jpg",
+      "sha256": "ca002fef93327509f351eb00a3b8743c80dc4b4d2d4fa552521d684bd4bbd309"
+    },
+    {
+      "path": "docs/landing-builder/block-library/library.css",
+      "sha256": "b97d2532df570dec08e8638e7e69eff1b1219124c8bf29de23e1ba40e1d5adb7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/library.js",
+      "sha256": "6465c0a6d486bb80bcc8e672196721c2605c4efab4f152e9d470e26c4f64b16f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-01-desktop.jpg",
+      "sha256": "fad01e0c5424fbfbb6b4bd4dbd4d371eabd067db45f125eb3a4b7662d7e70b7b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-01-mobile.jpg",
+      "sha256": "6150543b7e486717078f991ee33fd573af7e84ea9187d9f2736e4ed43ac086b7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-02-desktop.jpg",
+      "sha256": "92bbddaf0dcea649cc9faf70f83ccd40f22d12f6d4d67518d9b3c9b382b041bc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-02-mobile.jpg",
+      "sha256": "540eb329fcc8adbe404be2a31a2de6ca91c77b3c84dec01833bfadf1002700d0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-03-desktop.jpg",
+      "sha256": "c35e6821e317fb887c992cf538c6981f0ca878705383096e799c2ec264305797"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-03-mobile.jpg",
+      "sha256": "79a56278b447f3e15ce0e797fad102cf8274000ca001bd12c0801dc9d2d63798"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-04-desktop.jpg",
+      "sha256": "4bcd2042470fd2e759452d99df4450b13909b9bef843f382ad1a5b4ac5c91bfc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-04-mobile.jpg",
+      "sha256": "53eeb44abd13722894fedd4f5d81b645815ffb738f71fe348bea5b47b2678a43"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-05-desktop.jpg",
+      "sha256": "0489ab4a29c3e7be752a065aad40e65ddf37f047b3f289feef46426da2e24a22"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-05-mobile-1.jpg",
+      "sha256": "d84d028586e388f37b6e5e29ccb27435a652dfd97bff4517daa6230d83160949"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-05-mobile-2.jpg",
+      "sha256": "6fe820e76f5bee163336ef434b40038a50a0d3d22a52166c07f83295a71ace39"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-06-desktop.jpg",
+      "sha256": "f3ca1cb27c8af77179b0005eb9beeaab7b390514820dff834151f67e919385ec"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-06-mobile.jpg",
+      "sha256": "6bcad1186257bea909aed3f3e7a9739956ff58981991f7b37407a43d3469b9ee"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-07-desktop.jpg",
+      "sha256": "b690bc45b2d13fd760f98767735ba1824e687390e996b7466926beeb551541ce"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-07-mobile.jpg",
+      "sha256": "d6aa37b28b6e9e2ed09af4bed71b9ac75d762dbdcf2697568b39933f67e1aeb1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-08-desktop.jpg",
+      "sha256": "1368d3d7a78ba95827abec35de0dd63e957f6cc56b833e4647695fbbfd0e9711"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-08-mobile.jpg",
+      "sha256": "be0eefd2f22ae187abb8d29ee1b10f93db8b8c2baa496eb5322447b921b6ee21"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-09-desktop.jpg",
+      "sha256": "f336963d487ed495cbf555f34a7a8602da91f7c0843aa275a103c674e694576a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-09-mobile.jpg",
+      "sha256": "a9e868534815e9449b70f5814916f92be03bdea47079af115a511b2377238869"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-10-desktop.jpg",
+      "sha256": "3578e30978e2705f39246b7f3d252029e2e47354da0c0cfecb36aeff24e109f5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-10-mobile.jpg",
+      "sha256": "03761e153dba289046fcf6479f67126c3f551ff08cd997bed6e143b7655938ad"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-11-desktop.jpg",
+      "sha256": "35a5590a96e8a02d372f9417e4f22a1466afc1023c1f07c64e5f601b6ae856cc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-11-mobile.jpg",
+      "sha256": "dd5465e7fb6314663040ca46b99e1ad0798e95e6262baa4e0aa339ef8723aa28"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-12-desktop.jpg",
+      "sha256": "3daa0613dfda2ead6b310b0d37b541579314beaea33e81ab242f5b5ca4f8d012"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-12-mobile.jpg",
+      "sha256": "0d89ac99cb402b52c911bc158cb885e7976fc3991e7fc9833ba0c218a7069563"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-13-desktop.jpg",
+      "sha256": "c1de043e6dfe44ab8b9196c0af024897088ecd8d4275ef2c34bd4d7710dab923"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-13-mobile.jpg",
+      "sha256": "bf300d352130998dfd4e3d1f4eba5021d70d5c64356c66f4f7500a813f0bb097"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-14-desktop.jpg",
+      "sha256": "0cda0d402e2741a7dab53ad3fa0242a57d3bd9429e4315e4384921acecae76af"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-14-mobile.jpg",
+      "sha256": "5bd2dda176b2af31d3a51dd4166561cc5d79585b003d0b4b296452a3cefa0886"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-15-desktop.jpg",
+      "sha256": "f6e9f2d96cb9b15c0c5ac7e489a3e34f3dcca64a0214a805c74a22fc6f3fc416"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-15-mobile.jpg",
+      "sha256": "656e83924add239704f14bd6fc6e865350f20546795c1d47b429fc23ecbed147"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-16-desktop.jpg",
+      "sha256": "095324c2f1ab9b6024fddcd2fcc75a139aa266dc815aa895321f6e1105d8046d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/altai-16-mobile.jpg",
+      "sha256": "3dd54df63053c547267abe81935b211ddf7f5c01cc5782144797808f31ca9aec"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-01-desktop.jpg",
+      "sha256": "467b03cbb61125ff0e07616670e3617d5cac9f85fca1a6b23a286cb20ef15697"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-01-mobile.jpg",
+      "sha256": "9b09d288b8ad00356650c0da88fb75f21481bd957270e04db456f83125a4ee77"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-02-desktop.jpg",
+      "sha256": "e384eadc0fffcb5889cbe11bc734ae10ecbcbda49747a1baf192b8be0571ebc1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-02-mobile.jpg",
+      "sha256": "40223cab3d1a05e144f521fe029e689e0bc4cf18b54dfee309e2245918e86db0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-03-desktop.jpg",
+      "sha256": "996120aec11280b9eebaa7078f3c680036c5277d2e449782717571a8da08c577"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-03-mobile.jpg",
+      "sha256": "aa5197d6d944dcc775d4e3bd173dd33ac8d7476081ade10d2beaacc2361e8514"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-04-desktop.jpg",
+      "sha256": "d144ba7277ee5518642db3275ed72c2c0196ee9b858cf867493f7339bcdc4f46"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-04-mobile.jpg",
+      "sha256": "f818f427d3c16cef94906653324de7399998fc4c1d42a800b0ceb8c1306e356e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-05-desktop.jpg",
+      "sha256": "6277e4cc3817b577713bccd84544a3ccb3a6e6dd9118e309e803c47c68971783"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-05-mobile.jpg",
+      "sha256": "ca597f19fa1ce89b13b5fd1a7ca782c35c9808b3634f0748cbecdf7713b4b9eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-06-desktop.jpg",
+      "sha256": "f6e85a7adcc43d1e8c690c0b63d926bffb8127b5cb9bd018299ae607c777e63a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-06-mobile.jpg",
+      "sha256": "41d5f3132f788d0a8a6956e21cead57a2f31199c892a862df95a6f33f8ae253a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-07-desktop.jpg",
+      "sha256": "4e7a7974421ec580f1f77d08ca85879d2684e4119b16fa5a401ecc22d4c54bcf"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-07-mobile.jpg",
+      "sha256": "9eb37ce3c3daef950e5b1ec57cae21182c86a1ccec2ca136e33193ffc2b04e6f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-08-desktop.jpg",
+      "sha256": "13f1acb1e04cb53882614934e8c11059b4f4e2dc8689562399508ee36d0f5385"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-08-mobile.jpg",
+      "sha256": "f430441b92867730692bb2c935d6e82a617f7dc1d8689455e9d27eecbd6ad34c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-09-desktop.jpg",
+      "sha256": "b8b60178e3973b982d291533fda7fb163f81bb23965efac452394dfbe821ac08"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-09-mobile.jpg",
+      "sha256": "1cc9e2445c3d8368d3ca30d1b840233d4117d27cd65fad1c3ad7a19b45ff0595"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-10-desktop.jpg",
+      "sha256": "f9c8ef0baeea007d6568b7dc5dc53fd2f15dc62839f174df0539215004ce3726"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-10-mobile.jpg",
+      "sha256": "e513d1d050ff17ff2c9dff9b9c751a01716a3be928a62f616bb7041dcaae3aa4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-11-desktop.jpg",
+      "sha256": "51ff2564291c2eca589783057c52f000fe6f0f6366c656f0813501c78ab119d2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-11-mobile.jpg",
+      "sha256": "3307568e3d0c8616853df0a44ebe8b3cef628bf0d943ac5b36a6994e887f2ed6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-12-desktop.jpg",
+      "sha256": "499ef4444c29f63fc9d62ed6ef636357e6e11ad5cfe8b9cde4239e848238020b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-12-mobile.jpg",
+      "sha256": "e968df276f55f183908a7a2538e00c4cb82d28421e4447a9e3fa4a2c546a94ed"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-13-desktop.jpg",
+      "sha256": "1b82b8beb0fb70d429e57e28b8251c7906e8c6bf1fce6b5b10924cd30f9fab1f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-13-mobile.jpg",
+      "sha256": "4781ee203929009ddbe3b5c01202afa578a1691708effd27284dcdb19e593fb7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-14-desktop.jpg",
+      "sha256": "71b6b6249f644078102a03f4d967ffe3b1fb0955fc7167075449353d389bdb22"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-14-mobile.jpg",
+      "sha256": "2ad23379be2dac443dcb509fd652831d7fb6f93ffd3f7e33cc8446a4f5c4dee0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-15-desktop.jpg",
+      "sha256": "33dd9be280dfbfdfdcec275b5e9769f15bbd6a9f040281af9b94c14d1f6e2fb5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-15-mobile.jpg",
+      "sha256": "61bd177518ff8a6288a88f834dea49ead94c150a39be912136d0aa51826c9e59"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-16-desktop.jpg",
+      "sha256": "8836ce667d9fe004bf3e649a752a258a9c928a6048326f8fa688c6e1c6da45c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-16-mobile.jpg",
+      "sha256": "dbe07c9625acfb108801a4cbbac17ceb8bc920ee156b9a14a70b91fd7887c81e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-17-desktop.jpg",
+      "sha256": "5772011f862410902007ca8f7a063a7718a0727d71e566285a6eeaef4c2298aa"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-17-mobile.jpg",
+      "sha256": "e03b139883b69a3845149fd68d18f9b67902f546e230a5899256a3db4837373d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-form-desktop.jpg",
+      "sha256": "ded79442bd199482745320bd64b4b8260fbdbb2a592493ea062920f7f15a26e7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/belogorye-form-mobile.jpg",
+      "sha256": "fc5f6b0b945a0fc40bc020f83d9a6414f4f1f67ab8edbb7d5a1aae8cbf0ad59d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-01-desktop.jpg",
+      "sha256": "2651a584286642042715fb0b8b99ca2c6150a1b18cae74b422444115a90f3fb0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-01-mobile.jpg",
+      "sha256": "9cdbf6a02913ee592665bed68a4d6e45c6bc0c97b56a3d7e18dea6f6955dad32"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-02-desktop.jpg",
+      "sha256": "de01888731f3f835b3e936619abf0942ab4e939ac810f18cb2171d3e45b1cf49"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-02-mobile.jpg",
+      "sha256": "e0791e934aa2d24518d1c8afa0e62cfa92ee0148d96fe169f48e7403bc08cc99"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-03-desktop.jpg",
+      "sha256": "6728a381031330463cf06a3f9dd1e1969ce743040914274d77a39a97ba9870ed"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-03-mobile.jpg",
+      "sha256": "1793423ca918f35c584d1562933446da9b3f9e9edd1abf6b01f5fc6bd3bf26db"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-04-desktop.jpg",
+      "sha256": "9b78518363630464ded1c0f29aaa990729d05801f887f56924572f4557f637e7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-04-mobile.jpg",
+      "sha256": "37afcc628e42c9a0e4b37edf9966851fadaedb23fcc43191a1bbebec38677955"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-05-desktop.jpg",
+      "sha256": "20eb49d2bc155f365064d4aec1ac7c9d22bbde70994859e527bc4fd42b721961"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-05-mobile.jpg",
+      "sha256": "8e834d634116f37d06fe50dbc9cd8ca167a390e0eb7fdf7802c519a062d1ca43"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-06-desktop.jpg",
+      "sha256": "40ee9768aca79f37f7880d059092418d91a5f5a5a716ff320319ea5ef9785787"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-06-mobile.jpg",
+      "sha256": "72a0a7b5815a9385ec18e23710b567288b13c9e791acbe3c23b0635bfa8aeb93"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-07-desktop.jpg",
+      "sha256": "34d01a4d2390ad94c9c102bcd308fa43a6a457c35929ebd1d835b660c0222990"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-07-mobile.jpg",
+      "sha256": "7b2a382545349e09ed31f9a622024c21041e0ed192fc59990412f4c68a555457"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-08-desktop.jpg",
+      "sha256": "cd5b156a2a6db7f57d2830093c7725180f5c7bfeae575e50e098338eac919380"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-09-desktop-1.jpg",
+      "sha256": "5b689f3444b1d53a95cc7ea7aebdc8c9691fac7eb603f11672ad71d9f6096c56"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-09-desktop-2.jpg",
+      "sha256": "7f5b3392c2b3d833b6fa34c0915dd9c78a2395687ce006d13e815d39c3cc0fc6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-09-mobile.jpg",
+      "sha256": "b8e1c87b55bf9a48a7d3bc6fef004ba2015edcb0df7e874d6fc1735421a4610d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-10-desktop.jpg",
+      "sha256": "ef4e4209118dab6835107d2e964739267fc9638db52c275b358f808ab622e039"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-10-mobile.jpg",
+      "sha256": "0c670346a5c5e3e11f5f6f8a6b9166ad7d3d0952aa82d98cd0f753f8fe887099"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-11-desktop.jpg",
+      "sha256": "e03fd290a237e2f4e70680b178744485cb0482f7f7dc851642f29fedd81c3510"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-11-mobile.jpg",
+      "sha256": "bca5855fb2850f9801df7e37aff34912ca507fa2d894a29f3eae065c75ac0758"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-12-desktop.jpg",
+      "sha256": "a219ff2733589ba6b7df0244870b0816f6fa03c0c78b1bc4ae391402e8f03ee0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-12-mobile.jpg",
+      "sha256": "090f363b54f5e86e5652978ac9927486645d04cb67bf8048bca14489fb8fced3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-13-desktop.jpg",
+      "sha256": "01e5c5bf369d9a3c0f24cf2e5462843dea5abbb2328ce5f7b62e911768b50426"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-13-mobile.jpg",
+      "sha256": "c115e355f9798db51f53057278efe70b5ed64077a2ca22e0db6f3c71f691090f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-14-desktop.jpg",
+      "sha256": "8d600305d02aa798f193ca5a05f0489ed71913f4709f0e25563fd328ba459697"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-14-mobile.jpg",
+      "sha256": "56d9693d407623862e8fcae4b931d363733aa3b4993eede3f7ec221db096ed8d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-15-desktop.jpg",
+      "sha256": "716773eeb1627a415d303b20cdc5054b38f200f28aa2423fe2df44dcd2a68e62"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-15-mobile.jpg",
+      "sha256": "d871577c71d1bf4e77450023847cc2c2df5eda0e4dcc97dcf2c7e3bd2482a76b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-16-desktop.jpg",
+      "sha256": "175f0adf927990b8bbd14099e5be44546539690def4bf2d85aade1cc0cc9a7e8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-16-mobile.jpg",
+      "sha256": "f60dfe90a7e5af3751919f05fbfb2ba25bb18fffe5b35e73478998e73f0a5968"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-form-desktop.jpg",
+      "sha256": "562735a18771acca433257a6aa325c140098aba8f6480e7a9f3a9234e85e5e8b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/grusheviy-form-mobile.jpg",
+      "sha256": "60f52997e7f0ca4638d513f614feef4eddae4ba956af49b3d638b9c35bada714"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-01-desktop.jpg",
+      "sha256": "a05ee65ea5a9f4af9784d76b44a4cff96a8a0c0247b5cb5415c14da77751ea0d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-01-mobile.jpg",
+      "sha256": "b7694468eee0a4545b7d6ebba2d2793eff8148494d1827eb41819c55f31f66f7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-02-desktop.jpg",
+      "sha256": "ce200766a063ee1b080d8b2d43caf84b51262dc8a0e6cdddd96af73878ffcdde"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-02-mobile.jpg",
+      "sha256": "5da49516421593469175d9978c3d2b89f0db6ac739dd1536c1ff3159470a438c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-03-desktop.jpg",
+      "sha256": "04607085b0c17bebe0ab3567b2eb3233c147769f56cf538980c9f625078a3c24"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-03-mobile.jpg",
+      "sha256": "b22c1d1cdbd82da9b75381f5dd00a3ada28c37ac996c2bdbe758c94159560771"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-04-desktop.jpg",
+      "sha256": "4e066056436f6c05b66f681a8254952f08d5a0f561cb417a891e9c9af53099b8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-04-mobile.jpg",
+      "sha256": "092436cdb5f04dacf547dd7381a8120d7befd34f1af2121f3d66b43f1a1ae4fc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-05-desktop.jpg",
+      "sha256": "70892214d3955b59feb2925d293a93e84beb53143f246da965b798d62700ed3e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-05-mobile.jpg",
+      "sha256": "2ce52a6f840e3b909c4ba98bd793b6996c55ef6d13e7ffde31e1e491f780d298"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-06-desktop.jpg",
+      "sha256": "370851540202f1d1017ce71ec51ef44a670a4ba3da81011db449fd5c6ca0555b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-06-mobile.jpg",
+      "sha256": "aa95a889dfbbf099c290ace56ed846ede82487fdc14b3fd70db681eaccad34ab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-07-desktop.jpg",
+      "sha256": "e3a860b742ef9c2af1dfb20f06617562f3296290d97a21f23a5b7ee18fe5eb15"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-07-mobile.jpg",
+      "sha256": "5d9ce7e0053e71c40c7a20025aa0dd46b3bce7683cfd75f80d550c3932e794ae"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-08-desktop.jpg",
+      "sha256": "3f201c4bb91e62cafa3d968afb9486cdb57c0665677e254a1208ac26e0d3410d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-08-mobile.jpg",
+      "sha256": "9adb15664e29e1705491b47aacc27ed5b843f89567bc638780f91c73cef897d8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-09-desktop.jpg",
+      "sha256": "5a55ca65687c753e6a6f48ecb0d7d26258810e006c646814a44a67e0a4747255"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-09-mobile.jpg",
+      "sha256": "90ba717d8ad77ee0ff82f9cb2383ac2893fb9d18d4d5fb93dea3947ece2a99ab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-10-desktop.jpg",
+      "sha256": "bb870273872582c733586534452b7a240b8295fef5bec35e267ed83348376ba2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-10-mobile.jpg",
+      "sha256": "0aa5b6f9d73e97e22cb733d69238544aa89b39bb359ef956c922225cd7234cbe"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-11-desktop.jpg",
+      "sha256": "6a48ca77d4f400ca870874ab59e3c5a4379458cbc54e8fe82f7b6ee6c2cadeed"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-11-mobile.jpg",
+      "sha256": "2eeaa08ec6d274673f1dc154f867fa4082a915141f5be11a8b3214865e14ce3c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-12-desktop.jpg",
+      "sha256": "b543b703040aa9f8a77383b326ff503c9ce87e39467ba84edc790ca6bfe76e65"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-12-mobile.jpg",
+      "sha256": "e705b7be22b24e38e461df1c356ddedc43beed09a870faa2d411eb83750702ab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-13-desktop.jpg",
+      "sha256": "3dd1a5534225d36f897a1f3953ee493c55d0f05556aa12dbe83173af1ead9e82"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-13-mobile.jpg",
+      "sha256": "4de5df41f1b4c38c2cfb0fcb5bdb6b465de281310061007f9945240b7e2ed41c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-14-desktop.jpg",
+      "sha256": "774d548a620baf80e20c4aced6033d858d52d62ecbeafd2d884b00dda70be163"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-14-mobile.jpg",
+      "sha256": "9cae57cf381594340d4e6ded197f94729e2393c30e413e72596c051f27b267d1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-15-desktop.jpg",
+      "sha256": "f92636a493621fcae0a688e42d12af4a56ef488d6dfacb7e23cfc7c86a6ae13b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-15-mobile.jpg",
+      "sha256": "9abf5ec12dc47fa9f09a1360fbdbff581d2028453e41ebeb20b6a2bf8a2a3170"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-16-desktop.jpg",
+      "sha256": "37f4fa4251d1e1aeeb7b3811f25164b4d7473bb372f21e1721283895477e4ff3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-16-mobile.jpg",
+      "sha256": "9af2a177352abd13e83199439221177466bfec7dab109adbe4b33ca929b4f61a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-17-desktop.jpg",
+      "sha256": "fe1b9e5849b6790bd40a1d07e84f519fea71824836b6ecf56d5c3dab599290dd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-17-mobile.jpg",
+      "sha256": "6c8b55a11417befada9eb140bd6aec0cb6ab14435a7c4fbc63a7f9ce909c2d25"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-18-desktop.jpg",
+      "sha256": "ecc9e7d764c5953fa5427cefed72aff826d3aa4299e64175841910047ffb6ea9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-18-mobile.jpg",
+      "sha256": "e952f4937b5cc94ba914da344119e20a810d760a0ff181d9db2f9fc18f13e365"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-form-desktop.jpg",
+      "sha256": "aebce05c526079453f5ba91c71e1ef27d6c53bb7c6634389f5c357708d29e4fd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/karluu-form-mobile.jpg",
+      "sha256": "aa10cacb9a442e8a016318f31adfd9275abcce02ecb02fb498ee5b69e2a08bd9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-01-desktop.jpg",
+      "sha256": "99568f8e6245417dd4b67ca4d9ea8ec1447b4fce63a01c6607a5e5096678eeb1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-01-mobile.jpg",
+      "sha256": "d109f858f4869311ea8da41872d5a256b1ef01b1e9811e1c24e2eb79b7eb630a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-02-desktop.jpg",
+      "sha256": "48a5878cf47480db58d61a7940cb1bbec401c04909e1fa1a8911b0ef518d41bc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-02-mobile.jpg",
+      "sha256": "7f3276ef47a46fe4c824c2b036ab947bca8031c1c74ee7ac6e7d3e46ff8e9ca5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-03-desktop.jpg",
+      "sha256": "0420b7eb6fe890519dc40117e9708fb26ea155864821cd2923ae34a627a1808d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-03-mobile.jpg",
+      "sha256": "8ce2836623504676859d121211bfa24949c41ae16be2b74897290c9a42a60a1c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-04-desktop.jpg",
+      "sha256": "83c07f2608cd8581e76eb6644fbea508ab2ff6284f7f115dffe4346b01753657"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-04-mobile.jpg",
+      "sha256": "ffa4267ac1ee2dda787d5b005dfd47c22caf068522334134736f796830b601a6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-05-desktop.jpg",
+      "sha256": "32d594ab307ab5b34f6de9b58b6c057e9d8cc12ffd71dc728e052b38fbf400b2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-05-mobile.jpg",
+      "sha256": "897fda8ee0870e1f0927feccb906894713f6e99c310d324029d9e1423142c667"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-06-desktop.jpg",
+      "sha256": "1fce2076564423782847f719b4ad9db4ab7ccc1f6c7ea77a49d0419d7c1fa236"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-06-mobile.jpg",
+      "sha256": "04b6956e230adb5b5bf0813561412bf667ccdf5015ed2d77c023cba2d3a7af23"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-07-desktop.jpg",
+      "sha256": "de8021c15dc945d180da2447c073a782a957e7aed44cfac375f7a2d3cbb4a4ba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-07-mobile.jpg",
+      "sha256": "07e85d538a7fa764edae27ee7607b50a22e103ed1b6f91ed08a5b1206a5dcdf8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-08-desktop.jpg",
+      "sha256": "68b04b7b41b7dfc22b05a0ee8fb40e82c9d57343610b735fab566a29a913673a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-08-mobile.jpg",
+      "sha256": "a418324d977568f1bb44ccae2f183c20abafae8a53d2bdef0f87f8c47f7203a6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-09-desktop.jpg",
+      "sha256": "cad0cbeb3c638db6271908592c006c49a642da234329bd4610c6fc34f8ae7c04"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-09-mobile.jpg",
+      "sha256": "a00f131ffdc8f4da043c99ea4f0323a098b1dc14406f509c85c6e73405d7775d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-10-desktop.jpg",
+      "sha256": "70d0e7e0cabb371805b554d95acf735dc04bdb912a2c43e7da12bfa412022cf7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-10-mobile.jpg",
+      "sha256": "5bfe31463b1c40553dcf9163c800ac8df7243f0335920717da7f8807ad6c4a12"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-11-desktop.jpg",
+      "sha256": "854e521f1811a80ce55212ea48c7beb229fdfcab160dadccf62b65fc3067e656"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-11-mobile.jpg",
+      "sha256": "d835dc03baef6ecf15e05042e199615aaae99e460eae8d325e12e8efd59910e1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-12-desktop.jpg",
+      "sha256": "3725c4bb9df1ada28ebaf152e0ac5941d330b72cc3f78898f2c95b3dda481c1a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-12-mobile.jpg",
+      "sha256": "18f9c6482549c4a81902a8ee62bf8f871cc2f413544a3cff11d7e0c26f6759fc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-13-desktop.jpg",
+      "sha256": "85686a8ed46ac1c8df5b148b19f57e6109ba1c207fd24a97b21f54949d0fff8b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-13-mobile.jpg",
+      "sha256": "92060028e2129aaee66884c053e72e78006c2a21459ddc41ec1cd0cdc035413f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-14-desktop.jpg",
+      "sha256": "0d5bf8573c138430db418a0a0c8fa14d2db734bb6989570ba7bb80e687319977"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-14-mobile.jpg",
+      "sha256": "3465e104983566a0d79cf63243382f74eb6ae0e526bfc209ee81ff169834b220"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-15-desktop.jpg",
+      "sha256": "318106e3f6cbfaa212465de13b9c9e9d4ca7cb0cfba9213eb8a7afcda0eb47b9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-15-mobile-1.jpg",
+      "sha256": "a4cf5915e60909bed52230a36402c5bc021209ae3c2337fd9cfcebb8cd3cadba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-15-mobile-2.jpg",
+      "sha256": "ebe0aab2eccee4084827bfe068596b0bbf7ac2d65050cd43e187c2c3fd95240b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-16-desktop.jpg",
+      "sha256": "e62fc4f88ca3659232ae2094197af46bb01e0a8925c911982723e0fa3d0db4fe"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-16-mobile.jpg",
+      "sha256": "271734dfdd96c182bab05dd19977674d02cd2d80985f9445c8c6a3c049028d29"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-17-desktop.jpg",
+      "sha256": "ac5a16e9ce44862f5c365ce654a62f0938222a0bd7025da77a0cd3c24901caff"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-17-mobile.jpg",
+      "sha256": "1727c1f19c376771d491b1fca000448be801d1a4b17cee599e6559f657825e4c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-18-desktop.jpg",
+      "sha256": "abf84f29c7483153a0fde353414d46105ab6e59429cbe6a43323f729f02cbc2c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-18-mobile.jpg",
+      "sha256": "348be72a7d970d3bd94cd2c9f14986f3067fd0ea900ecca2cea2ab0bce3123a3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-19-desktop.jpg",
+      "sha256": "ebf7632161c2d52f17f8667e357600bf3c647b01cd1745f0a6f349c5e291b3ee"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-19-mobile.jpg",
+      "sha256": "37928c393a92c7b8f74cffe0e5ee0850e6ecb86a9beaaafd06c8f4877b57e04a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-20-desktop.jpg",
+      "sha256": "b93a91171655282f3b60222d3f81d6b968cac508f18f308e50e4a1c128011443"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-20-mobile.jpg",
+      "sha256": "144003d59b16e78ccbdbfe1007644f67ed6bb23359fc5fceedf1628b7568fc23"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-21-desktop.jpg",
+      "sha256": "a2b64924bafb951d67e6dcafc2210afaeb8d54e3857ebd095497ea7df59f88a7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-21-mobile.jpg",
+      "sha256": "8495010ca64f7274870676a3c3d07e318dadd61c37bb67330bc0c53caa3408bd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-22-desktop.jpg",
+      "sha256": "f584c0196ac544f5c3e91beebbca92d93aaf8c5a4f57f5a0bbc46f24256e2b30"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-22-mobile.jpg",
+      "sha256": "cc883eb7f8e109ac54802a3fa80536fb286cfd58398ce786d2bb537e4cb4663d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-23-desktop.jpg",
+      "sha256": "6a2e96353d718012edeeb7f0e91693f1ff33a7294bf506943850ac2f55b03052"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-23-mobile.jpg",
+      "sha256": "91750033ff3877e72671880a0641917b58f068f2591420935d94652f88df1f49"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-form-desktop.jpg",
+      "sha256": "e097abcc7faeaf7fad7b29c25e3df549ce90fc39bcc38ed9700720e73df38466"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/katun-form-mobile.jpg",
+      "sha256": "59372691ff5a9a2dbf51b0bb037011efda034fa8cd68dd7b747884764b4c8113"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-01-desktop.jpg",
+      "sha256": "9bbae94e5c944155e5fedc34efbf0795cd845b50e0eb2066d3c7181a8c07a171"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-01-mobile.jpg",
+      "sha256": "771ebf4854f0765f84f194f576227ac942d31c9e783010cbc55f5caa770131a0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-02-desktop.jpg",
+      "sha256": "152e9bd65b2aebbef43ffa1ebd524f9108d83bf63c633057efd03da7ec351a55"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-02-mobile.jpg",
+      "sha256": "f2c63eef2f506c163ea2b58c379ee544d6bcd8356c4e90255dce87ae87a135c5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-03-desktop.jpg",
+      "sha256": "a5cd6d50f855826e47b2741fa439136f4b8d223590a406b0a4193072128cbf91"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-03-mobile.jpg",
+      "sha256": "53847f3784d4f2239fbcb8ee65d398abd40b733ab87207d7dd2c0d6c7d3d9671"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-04-desktop.jpg",
+      "sha256": "3e65f831f0ad3e5f01f7631f9c3dde95d259ce8c090ae25983dee1dc1b1a68c8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-04-mobile.jpg",
+      "sha256": "1a72b578e32711f44c8efd9353fda1599be23a11dc290c53a5a33e95864276d3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-05-desktop.jpg",
+      "sha256": "3211a75ae327c0772ed91af370a4bd2a9ca3263cefce79a87c830bd5c0ce7b44"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-05-mobile.jpg",
+      "sha256": "79d2187675bf0129422e21103efca116758756f30b2e4ac811f552470cb9970d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-06-desktop.jpg",
+      "sha256": "72f96cec29ab7cf0d587eaaad43127513b94b6cdec94337e67d6f4f8eef04a73"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-06-mobile.jpg",
+      "sha256": "ac59b43a068ef78031588932898633afbfb23b0eaf12db8bd12e7f6f15d9744f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-07-desktop.jpg",
+      "sha256": "14a9ef789e7abe661552349dc6f16fcec253c9326f508b0125a5a59e0cd7bef8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-07-mobile.jpg",
+      "sha256": "6bd4ba215c56038e7d1d46c68d25897bb5d7ed16c707035db3460016a0b73295"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-08-desktop.jpg",
+      "sha256": "cb5797312751e5f0b248568def4a81bd4f87bec5c0ab1e22b300543033705805"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-08-mobile.jpg",
+      "sha256": "3ea03497deafe53fb516777597fc287715c5f6c025460bd04ed43f113dab0a50"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-09-desktop.jpg",
+      "sha256": "a79b177d7fa8445582fabff9b45c4516cb008bbb93a2ec5e26a88dab16dab29c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-09-mobile.jpg",
+      "sha256": "502fcab58550638029da816cf4cdce1fbd9ba1d28d754098e30dcebc21afd0e6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-10-desktop.jpg",
+      "sha256": "58226fb403b2f7284d771f3c58a9aa43208356452ac3fa754bcc4a25b56f0a29"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-10-mobile.jpg",
+      "sha256": "44174e91aef52e6f00243ee404ee388f355f91baf387ee9955d6c4f3fa9a4e68"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-11-desktop.jpg",
+      "sha256": "8fd1b7817c8e1ad36b2d94b7504133cef8094e685c5764edc9c208f10ff8befa"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-11-mobile.jpg",
+      "sha256": "1f10773a4abd5e23b519aa76a1c6aebd558aa9e5394bc0048d7ab3d9e10e502e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-12-desktop.jpg",
+      "sha256": "dafd7b90992d00376cee7190f6ceea3e5d84b74fde99b38e20c4ff3d1458639c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-12-mobile.jpg",
+      "sha256": "23ee37c3357742ce1da3c24959956bd32363616c636632ca8fd96a008e466f75"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-13-desktop.jpg",
+      "sha256": "3f64ce511402c8eedf65cda0df8acc06c36b42465bc59f97ee638b32a2e06d35"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-13-mobile.jpg",
+      "sha256": "eb7cdc1a8efe07d3c0be76a74069873bd4cc0e91b3d2a92f9bdec93bd3d9d8e4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-form-desktop.jpg",
+      "sha256": "e6f101a18657b0435fa09b0ad3e747ac8dff735a53f2b26663f66fc8f13c56c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/kedry-form-mobile.jpg",
+      "sha256": "7e0ea0b86f859a404a9fe5661fc5cc14a1c81b9dcc6b746c584e7448701d5d9e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-01-desktop.jpg",
+      "sha256": "c75f7dc741a5c556abf2ff9d4e9a9142f582b02d69b576b966c86d4b65613772"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-01-mobile.jpg",
+      "sha256": "8418411f085129d4220b5e614c8292b654bf06f19577fadfee54c7e575fa3e3f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-02-desktop.jpg",
+      "sha256": "e9304d894682bca340c3ce6c0c8833724b42760807c1b2022a3db9b7e5d49cba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-02-mobile.jpg",
+      "sha256": "4266beabaeec4bfdb625435b3a0680a96e27b186860cd50ef7c45876d4dcd0a3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-03-desktop.jpg",
+      "sha256": "9e35696b096981a478e0b014e79cb95a2329a928355b1fa5173151e4cd330132"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-03-mobile.jpg",
+      "sha256": "c0fb965267a755cd76e44ba15a17a01c3e53c68c55391e03185effcaabb41ee7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-04-desktop.jpg",
+      "sha256": "968027873203077345b528e938770f62537669eb76b3afb077fd632e16bc2108"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-04-mobile.jpg",
+      "sha256": "8e7b4f739803006c40c0c1caf998baa33b741e9ee3da6274640c0b06ca2f8ac3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-05-desktop.jpg",
+      "sha256": "a75456a1fa0973fc289501efc5c24ad7a289279ba35dfcd17910234abce4f2b5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-05-mobile.jpg",
+      "sha256": "bdee90186339b549dde54ce41175764e2725aa9590bbc4aa2417c89efac27bd2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-06-desktop.jpg",
+      "sha256": "94d53042d0d1d4acd004cd22324ab0fa762b1da12a8fda263fa5573c66352054"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-06-mobile.jpg",
+      "sha256": "9dee08c51853502ed8c7c07ec07f73c634e47c3a59c544e688640a3c4ff3bfdf"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-07-desktop.jpg",
+      "sha256": "e5838601b924413574736c47a929be8deb6e09af7da81cf66b8a2c39bceb77d8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-07-mobile.jpg",
+      "sha256": "3571cb41827915ebfb27b98ddc36c0345be626f7eaf5a3910322a52c82bfc218"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-08-desktop.jpg",
+      "sha256": "3cf34e5caff769d8f4980d11f4623606e05c96127e9631ece5e516f35aa2d4f5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-08-mobile.jpg",
+      "sha256": "836b3eb0b5b7aaa60222efb7e1dd112a9869e766e05a42209eea6776424c6ce4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-09-desktop.jpg",
+      "sha256": "c5df041aeeb746a8a2373e29fa24997b8443a3fe97e65f480593ad6b7036e559"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-09-mobile.jpg",
+      "sha256": "ca25a2a60f1b303f5f02b3a327d6be8c1e0af1cb39971c88548f6aa47cb063f4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-10-desktop.jpg",
+      "sha256": "38b0869b017835b4e962accb5317fe8fe4c42c33f4acea6a52307acf21667ac0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-10-mobile.jpg",
+      "sha256": "e32cf3e1636c63c7ea3b27fdfa261661ff59011e899725a451cd14d2ba6b77fa"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-11-desktop.jpg",
+      "sha256": "f4db1b3a7c18df0ee40f51eb33720ad8bff03659026d2ff81d3ff23f65c75b25"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-11-mobile.jpg",
+      "sha256": "bd74eb96e66287e206d9c2105e29741439fbc937c5479d3a3d8c4b9009093283"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-12-desktop.jpg",
+      "sha256": "fd852c1a2b2c0547ce10cdf6662773755d56e8be500e4aa5285f09557cbdc363"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-12-mobile.jpg",
+      "sha256": "0d56e7e13c66d73a736ac27ac5a1fe524166793b4415eb679d9623707b4c316b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-13-desktop.jpg",
+      "sha256": "2b0bc4b230a77669d2d540d590ec2ff8d39c266730ce68e73212211be5c62157"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-13-mobile.jpg",
+      "sha256": "30c70a8e9248f54c6a2615ad865117fd68e2e242e2bbb46f27d793d287d82b68"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-14-desktop.jpg",
+      "sha256": "abdad06431b15acb01b7134dfece535de68bd9bfc7d5d33e81184a12b01f2231"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-14-mobile.jpg",
+      "sha256": "b48ae9d96b8156ca4f57bfa48f1e608ede353081321d57a119c35913bcac38f0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-15-desktop.jpg",
+      "sha256": "7b6cfec46c93650f5cc977410cc19333e9b4bfd332fc9e0ccacf8549b5d5dac6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-15-mobile.jpg",
+      "sha256": "cab505d1415ec46310f7333203fc387c312c890e8e2e642e0ca5735ce91b9add"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-16-desktop.jpg",
+      "sha256": "05dd80981d1cca1fbb862cb72c70d99376a8ddd5299ce6560281c4152ecf213b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-16-mobile.jpg",
+      "sha256": "6ee4722ff7e3c69bebc7675e2b3428062fa73d90dd09d80ac7dc9d8a06ccb022"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-form-desktop.jpg",
+      "sha256": "de1f536709fbce865a29920273535fc8cc7bb9e7ae842394ccc38d92d89416dc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/medvezhiy-form-mobile.jpg",
+      "sha256": "3fb86ff4de1f742490a9010f977488beaf1f1bef2d0ce0e068f5825d8a4c29eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/prototype-header-desktop.jpg",
+      "sha256": "8459d3ab545bda9f38e5fd3a6783e335928789ff295a14c7ac49630645d0a152"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/prototype-header-mobile.jpg",
+      "sha256": "1b00191ac01bd296d97176e02ffe0005252f813484fc1eb192240e119d878851"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-01-desktop.jpg",
+      "sha256": "1c0fc8097ad2625288de0fe3357937380bf876eec7c0109e66c08cbb94b98100"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-01-mobile.jpg",
+      "sha256": "dfa251c24b59074b6b79fd1615dd5cb3b2845e1cf78a8109b79875f76d397591"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-02-desktop.jpg",
+      "sha256": "a7d6cb6f0ef8da1e25711cec63db139c601306c14b999fad5e0af0e72b518121"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-02-mobile.jpg",
+      "sha256": "2f786d32f0bb32893a87bb2520d66494ce1acdf2a2ce654a2316b340186893a7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-03-desktop.jpg",
+      "sha256": "5369ee958902b9102f0417935e618d5cbf596465520eada39befa7a6335ba5e8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-03-mobile.jpg",
+      "sha256": "f43482b85a3c01e4011da2c3f6b3eda361d47a766c131bc742807a2f80920bf6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-04-desktop.jpg",
+      "sha256": "5fcc32e69400405b34635e6385c7aa2d80bc55fc44b995c5df88da736431e0f6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-04-mobile.jpg",
+      "sha256": "f06584488c61e516d7477e0981065f5aea3d90f8fe2842632a18fcfeed983fc5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-05-desktop.jpg",
+      "sha256": "00d88fbaf187382f787324ede07efa5a1af002e474b2cbb7c92570cc44f0e556"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-05-mobile.jpg",
+      "sha256": "2b8b5465c28cb56fe0085e786001666bbbea7027c9145614afc1ee660578701f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-06-desktop.jpg",
+      "sha256": "3683d91a23632911b9830d8c282015ce8b6c91c2c5e4d3345b3423ccc09c2799"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-06-mobile.jpg",
+      "sha256": "948c974e4332b8c71f6a5083eed2c08f93c3ecdcad6266ea3d3095eafd129a5e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-07-desktop.jpg",
+      "sha256": "f210473310262ddaf435fd99d12b369e15c0bb9ddc38ac42f58b6e8bd8927312"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-07-mobile.jpg",
+      "sha256": "ee40d5c928d97eb2f94616dabffb0e59454325194e965f25bd2f76aadfed1515"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-08-desktop.jpg",
+      "sha256": "884cb058c1bf7d012104c79339e4509fb6f2a2d931e7b1b3c89fa6b972f1393e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-08-mobile.jpg",
+      "sha256": "87e3c64ae5851cf77d54089effbe2b5bfd7a0a73b49dd8efc7982f194ae78e1c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-09-desktop.jpg",
+      "sha256": "9fa69518515b4d6662a70f9aa1960dcce9de5dac4aaaaa252afa13c8ffe6258f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-09-mobile.jpg",
+      "sha256": "428ce87428e78b8368c09ea3cd87fe0845e3f52a8533aeef0ed33cadc83f07ac"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-10-desktop.jpg",
+      "sha256": "232eb3857a3ef379e00fe98626ac76fcbf54f4f7e3439300a3e8ff3a79884fae"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-10-mobile.jpg",
+      "sha256": "e6cd97139f33ced1ba2e7106419382cb40c80a394958ee156b41efaa05b57e58"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-11-desktop.jpg",
+      "sha256": "3ab22cc758eb53808b8748a62bf090f6ff1709bf0e8cae5d7fa158bdffab96c1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-11-mobile-1.jpg",
+      "sha256": "ff4d33ea80b4f88c7d5db6823adbbbcfa61a714ddedd9720e7bfa8d0fb189e1b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-11-mobile-2.jpg",
+      "sha256": "69219366257cd1b8fa2ad0e5517bc9a23dc21597936ea23c4af5774a9d768ea2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-12-desktop.jpg",
+      "sha256": "10a4900126cfef50ce68fabba25af3782e41f38e1799ee75f69b49384b5f0b03"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-12-mobile.jpg",
+      "sha256": "395b9a2ced2285a88aa2adef983b05a7b06a5324544bb3e68f43395778818d75"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-13-desktop.jpg",
+      "sha256": "30ed2f67c9b371c4c0e23c5cc68601880e4a647e4809417c346cc29b9c0574c4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-13-mobile.jpg",
+      "sha256": "9070524d3b9958e6e449e440f669110aed74c0a1aa08e3c71696f82a99bac901"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-14-desktop.jpg",
+      "sha256": "4cc45e94c598a94dbbafeeeb6090bf5ad6c350af34d6687f16b769ec42a3c247"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-14-mobile.jpg",
+      "sha256": "a144f54df770a64697570101a6df52ab95f4b1ef93f82476ea3b2a75cfff3a43"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-15-desktop.jpg",
+      "sha256": "d8444ca194f6ff6ace129cd25e0a2078e77c61385a7c4b7eb0d235a9ba20479b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-15-mobile.jpg",
+      "sha256": "1f3d0ce12833ece32b846ee6626b304668cef7a8969226f4a7feed4fc020e334"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-16-desktop.jpg",
+      "sha256": "0090d5526e1c26f8b64d71b112829943926a20a2bfd63faa04de53c83c188e5d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-16-mobile.jpg",
+      "sha256": "087ffb8b3280d734e5076018fdc64d6da5e598ade191de75218cdf9300685d35"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-17-desktop.jpg",
+      "sha256": "06ac7c27b09716aa6e615f572b5b4ce344cbe679e348c3f231f232e9aba03d4f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-17-mobile.jpg",
+      "sha256": "282ead38ae138b8710e15dc44bb4a885bbd102a4f9e50554ee0757444fa9f184"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-18-desktop.jpg",
+      "sha256": "224f36aabdce5c6d9a7fe61248e096768db5d2b0a5aa87912525b59b91f6a4a2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-18-mobile.jpg",
+      "sha256": "dabc2064336ed3063cb5288734e719a6f4b6cffe473a6d31f9831f8326e86ecf"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-19-desktop.jpg",
+      "sha256": "eb3eaa529c9de1f0caa25af723c20795524db8b68ab0a82f9f39f2a1c733d7f6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-19-mobile.jpg",
+      "sha256": "5a48416828d7bef4e9df199ac2232ef97e1af3301b5723fbf93b9bce447fe653"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-form-desktop.jpg",
+      "sha256": "7c5c83e0bad7c53d9e2b3160159f70b94b73cbb12c0943a2f7a390651456c6a0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/radient-form-mobile.jpg",
+      "sha256": "84d29f5417fc39c5f145f3f3d57c02827615949cf666bc4fbaab06ff5fa1bfaf"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-collection-desktop.jpg",
+      "sha256": "1d1dec1ff219f2602a4bb57a4f867a6e081fb4369a7bcb3ce2f14c66a9ea0b3d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-collection-mobile.jpg",
+      "sha256": "7d791d0cb9c1e8f8eac5e90f47656d8b70c6eecf05a7d78688ce6b0a00f6b66f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-directory-desktop.jpg",
+      "sha256": "12abeacb6ca72f25faabf4a43ca9fab62ecd7d2c299217ae0eb2beb1108e82c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-directory-mobile.jpg",
+      "sha256": "558d2e7d0fee2ab0c91d2b9ae000e3adb1e4da1a99cb54213f420f6f7eb79337"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-feature-desktop.jpg",
+      "sha256": "6854ea1f4d61fbd883d0d4ca95d6a131e69c6669e3d4ce1339a87012adc1a9c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-feature-mobile.jpg",
+      "sha256": "6dbc77ffa1e9029a74af46b7c213b4de8704d2d13b67c2b65575bc04d764b166"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-forest-desktop.jpg",
+      "sha256": "96238ced6a9614256a3f74c91553a30771cbb65f5666a74db99b11a31c031994"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/related-forest-mobile.jpg",
+      "sha256": "78d2cc06224304cd89beab58ddd7ac806714bafc9c5f238c6db179982e1c18c0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-01-desktop.jpg",
+      "sha256": "de2138c2d50c6ec601e19381430d355c3924f5e05db7e9eb067681ac2e869f4c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-01-mobile.jpg",
+      "sha256": "80a697b0a75db5462584bec79ebfe7770f4a8240d799ee08452d15bd782ed975"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-02-desktop.jpg",
+      "sha256": "b2f0ac7fdefba62d42c96029beffb3470ed01ac87f5102cf5ef97daeaaeb5583"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-02-mobile.jpg",
+      "sha256": "4bb2a8b947530f48fcdcd0dc8eca73770753068dbed2ce3531f35c7c13010495"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-03-desktop.jpg",
+      "sha256": "43878f358f5d1e3336963a536e442c8fb8ce3dac21dde99f52f3ebc83343e465"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-03-mobile.jpg",
+      "sha256": "a44062c9e1cc08464f9b145e04b47bc68988b8212512c4a110b1b908c7bfd453"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-04-desktop.jpg",
+      "sha256": "53cd4426a7c167b76f88c6606b6d3bfbd453770249ebd5bb8cda19b4e362d9d6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-04-mobile.jpg",
+      "sha256": "1ce94c82ad859124f8106d6b02c1ccd2ca24b60d1f17290bded0688cf281bccf"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-05-desktop.jpg",
+      "sha256": "cc31912692ef0ef3cd25dc47c37555684af2e8e7ef0b0ac881f0187d39d5e567"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-05-mobile.jpg",
+      "sha256": "88d93e77c973f6b54215fe25ec5378bc50cc528f88555f383adfc2f919157817"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-06-desktop.jpg",
+      "sha256": "7a6db7a92e9f48504f638e7837db27949f064570fa8ec5ab8a216969ca2f1d22"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-06-mobile.jpg",
+      "sha256": "7789bb595a2fd9e438649c581b7828eb2778637090fd542e3a83e923e2466888"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-07-desktop.jpg",
+      "sha256": "0e391047ed6db7f3affae3feae0e8749bd6467f9a3100212fd63372bc5ed3b7a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-07-mobile.jpg",
+      "sha256": "3f0164e79919f566685052b51ef44b20baae5179d08a74b5f516a282622c4d58"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-08-desktop.jpg",
+      "sha256": "4b45dd4152721d7bbe797f28360a7cc3b7cdf289c65200a876b8f320340a4d0f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-08-mobile.jpg",
+      "sha256": "644220b8c042d203cc67040581f8c136e17904908b9f3772577f7a3d343b9e27"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-09-desktop.jpg",
+      "sha256": "c1e5d0d502f95c33d0ac51f8df7d8785d9f1deb7734fbfafadddc53565ed3539"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-09-mobile.jpg",
+      "sha256": "4335f79426b09d0854cf59d7b13a3de2080b18a41d4a0c8f80a95eea5b110e54"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-10-desktop.jpg",
+      "sha256": "04d4bc15661fa3e826d6c53c8fd75724fc19f69d8d55ec64d45035f84381b2b9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-10-mobile.jpg",
+      "sha256": "a2959ba68c5ea553d2eee38210e349e4c5950987fad8d3102694f523e24e0078"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-11-desktop.jpg",
+      "sha256": "ff7862e3d600f8f776b9b06bcc485a868b973545d321ac58a521b8ef420c9a7c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-11-mobile.jpg",
+      "sha256": "8488b7db947ac4d843b1b9de1d6fcf99749507f4faca3dcf19a937f9b1f22561"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-12-desktop.jpg",
+      "sha256": "5bfc9b7fd346f162e258e6d7ec5de2611d2b65d47835ce230f6f9b9848406f77"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-12-mobile.jpg",
+      "sha256": "4eba4bed4ff617aec24ac3b01bb3080156db0c4348fdae759b1203517e97f663"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-13-desktop.jpg",
+      "sha256": "1d1439c6fc26518ddeb76ed27cea09faadfbe1e6c471b09de1334d0585187ca1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-13-mobile.jpg",
+      "sha256": "186e03aa96e31ee67b6add7c3dccba3ac0497957f4d5cdc7ffe0c7be361efe10"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-14-desktop.jpg",
+      "sha256": "2ff2fa35a6e462e4fea0f001ba2b3406baa7995fb28921d97f3353ccb67a8947"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-14-mobile.jpg",
+      "sha256": "2dba59dc33f9cfa8c57eac6fd3c55d98bc98a525dabbf5083088825919bf408a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-15-desktop.jpg",
+      "sha256": "d747e0659777753cdc5ebd248ab02259f2298de0d7021d7ece4c01a3993d576d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-15-mobile.jpg",
+      "sha256": "5a210f0aaea20a9f7236919dd2fcab564895d11cc7b00561daa71b0ddc74a1e6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-16-desktop.jpg",
+      "sha256": "658e570a6a66bd28902b2f7745229ff0c3bb68a3875a74cc5c7405afc6b3e596"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-16-mobile.jpg",
+      "sha256": "932b4e1a49ff89811719e99ef5f7163530c11165872fc0a68a5147e8444afd53"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-17-desktop.jpg",
+      "sha256": "b923555e219ecd828da50d52d3a0c7fcb83382b1a69e180225aae21165688e62"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-17-mobile.jpg",
+      "sha256": "f7512790d42bffb163a8acd482198d6ed03124550daca605fcef56a037077985"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-18-desktop.jpg",
+      "sha256": "b2c2c7710833d8ac9b3e5c243c748a4d92f708043bed1d6910e0e0ce86e3042f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-18-mobile.jpg",
+      "sha256": "83d7809f4f5d86e373feae8a0235ebdbc3c81f73e4c523354005dee26d9aaec9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-form-desktop.jpg",
+      "sha256": "98b9f95d2c4c86cc2f7d02de9f851bda93070165dea0c8fc442a0e8fbf54aa55"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/rizalta-form-mobile.jpg",
+      "sha256": "08aa95df493ddcadf1ef87bc3782fcdf64da54029cb4251e704699154bb78d82"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-01-desktop.jpg",
+      "sha256": "9c4a50fc3ca7f51f5459d7b3dc09c2678b3a80caf6641261601c88c2b3ceda58"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-01-mobile.jpg",
+      "sha256": "b1536ca170f2e1af0fc09da119e5f1937c65eaa05ff221fc8a7cb1baec035657"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-02-desktop.jpg",
+      "sha256": "806bcbb5c0910ca7e5fac0edebf89337c67f84c79b35121e28a4c0743cb02312"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-02-mobile.jpg",
+      "sha256": "ceffbb26b6f53ab2b19b4c1d539376ee429b0bd734bb10bc1940c2f5d404b942"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-03-desktop.jpg",
+      "sha256": "db850e28853cd48cb4734130725696dfb80bb191c257928e19590f46c72af5b6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-03-mobile.jpg",
+      "sha256": "90a3f14462c9bb669d42364a676f076a005469cabee2966714bf9bd6b6292bb0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-04-desktop.jpg",
+      "sha256": "857815885c038ff0eb4e1747709034cf932d836ba230653240c4182b337f175f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-04-mobile.jpg",
+      "sha256": "966eff581916c4677a5aa22eaad9fe96157e8560fe2b02f2a30bf4ee5c84d823"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-05-desktop.jpg",
+      "sha256": "dded4b4a5e855861f7869278d3eee104dbbeada48dd8b429464331cae1c8e7c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-05-mobile.jpg",
+      "sha256": "1d5178f15030803becfbb31ce5799aa8f1a58e4d3d4a9e914d7d10819e70c1f3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-06-desktop.jpg",
+      "sha256": "971b5145d6050aee461fd35d97c909647966cec32a4ac83a4db0b575f204d505"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-06-mobile.jpg",
+      "sha256": "725337e423e83634e1c93d66734fd98caf728cfdbc4e0e2619a44337f8912b30"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-07-desktop.jpg",
+      "sha256": "76057f4d9faa74661716c63849f71974dda18d557628f4de9d5f0320fdd3e18a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-07-mobile.jpg",
+      "sha256": "1d74ab853b8d2bbd776a9e2dee5fb73eee51ca0034a6cdacc4f4667c0e3e95c8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-08-desktop.jpg",
+      "sha256": "afcaa488f5b66cb631aca2c2c739f792e062b7cb4da0d3166c1e0b7dd824b241"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-08-mobile.jpg",
+      "sha256": "4e27bd151ad5f49b0c19561358fe76dd706c2cf3ba390fcbc1995f1698e993f5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-09-desktop.jpg",
+      "sha256": "80773e616df1bfc28878644ce9c293c251b5f3ec34f1e244196c7a9f42e7d887"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-09-mobile.jpg",
+      "sha256": "14a4c2db2fc2dde000cff7394067e2d043d01b768e6f380ab31e41e71ef27e55"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-10-desktop.jpg",
+      "sha256": "9bb1bff6bf1867108121a70ab158136367a69c717db469f6bc971d712288e0b5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-10-mobile.jpg",
+      "sha256": "033b450c3e385cb7d2fbe0e7a23de138e434423fc8f29656515947128a04bbde"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-11-desktop.jpg",
+      "sha256": "08c870366c896d0944ded0dd9b25a5d22c7525bb02807b0798d92231b292eb1b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-11-mobile.jpg",
+      "sha256": "01dbaa6e41eacfa3b637ceeac451f6d738935794faa56044d977b130615ae234"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-12-desktop.jpg",
+      "sha256": "2dcd4be28de749f7a4db6cd609ddfbfd0d67108946c08e9c709abace386f6a7f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-12-mobile.jpg",
+      "sha256": "150eb1119733b539a7fd53c80d11b8def4cec4c73b8ea4a6ef0c9fb3b972f4c1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-13-desktop.jpg",
+      "sha256": "f3eee07f8488e66fd68ab51d29fe42ae74d5d44a31615041e6b4f8ec059f7048"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-13-mobile.jpg",
+      "sha256": "113d9ab9449456401d0a8a2c56b36e15ed8232d347ff7c86cc4fe9721d73ebc8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-14-desktop.jpg",
+      "sha256": "c8ea8f3dc59acb7750f05dbb0fd121a71a421b11f3d5e13403f233e99d8501bd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-14-mobile.jpg",
+      "sha256": "ec12039591bdfcfa7f160cd267ff06cab6b8aeba0191fa1ed984ef82a64deaba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-15-desktop.jpg",
+      "sha256": "635cd7428011c8ce98fd60c4b433f483ffc7c6e414e24db8b8189ed609c2d8c2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-15-mobile.jpg",
+      "sha256": "4bde42f865d146e6ff4e8d2ed14673c662bd1aace76df89d41b81b5eff4b562b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-form-desktop.jpg",
+      "sha256": "c3563f3b2f455d5f32d70dabeb50dfaeb9c0aea3c0d7a1985e544a7d3b2c2add"
+    },
+    {
+      "path": "docs/landing-builder/block-library/shots/zagore-form-mobile.jpg",
+      "sha256": "5fdcd99d25bfbb3114cb1002ab3674184bfc04969cec8e6113ad4769e7997993"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-01-desktop.jpg",
+      "sha256": "9d50ffba04fffd6fb869b2f5484ac4b83fe57ea9080bab0ad2a330de4bdb3d02"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-01-mobile.jpg",
+      "sha256": "35451f9afd888f8c09980a13b86d96bf07858319fcceeea983790a1b88c323cd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-02-desktop.jpg",
+      "sha256": "ee642a8aa8358208b8e542ae7026133da12ac99b263447826b9ae7aef39a4cf3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-02-mobile.jpg",
+      "sha256": "af23f49cd34d140571885118f4f7b6508f1a9d788bee89fb2bd3d492697ffb24"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-03-desktop.jpg",
+      "sha256": "883512bbcfe7c154614736c802995883d03a7e365ab7d265fa86a099a620a0e3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-03-mobile.jpg",
+      "sha256": "092d2a9c2df17293f9dffbb7b20b5501fbd530075de312662f1938a5544cf523"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-04-desktop.jpg",
+      "sha256": "bdec74ad3e49b3fe053a5bb1a3f43d3528b8d5addf053f3ec8820912d524ec78"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-04-mobile.jpg",
+      "sha256": "362d7966ba7ee07d79ab9c3407fca943d0df0aeb239fbde632fe9d39a06ed958"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-05-desktop.jpg",
+      "sha256": "b14ee37cb802a7ecac93792e7d9f4c38bba2f0f8e49c93610700cfaaffde84b4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-05-mobile.jpg",
+      "sha256": "add6b8d57d9eb900f47572882a6bc38047a087d26f69709c7e5dc421e9ad3c3a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-06-desktop.jpg",
+      "sha256": "6fd7e07062cab170c0c180dc67cdf4e86b0d3a60b22c680003f683cba45cce9f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-06-mobile.jpg",
+      "sha256": "a6df22c873c5b41b0ecbb67001abc7610ef8842a4f32338db8038961fdf25f0c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-07-desktop.jpg",
+      "sha256": "a53aac6345df38871e2b77a48e1f1fc0aec8ef6105b6517f670419445066a5da"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-07-mobile.jpg",
+      "sha256": "69d61c1b7d48b22f5abe2e3d26be063ccaf0c643fdd48b7cd1402d2a34106934"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-08-desktop.jpg",
+      "sha256": "d4002cdaafc6ae773bf90e688fb4106d4e487f6e90b91d03a3a60aecf10f3575"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-08-mobile.jpg",
+      "sha256": "2aed9cd1a6059aae836d4d30769c58dcb65fd2c14ce4ae57951b9c13b762a72a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-09-desktop.jpg",
+      "sha256": "c6b9da426652da00acb971ee913c2f6af30fb1c7986418439248d05abb59914d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-09-mobile.jpg",
+      "sha256": "56a23aa38a929b9fe382f7c928ad3057834fad539823640898bc72457d9d117c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-10-desktop.jpg",
+      "sha256": "26648df94e20b48f11cc3cc0d67b2e788cb332999ce0de8bc4190c3eb19a4771"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-10-mobile.jpg",
+      "sha256": "5b4036b6f83ae58a213bc2cb26b276673aef14c7695e7f32ccf3371062288a38"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-11-desktop.jpg",
+      "sha256": "a5ea860e65bfbe0581eb04f2c4c3903312f266057e89f90a6ae88938c043a423"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-11-mobile.jpg",
+      "sha256": "f901632cd213ab3f2ba359760a93f9c433de2150c9845d3a66e16deb0cb9405d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-12-desktop.jpg",
+      "sha256": "bd20a4cbc65c5f75485e817e1e64970f76fdea306112ec12b3b93543f9b8b783"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-12-mobile.jpg",
+      "sha256": "b0d66151517b386196199d40e8b1506c4e24c600a11613104dd19e9e1540c104"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-13-desktop.jpg",
+      "sha256": "a70db0b978a1f2f4666d09ccd9bec7bd65b86c693b12ca2ed038727b6d1ba4f0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-13-mobile.jpg",
+      "sha256": "b0bd3afe0251802b1e132665a57f14be67c1c0e39a1ab24e748b76f75010ce72"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-14-desktop.jpg",
+      "sha256": "9ceb2f1367a5da450bab0983baf2b7d41a6f0ee4e5d1358b0dd8ed69247a6b0c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-14-mobile.jpg",
+      "sha256": "22c351a727cbed3f16f4aa01ac818836ad0e6670534a6b323666039af3096d5a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-15-desktop.jpg",
+      "sha256": "e180722478e456b29822cca11a9a2320389c41bcd5a607d663d3c1107793d027"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-15-mobile.jpg",
+      "sha256": "8a5679c0d20a7c057ba2061b9f01c7a5ac8db63cfe5002be156ae24b4e4735d4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-16-desktop.jpg",
+      "sha256": "6c3e80cba886d617a759ea1592a2b3a9982f00497d9534d43fdd976e55e1cb15"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/altai-16-mobile.jpg",
+      "sha256": "b2d66d7b73d84cced9dfe3493ad5d65fa81b8be0eeec523818c133046e7a83ec"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-01-desktop.jpg",
+      "sha256": "8d31bfaa994e48458f2df58c56c88e422ad084f68fe043a77b787f5b09512364"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-01-mobile.jpg",
+      "sha256": "e37e753cdbf9419c5d46775a8a0d668eb0f0d09d91dab281125171f25b662522"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-02-desktop.jpg",
+      "sha256": "afc4e81cec8cc6d6f86422b3aa58ea8c25d4669db43138cedb97aac662107b13"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-02-mobile.jpg",
+      "sha256": "240660384de44d0b3db0d9f8c266c97ff560540d967608c832b012ce0de5dc41"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-03-desktop.jpg",
+      "sha256": "76303860ad28b121e9aa00fd667a8f61bae9df763b4a36755940f4b7c95b0302"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-03-mobile.jpg",
+      "sha256": "df67f70e8c7090979d05e32699a3af21904295c6acb1cd1cd0a8c34927f90af5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-04-desktop.jpg",
+      "sha256": "8d1cda506e43e97cfd3ee6f3c8794eeb362f951cc409b61112e3ef90fab7c134"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-04-mobile.jpg",
+      "sha256": "a459ba3bb3ea1cc04f6eaa27ef09619ef4505ce82730fb0d3a49c25ab8cb2f39"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-05-desktop.jpg",
+      "sha256": "671407682341809adc7b439dff274bf129dfb7d47ff4d96292d77eeff926a682"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-05-mobile.jpg",
+      "sha256": "de2d4c1f08bf5de0cc5777e43793dd6ad5885afae5a8079ad8486915df0c2e22"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-06-desktop.jpg",
+      "sha256": "e8278064c544e71bb7d53ce965c4fd11106131b74ae30e17f706bbfcf23e7e64"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-06-mobile.jpg",
+      "sha256": "b77cc4eff45b53ddadc492c2e7a3c98c97d3868fa20cb46c33ad63be1ae8499c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-07-desktop.jpg",
+      "sha256": "c7be0ca0aa5b6607ce7239a4e1980682d3c83f19f89c5449905cb0d7961450b5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-07-mobile.jpg",
+      "sha256": "becd01a5db7f286c9020fb7bbffe35a2d1e4599fe65b9779f38e6fee4ff17f1d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-08-desktop.jpg",
+      "sha256": "2e4aaa3d780d46813352b8580bfdce91fb63105708f08f294cc0eb2db77956f4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-08-mobile.jpg",
+      "sha256": "bfa529b0699a222df42b2a1c77ff04a210097e7802aaba14834318d2eea56023"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-09-desktop.jpg",
+      "sha256": "347505624e4a193fee8f63fecf9ac61c960120fe75c4d053417206f4d81e05ab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-09-mobile.jpg",
+      "sha256": "aa2f15ab20e2574ae9cda0dfdc7a3f764b2ccfbd3f24180b0101e64a873e8c70"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-10-desktop.jpg",
+      "sha256": "77e9025e6d283be0df2b0628e7567e039ca571d60449b63bc45e0783d9b38953"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-10-mobile.jpg",
+      "sha256": "5aa8e4dca039ac61489c2d32a7d1d49a17ef9dce8263aa6096db31f46f23fbe8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-11-desktop.jpg",
+      "sha256": "1b7417c204ed07f56399b5e3109a20e8e7c5b859081fc6057baec22336afa104"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-11-mobile.jpg",
+      "sha256": "fcf1007f0911d58eed6da596b0ab4c7f6aad32dfa4c48074855731e9e779dfe2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-12-desktop.jpg",
+      "sha256": "7df7c35c1ffe804f98129e169a1519237d43fe5e1556f16c7e5f6e3f3c1e0a57"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-12-mobile.jpg",
+      "sha256": "f8a9f77249301e0e6d7137be6ba6a798d5f42f77700cba922f95246bf82871cd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-13-desktop.jpg",
+      "sha256": "3c581568caadaf27e8abe7f6e9cfd64eaaeca808464ff13a83d7ba7ebff59bec"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-13-mobile.jpg",
+      "sha256": "8f6976d477154b466d64bc855c8c2de53c7e189510b90333128869380fbcdf62"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-14-desktop.jpg",
+      "sha256": "c80b1874a3d7a71280b9ca77eea19ef61adace51547367bafcba78dc8fb8b8d0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-14-mobile.jpg",
+      "sha256": "7ea5c2ad025728817277c0b7fe4f044f1da33fe155afafa43d9cbc9cc7f184a8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-15-desktop.jpg",
+      "sha256": "3f2c7d61099e39db5628d520314617812430ad882b1dc26a70a3a051dd43b33c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-15-mobile.jpg",
+      "sha256": "13139e539500b3ec4babba0842af4963b1d75b492006f68764e0c121f12d18a0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-16-desktop.jpg",
+      "sha256": "9034110c6befcab30534622db4241f3fc56cf20b54c0a084f07292209f02ea7d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-16-mobile.jpg",
+      "sha256": "8efa36b68819a7d32c1c84b603e0264cf19b423ccec60952c9347f660a829629"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-17-desktop.jpg",
+      "sha256": "978aeda476dbb48bb361deb3e12ea0c6d6b9d2bc150ab44a676e49dd5bef334b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-17-mobile.jpg",
+      "sha256": "2d3aeb6a099f3ff2b42c127c356ed53fd392202e196b6002989dc62c8cd105f0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-form-desktop.jpg",
+      "sha256": "31fea10a67d98270a35d1b1e5316178f4b2467c849a6c0c81fadc28af2d85c18"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/belogorye-form-mobile.jpg",
+      "sha256": "587df4676f1e2d714ca737738552dae8b4b864edddace7d5665e20f8f7aa5134"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-01-desktop.jpg",
+      "sha256": "8b137493e894593d9856c493e056f6ac1f45a61fbeea1e50a46def5902c3c9a6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-01-mobile.jpg",
+      "sha256": "95c513778eb477f8ace2a3e3961fa3cf6c918e1f627de8da81fe1b0f6270134d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-02-desktop.jpg",
+      "sha256": "591334e0e3b977d97a18c93ba061a07006caab2172cb85e0d8bf2ebee72f35f9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-02-mobile.jpg",
+      "sha256": "29296217419ab7b26ab16821fbd90de2fd6d40ba897793d3fd7329717dab6d08"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-03-desktop.jpg",
+      "sha256": "579fcb0b40fda2739c621db443f8a39e57f78b56005b71eed95d7e5a373ecb05"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-03-mobile.jpg",
+      "sha256": "74c7c06df936c58e84344d0321371484a98c046f2c54e48359a6e115cd342c8f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-04-desktop.jpg",
+      "sha256": "a40877bb2854afa2a8ea62cb654ddc9f935c871fb0830f8505cc526076938596"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-04-mobile.jpg",
+      "sha256": "8fe8d9fd1b0b5d41e8f691409413ca1bf4f47dd0ce8369eb1878d5933f4a4e9d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-05-desktop.jpg",
+      "sha256": "06b66ebff4d357302149bc93723c5d32a0b3598f0c1c4c2907b0b151c06bc2c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-05-mobile.jpg",
+      "sha256": "90f62a0de9133700195fd3f6d6a9e588f9f89e3c8bd30dc0712f8c5ceb87235a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-06-desktop.jpg",
+      "sha256": "81b51cba8b2b63c93166ac22e10e0d566fafc4f2e5e470314dedbbea4986ecf8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-06-mobile.jpg",
+      "sha256": "5eb75cd609a292d15d1e850ea55a1be972726177da9e04180e76c6cb85a06db4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-07-desktop.jpg",
+      "sha256": "70a6d2d64ec09a1aa8c4c239fd0574e0e69ba6ed3f623657190aebb32b52d694"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-07-mobile.jpg",
+      "sha256": "f397353aee870095ac39aab2785f4b8cd4c9285214927182fcf591a782722046"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-08-desktop.jpg",
+      "sha256": "36eb2651e5bd090e498d4c4124be4e87d5dc601a268ad08c606c3ff65cf38113"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-09-desktop.jpg",
+      "sha256": "f8b48cb7e27a57730e0a10407b3ee140f401d60aa3fc86d0cd5778798e9ffd0f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-09-mobile.jpg",
+      "sha256": "4988994ba8973dfd1c12d0691a58146835b7bf001b34511eea7476d742b4fe70"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-10-desktop.jpg",
+      "sha256": "f312d0a3607c3cbedff956f9d1c4c35d8ef3ce054e951044401c8dee3e935403"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-10-mobile.jpg",
+      "sha256": "0243aca8386650c78aecee2d5a35596fee396c76b70612082578a6e00283b780"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-11-desktop.jpg",
+      "sha256": "4f039ec6821f7c721aadf8c8335c9d3c7f826419dc3581713e8a6b7ab00b6e67"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-11-mobile.jpg",
+      "sha256": "1e9888872d6aed85259a986925e3180dd8fcdb2ad6ef78134ff72f0a5b42df4e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-12-desktop.jpg",
+      "sha256": "abb1815a800b32cd137022efa1c915e27c3bfa7df5bd85c24fe4734a3a0becf9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-12-mobile.jpg",
+      "sha256": "61e68c669713deb9a6df4d68bc1b8aa72d321cc9f035e11b1eda2eb41d772fab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-13-desktop.jpg",
+      "sha256": "b4f6614a8b762e02a5933fb9994a90d6310859ec12aedea65b36711fa2bcd809"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-13-mobile.jpg",
+      "sha256": "5cc885cde2e99916f42971ea11ab28fd38130d95dd0d24396f6e062c992503a0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-14-desktop.jpg",
+      "sha256": "e5cebdc74904bdfe9172d3ca870e7b7131d2fe7e284ee49a6f197acdb348d0b0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-14-mobile.jpg",
+      "sha256": "f4982c18679523cdd15b543253ae1a51b3cd940cf09617086ae33b886e1935ba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-15-desktop.jpg",
+      "sha256": "a8e0edad58c4215ebceee8d662a6ed7f4a40eac3a3a41d194c2d94134997eb4b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-15-mobile.jpg",
+      "sha256": "7f9e7c5c2f3a6e75b38bea0b65562be4007282178167aacc178793f4d941c13c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-16-desktop.jpg",
+      "sha256": "6b247bff1fa2994f8cb513ba2ff0d4566490e2920f94709a88ced089f304c278"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-16-mobile.jpg",
+      "sha256": "20ed4b1189658c2e462f5eb41a7d40bd2b7eaa93864b90439145f1e247f419eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-form-desktop.jpg",
+      "sha256": "a85e292d12a5917c12bf6dfae325a569e66a43e58e567c0b1ca4c1a6cbc154c9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/grusheviy-form-mobile.jpg",
+      "sha256": "6596fc98cf86190975d0ba28b79c69c591567d570594f2a9512318063676d368"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-01-desktop.jpg",
+      "sha256": "052925cbff9ef451432a5fc488a302be160111388ccca1828f648fde8e6c583f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-01-mobile.jpg",
+      "sha256": "5bcdf2f0d6ea5bce481287121429f8a1fa25556117f8c6368446a11bd9351def"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-02-desktop.jpg",
+      "sha256": "9a51cea9322df54bfe88564408590fb0fe67b5080355fd92a7c67197a46dd1b4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-02-mobile.jpg",
+      "sha256": "a1cf857435b3cb9207a139a5d7682e124550a6a571b244b8de6cc52567c3d7f9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-03-desktop.jpg",
+      "sha256": "6e5849e7c3f8374e1c67a230532828d798bac5b43ef972ef1bcd5e3dd6adebab"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-03-mobile.jpg",
+      "sha256": "8116e825861f3b2d4c13c0ffde7a60c303b141bdcc174255d0f7246556973a1a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-04-desktop.jpg",
+      "sha256": "40769b9170411cf12cce7bdf26b418995156b47552eea84410f3a7816344e68b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-04-mobile.jpg",
+      "sha256": "a5ece779db67935c15eecf768ba60ca73fff3ed0143b14a02acb658b1eb16b13"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-05-desktop.jpg",
+      "sha256": "5abc1cd459d70e50dc65a47aa6d4845032539c4a394b2135d504fcb74fb67308"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-05-mobile.jpg",
+      "sha256": "bdc6670f811d0b4179bf16a40aa4f3fac3f0cbe0d51a16562e1ba57388419f2b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-06-desktop.jpg",
+      "sha256": "f462674b7d4bbdda1aff91bf6a14e1c6c3891f94a78e72d54ad410362749e914"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-06-mobile.jpg",
+      "sha256": "9ec390e312cc652addbd5544d2139808603ba878e46eb6c4ebed50658d24b490"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-07-desktop.jpg",
+      "sha256": "e454a7188f01ce284c2ef90b9dd4f718cd6091ff8d7f50c0e45ee18c18749149"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-07-mobile.jpg",
+      "sha256": "494fced36d61a8d55b097ae85da6d1a22ca0fc96bfade3ce740ed9a51cc86870"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-08-desktop.jpg",
+      "sha256": "fb6e8ec986723e027ab7f135b1a4509a6b4b30d4cb5d519781c25c25a8ed015f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-08-mobile.jpg",
+      "sha256": "a529f44b6aa5d034ee95f0ffa83f062ee2dc84f3f947c78662646afa9177e653"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-09-desktop.jpg",
+      "sha256": "829cb1040cfd1896906a3f9cfe6ebb171f8b035b2ee1396bd682d5bcc46cd2eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-09-mobile.jpg",
+      "sha256": "7159fe8a8d6a1e0405281fc2570df86e0cba67fe42a5c211936d1a4043092841"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-10-desktop.jpg",
+      "sha256": "aac6fb1549b5c139996e62a9d0348fffdab9057014ea2ec454ce84826fab70cd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-10-mobile.jpg",
+      "sha256": "de807f34a70090c836140befae4679994b9e8c1959d18eb5447c3a41060690ed"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-11-desktop.jpg",
+      "sha256": "c22da1c1543daa92073c486f89e03d956f404200760ed5a84b1c17314e5c10a4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-11-mobile.jpg",
+      "sha256": "aa158f365af24e308170b4f7d791f7b459b6ab8da7324aa0fce2f5f6453bfb78"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-12-desktop.jpg",
+      "sha256": "a684470ab7f2c067791386d67777da0b711a97e1d75bdc23786f8053d3f4a02a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-12-mobile.jpg",
+      "sha256": "4d6044f1f506f10feeb23550aec471ea4eeedbc7167674039795d6e600eff424"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-13-desktop.jpg",
+      "sha256": "c50a0e952d30baf4cce8b51bb1bc2cf9d3f30ba102bf67f9b8bafd8a9d265529"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-13-mobile.jpg",
+      "sha256": "bdbdd0849de44d9eeb04a7c6d0779707d1b11030db830cce8cf2435be25fd8d5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-14-desktop.jpg",
+      "sha256": "69cdb3552448374f65d95265acfc818ba8c7df7a1b72b8f4106259f4719635b8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-14-mobile.jpg",
+      "sha256": "d4ad5829907d82e6d003e349b021bef7b03a5e7872c78f976a95c2952929c707"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-15-desktop.jpg",
+      "sha256": "4cc8c584a266225e8993fb7321f811122b4282ebcaa5f782129596eb1ca7ddc5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-15-mobile.jpg",
+      "sha256": "a5d07ba091d0d19068849bfc00ca36b5b67ce9bb77cdde8df332d13011a0ad8e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-16-desktop.jpg",
+      "sha256": "72c81c655f79abf66f516484aeaa5844b191ccae6b268196e41dc8cbf5ae8492"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-16-mobile.jpg",
+      "sha256": "9ebf0491546b4b9adb2be199d61b13f47f2600dcd2611882db6c9a533f7f8351"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-17-desktop.jpg",
+      "sha256": "f474500102286a8ea30b1468c91ec23f93064a7e42a516a6266fd2b2e04e3e7c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-17-mobile.jpg",
+      "sha256": "c9b72153982dc8a05f13946ed0e49bfb97489b299f6dbb5880616b36273f1d9c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-18-desktop.jpg",
+      "sha256": "c4c5cab0cefa5dfcedc7ece78dd7e54b0b501faeeb19a36b53716cd3383bde7e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-18-mobile.jpg",
+      "sha256": "ae4688fc42652c5f23ee433eaf665669a551e6a2eb02ff11e78ea1e600338dfb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-form-desktop.jpg",
+      "sha256": "fa5031c9bda4e298beaee01636563b5ff5301af51981e124efd8c69aba2d1f7d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/karluu-form-mobile.jpg",
+      "sha256": "930bf3677d60d555d1cdd51e66251bb8a7b544fcb656358d7ceb5fd6a06ae461"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-01-desktop.jpg",
+      "sha256": "e074bd949701aa35e2586bc66f1bec2909c7d12b1cdac23a79198349924b8d1d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-01-mobile.jpg",
+      "sha256": "ea6c4575bbff8dcc96b5ac8aedca1f5a1b2513af4175a76eb63e61a54dd351ca"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-02-desktop.jpg",
+      "sha256": "dde46d26b73fb3bc9c3e1d3967c2e9dd2cde555144e99e722d1d90b6f77a200d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-02-mobile.jpg",
+      "sha256": "b5cb57840b28d8bb0657c27b4e16b1629e477c6902e26a1bbc00a549707fc33f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-03-desktop.jpg",
+      "sha256": "a5478150b4605fdc6d0de2e12da5a41054284491744dfafa44e58683c30fad54"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-03-mobile.jpg",
+      "sha256": "6b1effece5dbaffb7b8289ab2457bd526aa98d1524eaa59b0ee453ea811948d4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-04-desktop.jpg",
+      "sha256": "1d8111e9c950116fd571906d98f77fe46918de453003d19ec22fc2e2a77e1b22"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-04-mobile.jpg",
+      "sha256": "e20f945eb0014310a6582ab6fd4f8d2e9277864981fd5cc63e3ae9d78ef4242c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-05-desktop.jpg",
+      "sha256": "6e938015dd536765de695604735206f73628ceed1f49e4db386825cf0978e2ca"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-05-mobile.jpg",
+      "sha256": "aa81d8ed7c571fc3c9680ed1a11eba424b565100dbf5f42cdfc07ab384ac68e6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-06-desktop.jpg",
+      "sha256": "83e2befcbac031d3103f9271a80f276badc7d0c06f20f159b302b824be42588f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-06-mobile.jpg",
+      "sha256": "6cf811bc8f5a20971081ccfce6d1d707c4d8a9cc7cbb5ca9291e8be585bb0c84"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-07-desktop.jpg",
+      "sha256": "373d53436d0645a82982ae9da34a4800452e595d68533b099f049ad61dd850c4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-07-mobile.jpg",
+      "sha256": "e2453fbc62b636c827b31ab494972238dce741683f08d236c63ac1d6b4c4cc93"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-08-desktop.jpg",
+      "sha256": "2cd7f60cf4389d52d2dd2379437c12cc493398f4224a49848acba42814d5d26b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-08-mobile.jpg",
+      "sha256": "44c803629d99434b7ea45b10570503d9d6ed3dfa817c452250be0ff71b5a6e61"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-09-desktop.jpg",
+      "sha256": "4210e97bdcb4a2e7f0a3dc6eb1d82755cbaf0c76eb236ffe92be7ad9faa67b02"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-09-mobile.jpg",
+      "sha256": "ffa2e070090dbba399646ef4b7d74fe2044cfe49163a16d08255b00ef9feed46"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-10-desktop.jpg",
+      "sha256": "e5c4b2f267ecaef001215c57025a5c275b4fbf1a8a2ff8a67f780279cf5f1c89"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-10-mobile.jpg",
+      "sha256": "bda9fac34e4bf9c3314c821668d7612add2c41ddf4ae6ad7f0acfc43b105fcbb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-11-desktop.jpg",
+      "sha256": "a3a3308f81a8413eb84fafbb4fa4699cc96e6b14390cc037954d53c34e40fae8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-11-mobile.jpg",
+      "sha256": "e3e7507eeb383dd4bf30e013a97e802fc6086c515ab18e8accb852f038a40391"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-12-desktop.jpg",
+      "sha256": "d268d65046ee5c4bdbc8214503a1c399cd4c0894ced80fddb70f3e6b863746d1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-12-mobile.jpg",
+      "sha256": "c89e1949c54bbf352a8b6da334a4bb17166878ff40c50da1660a1c9119a7a8df"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-13-desktop.jpg",
+      "sha256": "88ec6c97115027556526a5351e985cc1da612eac075ce96c05c948306c1da7af"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-13-mobile.jpg",
+      "sha256": "ce60b9b9b0fb0c8e4563cc5854602fb5490e4555d3369a6f5fa21465e2f1f87d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-14-desktop.jpg",
+      "sha256": "95a6edff7260148e6c99e00eb71cd7743c17067699863217573def0df05aa660"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-14-mobile.jpg",
+      "sha256": "4455cec37ca106b0c8cb7cb0613b2d7397bb059bc14c57e2bb638c5d9e4a329f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-15-desktop.jpg",
+      "sha256": "b9a319e4c0a49b25f2cf1cc7be80bb21f325377ce029093aae375df0da6de362"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-15-mobile.jpg",
+      "sha256": "c3a3ee9cbe1d0da56351f30639bb8af13dc8523ec5293f0957dff1eb7019c5e0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-16-desktop.jpg",
+      "sha256": "5c083d53c4a6a2bf7c81b61021a083c3856d25443c4e1d5fbcd9c404fa12890d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-16-mobile.jpg",
+      "sha256": "2f5f2c46fe17b6f2f037fd9eef517e3ed1097260c92718359471c1189532db2f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-17-desktop.jpg",
+      "sha256": "6b2bcf7a77981afda2b98c3a179a93794779fcafcc52f84f27fab8ef0e5523db"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-17-mobile.jpg",
+      "sha256": "f9aa0ce724c8d641bb42df319fff00b806b7a1b0bfd9bbd119926a36cc323537"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-18-desktop.jpg",
+      "sha256": "75d231a4424fcdb7630e314aef0ceda75a8da7da704fe35ab484948297ba13f3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-18-mobile.jpg",
+      "sha256": "03b6ba8a6b0896e514ff13ea80ff5fe2170f4afbb9afd4af96421d84dff575e2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-19-desktop.jpg",
+      "sha256": "766f81236e3a73c836a9a9b893a277861877d3087ae10d40203e20c586238f89"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-19-mobile.jpg",
+      "sha256": "a91b67882d67cafd07e720a910fb8ee1ce8a3cadb7a2d069fcd92c3c74b31d0b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-20-desktop.jpg",
+      "sha256": "dacec57b49bc67e33a02f33fbc6f56175a0f5cbfe213dce2db76b88ea4730353"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-20-mobile.jpg",
+      "sha256": "d6fe06028248c72c9b0b84729322137d130182875f42d1fe541f2aed19743f2a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-21-desktop.jpg",
+      "sha256": "e5f3e53ed8dad3fadb63feaaea81852650a3a2c02ab61676398c585affa2173e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-21-mobile.jpg",
+      "sha256": "7575ede29a871607f51cb7c141ffdb07ed1cdf75afe76e8a04e8bad488a7039a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-22-desktop.jpg",
+      "sha256": "e8c9ef52f7b9130906ff0be82497f4f52d2949344ffa51e76e21b1ee32fe0d0b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-22-mobile.jpg",
+      "sha256": "ca941469e910b0590add4c77fe4d9e51c881b9fc47881cc637635619d745f2aa"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-23-desktop.jpg",
+      "sha256": "07fc2532469c49f804e8871a0159e20bbb476b111cf07119ad493babbe4b04e3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-23-mobile.jpg",
+      "sha256": "56a6516b7974a067fc886a8217a48af94b7cccc3bb1e585328f6bda6d1156197"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-form-desktop.jpg",
+      "sha256": "1fce84ab25e183b69d9deb6e066d14209aeda011a9730d0a827625c2bfd50e0f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/katun-form-mobile.jpg",
+      "sha256": "eb9dce16f010f91e78ffb53b98b9ee9af6fd1cc05f4cd15dc5ce912defb6ce16"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-01-desktop.jpg",
+      "sha256": "cd6f2fa59ce5d221f3c0ed7668591501131e6a7ad7d0733bad75403902c60d73"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-01-mobile.jpg",
+      "sha256": "0806b2ac36c2d310e2002954f5d98caf5dac725f5ab550a3d250dfe40078eb2e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-02-desktop.jpg",
+      "sha256": "9512a333b8b5f81b09aa5d2ab63cedb9b8ed5afc02adf946942bfa7330791592"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-02-mobile.jpg",
+      "sha256": "f97bc8759bec1c957b906fa89a5a412f15f604bfe5048b44f1d07415c56c90ac"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-03-desktop.jpg",
+      "sha256": "d39caef30dd2530729c0e1699c53ed913b0af583496f32d109393927236f90da"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-03-mobile.jpg",
+      "sha256": "f5b909a2a48b7d8e6e921234bbefa4c6b971ec226e85e167433138903a09d656"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-04-desktop.jpg",
+      "sha256": "336934d9551e2b4c1c4d75ff1ce2c38bc0deee70a9a1b8c8f87c9cd043c54477"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-04-mobile.jpg",
+      "sha256": "d1c39cbf361603a66045bd62bf39befa4427dd90479c6e4392f31e754a8a30fe"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-05-desktop.jpg",
+      "sha256": "7dd98cc4b362819d5c2f155faf10aafccb0dddb20f9a6114b95cbb0f1453f72d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-05-mobile.jpg",
+      "sha256": "8550b1c0e7a382eb57a373e02409089d7b0689b2ba63b649b97860e38d25f1eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-06-desktop.jpg",
+      "sha256": "308a0c9f794078ea626b4fc35fe544c5534f6a730b38450b6a437ec1adde8922"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-06-mobile.jpg",
+      "sha256": "5e1d86430ec7af9d2dcbc8dd8371fc9ee14e35658c9093c1dede641b5ebca5c5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-07-desktop.jpg",
+      "sha256": "44e2c91ac55833480d078d7f03a1740c56238a0911aa4a4725104bc772e500f2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-07-mobile.jpg",
+      "sha256": "7a0527dd9b04597449ce91524583244777cfe33486199cd9797f25a3bab82469"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-08-desktop.jpg",
+      "sha256": "322abacbf68bc43a2711c3bb2e48eb3501ea438740b54ea606764425431ac7cb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-08-mobile.jpg",
+      "sha256": "1957a1ff9aa25adde34d0c03bf232193fb89d45d98f00dacf6e904c2fcc97800"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-09-desktop.jpg",
+      "sha256": "993b8701904c4fb28c06a402e126bca805dd52105aa0b0255b62e1234c3445ba"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-09-mobile.jpg",
+      "sha256": "fd7f444454b6e8acc5f6e1e74904aea23a976db3f964a2a8a66e594160603c32"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-10-desktop.jpg",
+      "sha256": "82d158689658440b492b8e159742cbba2c7671d5280f6c374b9b1c2be199fc3c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-10-mobile.jpg",
+      "sha256": "fc91501e5df0e9bb787154d207c9296fc3195898936ec66941424c2317974d1c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-11-desktop.jpg",
+      "sha256": "348b88a3328306feaac33b078718ccf5b2521c7b9c1eaafd37b87df038380c9a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-11-mobile.jpg",
+      "sha256": "15c5f208d7dcb51d9630c4d1ea7eb98825ff84a0380e2299f76d9336685b4ff4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-12-desktop.jpg",
+      "sha256": "6ba0f4cf06947aef30ca248d74aa941be880ede2b68ac14b9de9fecbb8e225cb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-12-mobile.jpg",
+      "sha256": "7fd9efcbe289c24cdb2646ff7db76572f846c1be9f0bb6816abee7b668a3c988"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-13-desktop.jpg",
+      "sha256": "e1dea358f07ba340d0de082fda53529c876620d48aa142edb06003167da82ac9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-13-mobile.jpg",
+      "sha256": "519e6311801a0a6bbe7607a1f06c7486901427e10637d93f3e95d61ff8b6e654"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-form-desktop.jpg",
+      "sha256": "f77bbaeb27fe11ffb61a3cfda0589eff418a9aca0157a414a388c9b3927f4b5b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/kedry-form-mobile.jpg",
+      "sha256": "9487b6da1a06f15856f14852016e24c153a2803f91db11ad26b922db8dfcc4b7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-01-desktop.jpg",
+      "sha256": "58fc523fc801c47ecb23ac3b961f6ad5f18586717e902046de1a11d5a6acaefb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-01-mobile.jpg",
+      "sha256": "8e8881d702f604d94a8b5ebc5b8432cbbb2003e278d536220797d6c81fac9da6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-02-desktop.jpg",
+      "sha256": "0636cc24cf33ed1e09d5f8be491ba3626dd99c2dc613359da4180edb1fae8bdb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-02-mobile.jpg",
+      "sha256": "29d0c4fde34f8b7abca4ea8f6f406bac172b845408c19fe80c2adc8484ceeaef"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-03-desktop.jpg",
+      "sha256": "fdfbd9305d399b2eed2786fbc2c034627b4f48baf6a251f8f137a9fe090cdd32"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-03-mobile.jpg",
+      "sha256": "53c727e78c1d0e2792c057730d2e255c5e2940d51c4b2c15e72e90a4b1f28aa9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-04-desktop.jpg",
+      "sha256": "db772aa7a72c3f75603e5754d111a656710e5e8ee82887edfccaac56bb67e814"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-04-mobile.jpg",
+      "sha256": "92ee64a28264328541d7f68e67417a17833a0fab6bffbe49a7bba74744613103"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-05-desktop.jpg",
+      "sha256": "a5921a9643db0f7f1769ead89a29733a64b89fe0b3ed3756e0233eb524f93da9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-05-mobile.jpg",
+      "sha256": "d80ace9d9438589d73a6fe782577139bc3c08b1adb3c7d1c8ee16504d7b63184"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-06-desktop.jpg",
+      "sha256": "7cabb4a6eb9bb09a2e4f44dce5a9202480287e41f9321af85efbef75cd6851f6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-06-mobile.jpg",
+      "sha256": "3142866ccc7b80d169ac6d0ecd5e6ae0823f00e9b630177ccbff84de794f8fec"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-07-desktop.jpg",
+      "sha256": "5a26cc8e7e4a4fd61808c4b400828675a93ad86f6f8f0bfd3365f83b9ed41f4f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-07-mobile.jpg",
+      "sha256": "b642336c5c6f604b53f6c367b68eb1e3feabe4389c074191a63800ae4f12f17a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-08-desktop.jpg",
+      "sha256": "a765d34050f253b2f1cfb8229f413daa4b51062b857765967a50d29c8fa0c1d1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-08-mobile.jpg",
+      "sha256": "8d332481fa25f1e4917a357d6943d6e242a0659d03ea042af524653bf785719a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-09-desktop.jpg",
+      "sha256": "1381396dc1c2fb804562d69f287d347af9a9a0e159f8871a764f1580b833f573"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-09-mobile.jpg",
+      "sha256": "b05c891948ddc378b1d5b09541692e0b859b8457543b49033cde35947cbbd3b5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-10-desktop.jpg",
+      "sha256": "6836b9cbc45ccc9f4b30d52fc76647d88f41c2861f1f06e1c0bb5e028a133844"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-10-mobile.jpg",
+      "sha256": "c930a72a14cc3e64f79fdcd062a996ce2434c7f43d31ce4182f15a3a3289085e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-11-desktop.jpg",
+      "sha256": "4d8e3e2fb72c4b14947eeaf933806cd9a80b067d0a486c069710ab058ef18f3f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-11-mobile.jpg",
+      "sha256": "7ab9a733b9efac3f579b65bbd6b206ec686771d9ce4718fdef8adaf3109cf9b0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-12-desktop.jpg",
+      "sha256": "734550272070eb0e01f5dfe8468bfeecfff78361af7b5a4ec53895b36663ed55"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-12-mobile.jpg",
+      "sha256": "629eccceee6231edabfb12f9f1ea02fa86c155442673ae483222a1bedc294e6f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-13-desktop.jpg",
+      "sha256": "0d05c514b2e76874e5d5c57f894b4143721d6f052e4b33ea317dda6973716197"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-13-mobile.jpg",
+      "sha256": "a9294d653468d33fa4ab5522bb034dd72682bf1e2d1e903fb2d38575c5717773"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-14-desktop.jpg",
+      "sha256": "35d183dfe259df45930d2a2aff810d106678b79274703ecb859a8a0af7bfc712"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-14-mobile.jpg",
+      "sha256": "2bc1fd1dbb60d19fd6d74b73d275bd30548ac7901bee4b1007cc79d3d7bf8653"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-15-desktop.jpg",
+      "sha256": "d19b864044ac6622a81576ccf8a42064b069b2815e700b942cc4b838d680a8f7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-15-mobile.jpg",
+      "sha256": "2f6e676202ab718406c501563806d07aff7f0b00f41d8309f6c69f8df2c1d339"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-16-desktop.jpg",
+      "sha256": "046f921170b49450589974af37f3687bd9aceb73f2697c733f51138e8e79eade"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-16-mobile.jpg",
+      "sha256": "32d8556392e95e739a84805a470dac7185631a15dda73f172a8a8a2062196b6c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-form-desktop.jpg",
+      "sha256": "9f4960e2c28721463d963b89b5a857a1d9c0bb9e391db8cda4b13da38790c7b2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/medvezhiy-form-mobile.jpg",
+      "sha256": "de48aeae4a74031237392a4c5b4267dcbd2cfddec733583b24a11c3fa8f0922f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-header-desktop.jpg",
+      "sha256": "9c1db2779dbdfbbeb626ef23886039b850bde8e6a51d657fbb89dc12a97fa3c3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-header-mobile.jpg",
+      "sha256": "9738c0aac0cdcc0f3e301415d20fd627920dd580e8d6c77db76209939725a7ca"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-hero-kedry-desktop.jpg",
+      "sha256": "762628f6c60f9beda14d6745cd6936ba8ae9a950bcd013bbe181b4f76829b5f8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-hero-kedry-mobile.jpg",
+      "sha256": "f0ab72d040881817d755db32b4e5ede356d6daf3c52a63b7e25172ec3580ccf6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-hero-radient-desktop.jpg",
+      "sha256": "a2bf5bfe9ac9e22b293ccd6f9354ba3cb5fd562f7362bff288850f029060bc87"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-hero-radient-mobile.jpg",
+      "sha256": "9086cc9cdbb1236ca03bfae354e11ee9d024ba077def5e04b9153211999acd1b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-menu-desktop.jpg",
+      "sha256": "9c1db2779dbdfbbeb626ef23886039b850bde8e6a51d657fbb89dc12a97fa3c3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/prototype-menu-mobile.jpg",
+      "sha256": "9bee1589c89ca4b27bbf18ccec0ed66dc9febcc924b407afa398fd51c61bac87"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-01-desktop.jpg",
+      "sha256": "65dfc2b901141b6c1166f786992e57d3c3672924043fda4247b6369bd117df5e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-01-mobile.jpg",
+      "sha256": "aac49b86b2ebff4b691b16d96fe7ff6725109a33858bdee7bd0150b2c676d152"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-02-desktop.jpg",
+      "sha256": "e8468f8772d7109c2e0791e10728ece46c3aa0ce24529aadd8f3ece158ff1e1a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-02-mobile.jpg",
+      "sha256": "5e65aac22dd2368f2a6f96a736d07b9309675fefbf9e6e25fb6df661d6351db3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-03-desktop.jpg",
+      "sha256": "1042b94b2107cb39e93af87ee07ba55f9b29a5ec9796372ccdbcf9327155db4d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-03-mobile.jpg",
+      "sha256": "5a6d227abbab54ab3d0df8f134a4bac96eb1d068f41e2de69a8ae49a52ed4eb4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-04-desktop.jpg",
+      "sha256": "b7e6c5ca48886359457abbec35f56fe0ee6698302eb6aa7526bfac7d0cd7f62c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-04-mobile.jpg",
+      "sha256": "31b721baf6feddcb3168734d921efb8d173b54937b1042471ab3a3c2cdfa6358"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-05-desktop.jpg",
+      "sha256": "3b66bdb13d1b36278a43f41d1249be26739536157e745c0de2e2605c416bde50"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-05-mobile.jpg",
+      "sha256": "e277334ba3bb6b397acf015df80541a0323999d7ad4f376521fabe84e0f104c9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-06-desktop.jpg",
+      "sha256": "ba60d0f7188a8ec26dc17c6d9b28070cabb9ece3f4b51c857f8977546f488525"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-06-mobile.jpg",
+      "sha256": "ee6acb579fdae414328d933f6f4ac2f2659d06456daa96692eea14c32f52a3bd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-07-desktop.jpg",
+      "sha256": "a24c06102b838749464660f15fec465d53bf702efb43cc73a12142ed15caffbd"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-07-mobile.jpg",
+      "sha256": "1d4cdb227b02b382beb58b39751297f2c4d4f40e137cfce07387a3dd53e8d6c3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-08-desktop.jpg",
+      "sha256": "00acb53beb25591e4addad50c86272468fe203a0df27d712aa42e9ee8fff3dd9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-08-mobile.jpg",
+      "sha256": "266e62cf5e5389476a1ef4e768c315c2297d16d129da238263eab8de710ff89c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-09-desktop.jpg",
+      "sha256": "c13bbec4aae40e77d9b7241667168f0c338bb839df2bee62488da18653e8ed6f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-09-mobile.jpg",
+      "sha256": "e9200e08002b5ceb931d9b62327dff5e4fab62e035a73734ff989387da91e9c6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-10-desktop.jpg",
+      "sha256": "e0d3af17ceefa30d631eaea6ce847b7a6eeb4b32c1e995889a7e5309aa9b5a2a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-10-mobile.jpg",
+      "sha256": "e432b6b57a80ec4aaacc2d54e1b2c19a0fd6121c87ef562a15d210676b74598f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-11-desktop.jpg",
+      "sha256": "ed7c49ca228409de1c64c40f9bb31ef86f4c377e21d25ed3a4f14117b431a8ca"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-11-mobile.jpg",
+      "sha256": "8c0c68b9e6e6fbc177b19d7b291662abf8d44dbb71599613d232ad8991c310a1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-12-desktop.jpg",
+      "sha256": "eaa118a8c311a1caf2cb30e2a7ca7c247e229583805e8cef5ffdc97526545466"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-12-mobile.jpg",
+      "sha256": "8f9985662dd6b556005db295c502adc135279cb4eb8623d8988ae4613cd82386"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-13-desktop.jpg",
+      "sha256": "45423422c5fe10205c4f4c99b0acdf8fea31df07946bebd210439be3bbbd139f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-13-mobile.jpg",
+      "sha256": "1abb8b96f4adb631bdf3c3fa8af3af1a9323491ec0d043e93cc217df6e3ceee0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-14-desktop.jpg",
+      "sha256": "15932df2ffd0a1fc0a2bee220eacd046641bddedd26f2e5c653c739f936ab8bb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-14-mobile.jpg",
+      "sha256": "550a08141f77a93b23700d4d998c9162aac23c636e5ae74e8474455dcd8c2128"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-15-desktop.jpg",
+      "sha256": "d50c13d0028f765e05518d80fbdbbd2d5599af57676f19355dcc99a8aa6030b4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-15-mobile.jpg",
+      "sha256": "f2182b4124b709c1229edb95a00e78f66129b90ff099898fd704b8253363f6cb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-16-desktop.jpg",
+      "sha256": "8a1958ad923882aceadcb2c87381d2145d76379e94886acc5d3077e292b9b492"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-16-mobile.jpg",
+      "sha256": "85beaa569fca2155d628721c66f9c7f40b71d2e6691c816ed1ef2c10b7ab32e5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-17-desktop.jpg",
+      "sha256": "5a2130d9915d17bbc328d2aa0d6d668745f97eeb5460cbca354c11e28ab6537c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-17-mobile.jpg",
+      "sha256": "2bfb86cbcf64f22fee959ba1e8bab619e7eff415a825029160a29e43cd5898cc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-18-desktop.jpg",
+      "sha256": "3779d49e24a76e4db2725f580f50f0c734b1895acfb24776982c3bd001a0fc6f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-18-mobile.jpg",
+      "sha256": "605b050675801f3bdb23d0424482242d390af0195d4cee965c8c688dae9f7837"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-19-desktop.jpg",
+      "sha256": "8996ae4a905f1672f59173c07bb5b97f360019467b35bd2602c2c87d4faed999"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-19-mobile.jpg",
+      "sha256": "a3f5f5a8f13ead65736b384a65330ca095ea9535c3c3eb352ae6a69815539656"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-form-desktop.jpg",
+      "sha256": "2a54c8d18fed74cb8028c6e9b1936eed69a0d20f75c96d23b2c87b1915c04b6e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/radient-form-mobile.jpg",
+      "sha256": "13b4c86d991f6f49cf846d4202ad850ac0e1373b980ef3a9db6e161d678af5b6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-collection-desktop.jpg",
+      "sha256": "5a3d2526499af5c37176f16537bf0f8e2c6cefc20629489f974a95c5df2df7e5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-collection-mobile.jpg",
+      "sha256": "3c88bee9ce03e0f0581a232f55470e4f55362380045bda3620f7a7cecc55039f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-directory-desktop.jpg",
+      "sha256": "a6a70e326cc99384e2d63f98912ed9ce4fd1c89172d67f6454087c50d7069f65"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-directory-mobile.jpg",
+      "sha256": "0fa2c3c2815fbfada42ca07bb091bd1630672e5452188678a936b5b26ac8b626"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-feature-desktop.jpg",
+      "sha256": "93390da1eff9ca92259101483d1a888a31bd41596a11bcb1c00a4a1f80022a4d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-feature-mobile.jpg",
+      "sha256": "a66e54a984409fef3c000d9a8247984a9427f862010b45e03f19c927c0a49d2b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-forest-desktop.jpg",
+      "sha256": "4e4b7bcc3f8af287250d26188a4fdc2cac290abc2a078e4b64b2d275698767d6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/related-forest-mobile.jpg",
+      "sha256": "dcd07e014e5f7df8648b872c656360a6445d142aa6709256096d01aa5a6a8e85"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-01-desktop.jpg",
+      "sha256": "3aecdb8365174e321c78c5af7be8bb1f36dffb7a0814a47bf5768d973297dda7"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-01-mobile.jpg",
+      "sha256": "d358806d196f2dc2be7468747ebb327525c24a0a87a5ae741e96571b063d4e82"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-02-desktop.jpg",
+      "sha256": "89b98288f294c3cb4001a0d729605918bad7237616263958fad79a3f49aea34a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-02-mobile.jpg",
+      "sha256": "e45adf1a4f17f0d248c6c1ef4a1a616af9eb4065cdcf0c27bf220539d5482d30"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-03-desktop.jpg",
+      "sha256": "297c504652f65a427b3ed335295983f6b9663e0a9d92fe2b2fe9ab627983f7ad"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-03-mobile.jpg",
+      "sha256": "e6c1bafff27f6f2af11794a518b41f6e2f1b62ebd3c5e927c88f90fff5552d46"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-04-desktop.jpg",
+      "sha256": "5377cf27cb616812d29426a26ebb857a8587065ce469e3989dc787208c19342a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-04-mobile.jpg",
+      "sha256": "6a7c1eb0e03843a86cb023e2bf8d0337dc6438e8a8533653bcab5da41dd0428a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-05-desktop.jpg",
+      "sha256": "56fec0d6efef6029b379003b695fbd33d9a82fbaba2ae11de240ae02f545f2f8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-05-mobile.jpg",
+      "sha256": "c27e69668cf204c4dffd4d5c51178e2ac4823b473d8d5962089c96b2da9be2e2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-06-desktop.jpg",
+      "sha256": "22790c32ef780a52c6eae304418d134c556d1b9ca629296588d68f7a00bc4d2a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-06-mobile.jpg",
+      "sha256": "6eae5c56121246d8f1dff7192e887b118a918286ff2ae5f3d976669a43baa25f"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-07-desktop.jpg",
+      "sha256": "207744952439b7597766a1e2dc4a97b757b959867ea29b849a4a165c62b10092"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-07-mobile.jpg",
+      "sha256": "0e7f240464660b7bde20de9ca5fe97b0df402c9e782490e514d6a589adf6d225"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-08-desktop.jpg",
+      "sha256": "e7f8ad5d7f0cfb77087eb8b7748214ed735d6e0d2385ceaefcea0944ff76f93c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-08-mobile.jpg",
+      "sha256": "c200131ed418e023b6d1c0946b72f41015db13cae7fb342f98069636c1c819a3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-09-desktop.jpg",
+      "sha256": "e30e1005733ac92ec0302fa4cc89cfea5bf86b4cb0047d5402a23c0dbf3f86c2"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-09-mobile.jpg",
+      "sha256": "24f85927a1a28a0b59d4ae93a83be3697c5383dd5f91fefc2f9d30617889138c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-10-desktop.jpg",
+      "sha256": "a7090d00ec66bf6ad7fdb775449dee4e70f12ec27cd057c3913361ac79ebef41"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-10-mobile.jpg",
+      "sha256": "029bab46ddcf421d16ac2f7dc616cd3afaf2e339132125acf5da562947d99031"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-11-desktop.jpg",
+      "sha256": "715dae5fc0088db23a4a9bb7396fe6beefc1adc1b333d651ce18bda0af57c3c0"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-11-mobile.jpg",
+      "sha256": "18ee8f258262b55181dcef49b296a13f09c363fdd9a8626e20dfaa60b18a76de"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-12-desktop.jpg",
+      "sha256": "5fdbd750f3e7cfa19c90ae8c63a5eff50038589636c382ee1e299a9d64e1d648"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-12-mobile.jpg",
+      "sha256": "02e15a0b62f769e984a9b725db46af95f01dad389be747178cce8ae73f78bde4"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-13-desktop.jpg",
+      "sha256": "8bda9fa1a587f69a6360351e5639003f20189aca1968b0260abecd07881741ee"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-13-mobile.jpg",
+      "sha256": "65f383836c8bb795e2595e24727360f2e500378d2cd563659fba7f6cc194c177"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-14-desktop.jpg",
+      "sha256": "56f974957b3be0adbb069f5bd2a4fc3d3403e57b55e5c4d022fc88777aad63b3"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-14-mobile.jpg",
+      "sha256": "69ce17a24b4aeb7a65ccee18a4b4419754d5434ccbe822c670806f4fa7b14a0a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-15-desktop.jpg",
+      "sha256": "96cd78a8180151537487f20d3d959e612ee6e3208991e058c9d1c15286779262"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-15-mobile.jpg",
+      "sha256": "16a088c7393b25197edde59c5f8186352d6ab532dc8c6ac71ac3624c0c0f5e2a"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-16-desktop.jpg",
+      "sha256": "a3eea8856b4f378445e5633cea63e04958d822ec4661f4a7bc7c2c25e0e1082e"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-16-mobile.jpg",
+      "sha256": "30561d9f7ffc89891301fb21753da1b977466a413aa3148a76b8d7b0a6dba260"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-17-desktop.jpg",
+      "sha256": "b29f3b1f31e28db1a9799b87f0503315d2a63a0470d0072a4c565ba8eac119bb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-17-mobile.jpg",
+      "sha256": "ff6715269ea0ab40e637bf9b990e775ef67ffd0c82e1154127844b3de4a55177"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-18-desktop.jpg",
+      "sha256": "714f2a6ae48ee93e076b15e5d1bcbc571f8b22bc93492ace12ccdde99b95e147"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-18-mobile.jpg",
+      "sha256": "78dc3fabc78fed92f817ef78c47cc6660489016f9d10a6a017d64f1e0ffe4dc9"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-form-desktop.jpg",
+      "sha256": "35ac46da757a9895a08d6e94263ad81c28cfb41dc054cf57e290fe9d2a29f74b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/rizalta-form-mobile.jpg",
+      "sha256": "13b4c86d991f6f49cf846d4202ad850ac0e1373b980ef3a9db6e161d678af5b6"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-01-desktop.jpg",
+      "sha256": "02910efbdaf2cf538f21e318b4a63c8f17c4d9489b5a5b79b738737c678d6e85"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-01-mobile.jpg",
+      "sha256": "7c692922fdad6ff90824d66eb0fea1edabc50859282205048955246bcd1367eb"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-02-desktop.jpg",
+      "sha256": "704178d45472fd8d8af83ba286905f6226c637843d0047db85670a0ef6fa58d8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-02-mobile.jpg",
+      "sha256": "2107bffa2532f2c3c1570a90959c5312f0d92a261137a6fecda93c393870ccbc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-03-desktop.jpg",
+      "sha256": "777c2ab3eba3793fd8357741e79feb0347f76be5d146bf195743446e7d1a5d95"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-03-mobile.jpg",
+      "sha256": "a01c9fecf009eda762d3e0d2138bf15e54aeb6d33f0f34d2de4eed245a735876"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-04-desktop.jpg",
+      "sha256": "74895c31ee79de434b0c04e4d10cd5ff8c755ca1d423a86e87fdf3ad6934881c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-04-mobile.jpg",
+      "sha256": "5e31adba8209e01024a0cf3c4163af32408fdaded4f90a871d88c75b260a632c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-05-desktop.jpg",
+      "sha256": "14cb88e18f26c0452c78e9fd1bd857d1351972bc763753a5830042bef0777116"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-05-mobile.jpg",
+      "sha256": "c6f9fee9b2bc9044ecdb6c557fbf2347c498f2f96d3322d38c92534dd97aaa82"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-06-desktop.jpg",
+      "sha256": "576341587ecb61f11479c7e2b0550813bc85e849b5e26f0b184868bdfca97560"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-06-mobile.jpg",
+      "sha256": "d044c9665c4029413a456cec17df449b30509f2dde9f2a73b7960310e519cbee"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-07-desktop.jpg",
+      "sha256": "27e990e0f568926f2b95c81929a341ba03ae5432519ea129ca7ea4ee474bea1d"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-07-mobile.jpg",
+      "sha256": "ceedc6f7bfd2bf63568601064789d4d0f97ca2d220790a7fda73570ba565b2b1"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-08-desktop.jpg",
+      "sha256": "af2d27b0597bbcade283401b72a31463eb7bc8bfb1ba33e7df511f3126946f25"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-08-mobile.jpg",
+      "sha256": "b902fbdddfb19c9621fdb42649238b5dae2f04d2017be5f27bc0c6920e96b320"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-09-desktop.jpg",
+      "sha256": "cdaf629a2ae1c86ecd6e1879c06b27dffdfe010c13c6a3c683357fbf77a34e04"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-09-mobile.jpg",
+      "sha256": "390a0d281b0587a7da422d07dd530c17be7b8d72cbb5e49061f1bfa7b1ea99a5"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-10-desktop.jpg",
+      "sha256": "fad5bb6fbfee53b79a9f8d13594b7fd84b794ebe8f889b24946bfb90b6719706"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-10-mobile.jpg",
+      "sha256": "614805d55522a7dee5fba028756441ad5d2896006bae4d3bc4920238f1d3a4ac"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-11-desktop.jpg",
+      "sha256": "a0769f7e55c6aa1419447b89f1a7d62f01869c59a70e11dec227761ac01e3320"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-11-mobile.jpg",
+      "sha256": "1d430cd1e62f84eb155b45ee9a8539bb8c70b3ad9a526c6aea52da896842ac5c"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-12-desktop.jpg",
+      "sha256": "707b1d1ba6a6daa55129abb814de36661eb4033a02a9f74cf03e649ba30f97be"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-12-mobile.jpg",
+      "sha256": "f619c15a33af76bbe3bfb4c056177e42d1a4c4ec4ce2828051942e2237b94a88"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-13-desktop.jpg",
+      "sha256": "5450879696a202e8acd602692ad77f592017503332405c127ebaa3ebca107329"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-13-mobile.jpg",
+      "sha256": "5c02d95bac355f255a3cf7042df7b4ffb5300dafa8fc85404c55b0b03243c724"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-14-desktop.jpg",
+      "sha256": "afeaf3656c0da4d2e2f4ff9567b40259df06d47533422ec6e0f5f6222256b3f8"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-14-mobile.jpg",
+      "sha256": "605b050675801f3bdb23d0424482242d390af0195d4cee965c8c688dae9f7837"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-15-desktop.jpg",
+      "sha256": "1aafc9ee7cfcbcfea0619260f6b151a3114ad52fdaf9b91142a642d01ffdabbc"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-15-mobile.jpg",
+      "sha256": "ee6182b98766bb4323ab2083dec0761a2ff5b8992b1d017d18a49d9f99bb8447"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-form-desktop.jpg",
+      "sha256": "f168368c0b42b773298a9e8d54e284a79732ea4f63d03d33882d21978751339b"
+    },
+    {
+      "path": "docs/landing-builder/block-library/thumbs/zagore-form-mobile.jpg",
+      "sha256": "7dae7eb64fcc7c9e7e61f10ca00b10eb57baa5ce598f0823791b9bea5f509c30"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/README.md",
+      "sha256": "64852d162abf19bf67d99aab7e6293cc2424ce8dab13c04b2753e84265a12c94"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/OFL-commissioner.txt",
+      "sha256": "901c8c42265a7c84be941579b122f52ad37d33fda3e27eb891a1e616b0c3e15a"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/OFL-tenor.txt",
+      "sha256": "9eee0c7491148eac29f78f3378b344321e5627f8675f936434e7ba180b70676c"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/commissioner.ttf",
+      "sha256": "db01279a6eb8676ee62675a4d7e5edbfe5f08fbc109358e2f49760b70c0447d3"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/contact-max.svg",
+      "sha256": "5caa61a4b0731d0d89421b4fb24f41433025e5aea59155a14cf3a3fada6c9174"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/contact-telegram.svg",
+      "sha256": "4435c9a57e165a1c3b7f27e0b5b11b82b10d674ea4fff7f6748cb67b7fcb994e"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/contact-whatsapp.svg",
+      "sha256": "3e197e0e1f3e679ee09823c75e1c7bad3a19da9bd1ba01df395268b9ae91816f"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/kedry-desktop.webp",
+      "sha256": "635192b6129bd06ea26388393bd618924f8b29712c98ce2c09c1e5cbd89237b9"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/kedry-mobile.webp",
+      "sha256": "b57aaf1a4862567844eff161e2b4bae44e22b9ec8dee38c655fc3a067d4d0183"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/logo-white.svg",
+      "sha256": "fcaa0f8adcb9dbe360caff39d007b2d032811580af670e63412e6915b0cb54b4"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/radient-desktop.webp",
+      "sha256": "bf6246417d1dfe7e4c4179a2d2d4be13cbb919d5d548f7495e7c30190912a005"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/radient-mobile.webp",
+      "sha256": "40d00d422eebfb10cc5fb082c9511aa91ef33e1c54cf4d2f0720207c3119e30c"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/assets/tenor-sans.ttf",
+      "sha256": "4cf7258823de08b5de3c0e705bd46610415134d071e42e40374217ad9d9e348f"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/compare-desktop.jpg",
+      "sha256": "cf223ffb5ee0cbd64c8e0ea1bd7e80e1fa32ac2455c08c2bc35889d84c562d32"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/compare-mobile.jpg",
+      "sha256": "1645a7d8372ccd640bf24b73d099c1fad6a9fb812a91bc04e9b995203deba624"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/compare.css",
+      "sha256": "62897b3cd8bac758082bfc446ebe25529bdfc3b7b6af66458847b82dde7261ae"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/compare.html",
+      "sha256": "28134f7369eb62ba0a6bf99576e8201bfd0a4d186615f37872bd5b234b39590b"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/compare.js",
+      "sha256": "1e7e741f95a52b5e21a8abe174e6255b32277b74bfafe3cd9d9d469587e451c2"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/hero.css",
+      "sha256": "ba38428f8a64418a4ff201b51ae55cde37903292ee7d744ea87e0f63f17422de"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/hero.html",
+      "sha256": "1920f4dc10f65fd60c8863746eb6ddcccf464daaadc0f9c28bc76cc6515b9646"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/hero.js",
+      "sha256": "54bfe57e6ddec30e1730c175b965ca505daab95be24c422ffc9001b08513faa8"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/index.html",
+      "sha256": "b0d54201d7bf38b48fd2e32a8c13592d15f08e4a4ed0c4da3d89aff6117713ee"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/kedry-1440.jpg",
+      "sha256": "3293e0d88381029aaa81aa5852d8d14bf5c51f57c336c37f7d7f8f80d0b23cd6"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/kedry-2560.jpg",
+      "sha256": "265196e034a1536d753dcaff8fa2265607e30500cbd0d6d0116407d981db4473"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/kedry-3840.jpg",
+      "sha256": "bcca84ef48c938ac12a39d3ef4d0e0980abccb5136f8de90f41a828b51b1b4f8"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/kedry-390.jpg",
+      "sha256": "a67d4a5279e728a9a2ebd31dea44d7c4a9a091736b545460e704977837224cab"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/kedry-768.jpg",
+      "sha256": "cdc9237a35de2e7094652db96814e7f531e4bd415fa9d2556ea93452710d5f7b"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/menu-320.jpg",
+      "sha256": "637e731ce5c4a8c8ba4a890e85d6064b377e0c22268b1a721251c2e7d4065a32"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/menu-390.jpg",
+      "sha256": "3234ae51e6c6be935baf4295765dfb8afc6ed8fceec1a8cb87c936dacace8d86"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/menu-768.jpg",
+      "sha256": "9d3babfb93b72177edf1806240e2bbdc231322f92f5df73b32d6847f1c65e6f6"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/original-kedry-1440.jpg",
+      "sha256": "4b3b9754910f70540b1e95a5fffdde3037364b9e750b17a6e92b4711927dc9ad"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/original-kedry-390.jpg",
+      "sha256": "af5dc5dda47ae21a7d4ff84e6f99b3462c3f2402927936cad63b71fa9e9f02ca"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/original-radient-1440.jpg",
+      "sha256": "1f3549fcda1a8ccb7a93f3a8c175278b8b95e4eced99f880443c88dec1945352"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/original-radient-390.jpg",
+      "sha256": "cb24bf678c9ebd3e5beb51526cbeb3e0f1a0355d796a17cc173aa67c040b243d"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/preview.css",
+      "sha256": "b38569e58d0f30c18d78d2a3f4aa2cf1051aaf885e52779cc1c4e156cd5fd115"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/preview.js",
+      "sha256": "177918847126d6593b258b1a5e89ed5b97caf6a3d0709d72b3ee080ce016e24d"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/radient-1440.jpg",
+      "sha256": "156404b7dde43d112af12aef61aa0ba96a65819997c61f2e87392e6b5a49c3e8"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/radient-2560.jpg",
+      "sha256": "276e26685914228ed1f15820b45f02a4ddbdefab1721ba58edcc489ca4eca9a2"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/radient-3840.jpg",
+      "sha256": "09a15ca94582a86862570a077d04e6661d44d833c975a348105c46dc00603bda"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/radient-390.jpg",
+      "sha256": "15b4215dd465914d66f0c769c5ecb63b169590e060bb01165c37b7c0add88018"
+    },
+    {
+      "path": "docs/landing-builder/hero-prototype/radient-768.jpg",
+      "sha256": "2f2ddad1d8374ddc7b5827da682292eac6d4beaab01803feaec19a46b614f519"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/README.md",
+      "sha256": "64852d162abf19bf67d99aab7e6293cc2424ce8dab13c04b2753e84265a12c94"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/OFL-commissioner.txt",
+      "sha256": "901c8c42265a7c84be941579b122f52ad37d33fda3e27eb891a1e616b0c3e15a"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/OFL-tenor.txt",
+      "sha256": "9eee0c7491148eac29f78f3378b344321e5627f8675f936434e7ba180b70676c"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/OFL-ysabeau.txt",
+      "sha256": "6a2c322ab5f15b76fa5e2888a8fa8a44104a282629196b58fb868a4efa4cbe3d"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/barnes-logo.svg",
+      "sha256": "3a882b6862c65ed0ece3ddd1b8bfbe2baf4c6347b9a65fa4b409f4f13815d609"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/belogorye.webp",
+      "sha256": "5038d669083fe8b7dda9195f0d45bb7256e7ff4c2821fc7d87bc8e16064eb977"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/commissioner.ttf",
+      "sha256": "db01279a6eb8676ee62675a4d7e5edbfe5f08fbc109358e2f49760b70c0447d3"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/grusheviy.webp",
+      "sha256": "469d3c841f100d1ea05c6de8cfa87e8cbdb558b84598bec539391ece155a43e0"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/karluu.webp",
+      "sha256": "5cf5c52e3606f793cae8eeeca74b2bdea720b2ce366e104bf36196e833e229e2"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/katun.webp",
+      "sha256": "e942d6a726051713c365a7f75118b195579affbe6d3b510b3d713bb9454f34c9"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/medvezhiy.webp",
+      "sha256": "0e9fc86d908fd46f43dfc3f302b542413dc6e118f184144b8419e8e5e82c6c22"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/radient.webp",
+      "sha256": "b40ea38ae2853c8ccdba5405b9f00cbfadd72790ff038ee41306a233a37114eb"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/rizalta.webp",
+      "sha256": "1fecfd542f1daab42af2877d7bce87b4fd737d046ae7e3e0ce2b4a74860a9d44"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/tenor-sans.ttf",
+      "sha256": "4cf7258823de08b5de3c0e705bd46610415134d071e42e40374217ad9d9e348f"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/ysabeau-office.ttf",
+      "sha256": "0f305c8451c1566f0ae62dca9921831fa59f09f6468b012fd6c9161362b5d360"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/assets/zagore.webp",
+      "sha256": "c5c1a9dfc1f1c5eb9cfc52234892217480cc44cc785171d91314f3be1b8b4779"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/index.html",
+      "sha256": "b22eb3263bd9e662e677a9c0df1c5b6dd7a56d2e28dd33ee4b7a2569a2d47931"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/script.js",
+      "sha256": "a43f51b11335fb24a6d94f668f093d601044814ea7dcdd481e60e0f7755d200e"
+    },
+    {
+      "path": "docs/previews/altai-related-projects/styles.css",
+      "sha256": "732fe1ff6aa526b7b2fb0a2ab2bab02d9bb268fca6c6d4c8b6c133c05a8ac5ef"
+    },
+    {
+      "path": "index.html",
+      "sha256": "a12e451e0d7662ba70c3eb4a6f62d7f3b05eb05f4d1ae415c35f7346f271eb09"
+    }
+  ]
+}
