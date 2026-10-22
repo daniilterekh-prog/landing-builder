@@ -1,0 +1,179 @@
+{
+  "url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+  "title": "One River Point by Ellington in Business Bay Apartments for Sale",
+  "height": 6255,
+  "blocks": [
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-a629001 e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Prev PREVIOUS PROPERTY NEXT PROPERTY Next",
+      "y": 144,
+      "height": 87,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 87,
+        "capturedAt": "2026-10-22T10:01:14.400Z",
+        "failedImages": 0,
+        "font": "acumin-pro, sans-serif",
+        "fontSize": "16px",
+        "text": "Prev PREVIOUS PROPERTY NEXT PROPERTY Next",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-4901cce e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 264,
+      "height": 851,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 851,
+        "capturedAt": "2026-10-22T10:01:14.943Z",
+        "failedImages": 0,
+        "font": "acumin-pro, sans-serif",
+        "fontSize": "16px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-3919f6e e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "One River Point",
+      "headings": [
+        "One River Point"
+      ],
+      "text": "One River Point Business Bay’s most eclectic lifestyle One River Point is an architectural masterpiece that stands tall and proud, overlooking the mesmerizing Dubai Canal and the iconic Burj Khalifa. Its design seamlessly blends elegance, innovation, and a connection to the urban environment. The residential project presents an array of world-class amenities that cater to the wellness-oriented and sophisticated lifes",
+      "y": 1115,
+      "height": 1444,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1444,
+        "capturedAt": "2026-10-22T10:01:15.545Z",
+        "failedImages": 0,
+        "font": "Teodor, sans-serif",
+        "fontSize": "33px",
+        "text": "One River Point Business Bay’s most eclectic lifestyle One River Point is an architectural masterpiece that stands tall and proud, overlooking the mesmerizing Dubai Canal and the iconic Burj Khalifa. Its design seamlessly blends elegance, innovation, and a connection to the urban environment. The residential project presents an array of world-class amenities that cater to the wellness-oriented and sophisticated lifes",
+        "title": "One River Point",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-ca3ebd2 e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 2559,
+      "height": 1083,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1083,
+        "capturedAt": "2026-10-22T10:01:16.136Z",
+        "failedImages": 0,
+        "font": "acumin-pro, sans-serif",
+        "fontSize": "16px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-9f0029c e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Explore similar properties",
+      "y": 4524,
+      "height": 134,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 134,
+        "capturedAt": "2026-10-22T10:01:16.600Z",
+        "failedImages": 0,
+        "font": "acumin-pro, sans-serif",
+        "fontSize": "16px",
+        "text": "Explore similar properties",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#yolo-content-wrapper > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-ac47478 e-flex e-con-boxed e-con e-parent",
+      "elementId": "",
+      "title": "ELTIERA HEIGHTS",
+      "headings": [
+        "ELTIERA HEIGHTS",
+        "Dubai",
+        "ELTIERA VIEWS",
+        "Dubai",
+        "BELGRAVIA HEIGHTS I"
+      ],
+      "text": "ELTIERA HEIGHTS Dubai A higher perspective in everyday living ELTIERA VIEWS Dubai A reflection of every version of you BELGRAVIA HEIGHTS I Dubai Elegance has a new expression",
+      "y": 4658,
+      "height": 442,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-06-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 443,
+        "capturedAt": "2026-10-22T10:01:17.099Z",
+        "failedImages": 0,
+        "font": "acumin-pro",
+        "fontSize": "18px",
+        "text": "ELTIERA HEIGHTS Dubai A higher perspective in everyday living ELTIERA VIEWS Dubai A reflection of every version of you BELGRAVIA HEIGHTS I Dubai Elegance has a new expression",
+        "title": "ELTIERA HEIGHTS",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-06",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:01:13.882Z"
+}

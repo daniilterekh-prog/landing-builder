@@ -1,0 +1,606 @@
+{
+  "url": "https://riverside-views.ae.house/",
+  "title": "DAMAC Riverside Views — Luxury Apartments in Dubai | Whitewill Dubai",
+  "height": 11496,
+  "blocks": [
+    {
+      "selector": "body > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "header",
+      "elementId": "",
+      "title": "Damac Riverside Views",
+      "headings": [
+        "Damac Riverside Views"
+      ],
+      "text": "Damac Riverside Views 24-hour hotline +971 (4) 581-4553 Gallery Infrastructure Experts vision Finishing Payment plan Location Places nearby Developer",
+      "y": 0,
+      "height": 142,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 142,
+        "capturedAt": "2026-10-22T10:04:29.461Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "10px",
+        "text": "Damac Riverside Views 24-hour hotline +971 (4) 581-4553 Gallery Infrastructure Experts vision Finishing Payment plan Location Places nearby Developer",
+        "title": "Damac Riverside Views",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#projectBrief",
+      "tag": "SECTION",
+      "cls": " first-screen",
+      "elementId": "projectBrief",
+      "title": "Damac Riverside Views",
+      "headings": [
+        "Damac Riverside Views"
+      ],
+      "text": "View on the map Whitewill’s Office: Office 1314, The Onyx, Tower 1 Sheikh Zayed Road, The Greens, Dubai Damac Riverside Views Collection of apartments in Dubai Investment Park 2 by Damac Properties area of the apartment from 400 sq ft price of the apartment from $242,000 Explore the Project Brochure Get it from the Website Request via WhatsApp Request via Telegram Inside is the local area, architecture, and infrastru",
+      "y": 142,
+      "height": 706,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 707,
+        "capturedAt": "2026-10-22T10:04:29.980Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "70px",
+        "text": "View on the map Whitewill’s Office: Office 1314, The Onyx, Tower 1 Sheikh Zayed Road, The Greens, Dubai Damac Riverside Views Collection of apartments in Dubai Investment Park 2 by Damac Properties area of the apartment from 400 sq ft price of the apartment from $242,000 Explore the Project Brochure Get it from the Website Request via WhatsApp Request via Telegram Inside is the local area, architecture, and infrastru",
+        "title": "Damac Riverside Views",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#experts",
+      "tag": "SECTION",
+      "cls": "expert-slider site-block ",
+      "elementId": "experts",
+      "title": "About the project",
+      "headings": [
+        "About the project",
+        "European Inspiration",
+        "Private Patio with Gardens",
+        "Artificial Lagoon"
+      ],
+      "text": "About the project Brokers say European Inspiration Inspired by European charm, the architecture showcases Mediterranean-style exteriors. The facades feature a sophisticated mix of pristine white panels and beige slatted partitions, while panoramic windows soften the structured cubic design, adding a touch of timeless elegance. Maria Real estate advisor Private Patio with Gardens Every residence boasts its own lush gr",
+      "y": 928,
+      "height": 573,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 573,
+        "capturedAt": "2026-10-22T10:04:30.501Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "About the project Brokers say European Inspiration Inspired by European charm, the architecture showcases Mediterranean-style exteriors. The facades feature a sophisticated mix of pristine white panels and beige slatted partitions, while panoramic windows soften the structured cubic design, adding a touch of timeless elegance. Maria Real estate advisor Private Patio with Gardens Every residence boasts its own lush gr",
+        "title": "About the project",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#additionalCatalogs",
+      "tag": "SECTION",
+      "cls": "additional-catalogs site-block",
+      "elementId": "additionalCatalogs",
+      "title": "",
+      "headings": [],
+      "text": "Brochure of new developments in Dubai and Abu Dhabi Download brochure Brochure of ready to move complexes in Dubai and Abu Dhabi Download brochure",
+      "y": 1711,
+      "height": 297,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 297,
+        "capturedAt": "2026-10-22T10:04:31.025Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "16px",
+        "text": "Brochure of new developments in Dubai and Abu Dhabi Download brochure Brochure of ready to move complexes in Dubai and Abu Dhabi Download brochure",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#gallery > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-block__title",
+      "elementId": "",
+      "title": "Project gallery",
+      "headings": [
+        "Project gallery"
+      ],
+      "text": "Project gallery",
+      "y": 2068,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-05-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:31.511Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Project gallery",
+        "title": "Project gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#gallery",
+      "tag": "SECTION",
+      "cls": "project-gallery site-block gallery",
+      "elementId": "gallery",
+      "title": "Project gallery",
+      "headings": [
+        "Project gallery"
+      ],
+      "text": "Project gallery architecture 5 infrastructure 3 interior 4 Download photo album Show all photos",
+      "y": 2068,
+      "height": 813,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 813,
+        "capturedAt": "2026-10-22T10:04:32.026Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Project gallery architecture 5 infrastructure 3 interior 4 Download photo album Show all photos",
+        "title": "Project gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#payment_plan > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "payment-plan__title site-block__title",
+      "elementId": "",
+      "title": "Payment plan",
+      "headings": [
+        "Payment plan"
+      ],
+      "text": "Payment plan",
+      "y": 3061,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-07-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:32.919Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Payment plan",
+        "title": "Payment plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#payment_plan",
+      "tag": "SECTION",
+      "cls": "payment-plan                 payment-rows                 payment-table                 site-block ",
+      "elementId": "payment_plan",
+      "title": "Payment plan",
+      "headings": [
+        "Payment plan"
+      ],
+      "text": "Payment plan View available payment plan in Damac Riverside Views with detailed calculation from $242,000 On booking 20 % $48,000 During construction 50 % $121,000 Upon completion of construction 30 % $73,000",
+      "y": 3061,
+      "height": 429,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 429,
+        "capturedAt": "2026-10-22T10:04:33.483Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Payment plan View available payment plan in Damac Riverside Views with detailed calculation from $242,000 On booking 20 % $48,000 During construction 50 % $121,000 Upon completion of construction 30 % $73,000",
+        "title": "Payment plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#decoration > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-block__title",
+      "elementId": "",
+      "title": "Finishing",
+      "headings": [
+        "Finishing"
+      ],
+      "text": "Finishing",
+      "y": 3670,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-09-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:34.094Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Finishing",
+        "title": "Finishing",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#decoration",
+      "tag": "SECTION",
+      "cls": "finishing site-block",
+      "elementId": "decoration",
+      "title": "Finishing",
+      "headings": [
+        "Finishing"
+      ],
+      "text": "Finishing The interiors of Riverside Residences feature neutral palettes and sophisticated finishes. Floor-to-ceiling windows invite abundant natural light, enhancing the spacious feel. Floors are adorned with large-format tiles in a light beige marble texture, while walls and ceilings are painted crisp white, creating a serene and contemporary ambiance. bedroom living room hallway living room",
+      "y": 3670,
+      "height": 1068,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1068,
+        "capturedAt": "2026-10-22T10:04:34.909Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Finishing The interiors of Riverside Residences feature neutral palettes and sophisticated finishes. Floor-to-ceiling windows invite abundant natural light, enhancing the spacious feel. Floors are adorned with large-format tiles in a light beige marble texture, while walls and ceilings are painted crisp white, creating a serene and contemporary ambiance. bedroom living room hallway living room",
+        "title": "Finishing",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#developer",
+      "tag": "SECTION",
+      "cls": "developer-block site-block",
+      "elementId": "developer",
+      "title": "Developer Damac Properties",
+      "headings": [
+        "Developer Damac Properties"
+      ],
+      "text": "Developer Damac Properties Damac Properties is a Dubai-based real estate development company operating in the luxury real estate market since 2002. Its portfolio includes premium residential complexes, office buildings and 5-star hotels in the United Arab Emirates, China, the Lebanese Republic, Jordan and the United Kingdom. To date, 32,000 new properties have already been built, with another 34,000 under constructio",
+      "y": 4918,
+      "height": 509,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 509,
+        "capturedAt": "2026-10-22T10:04:35.521Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "20px",
+        "text": "Developer Damac Properties Damac Properties is a Dubai-based real estate development company operating in the luxury real estate market since 2002. Its portfolio includes premium residential complexes, office buildings and 5-star hotels in the United Arab Emirates, China, the Lebanese Republic, Jordan and the United Kingdom. To date, 32,000 new properties have already been built, with another 34,000 under constructio",
+        "title": "Developer Damac Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#infrastructure > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-block__title",
+      "elementId": "",
+      "title": "Infrastructure",
+      "headings": [
+        "Infrastructure"
+      ],
+      "text": "Infrastructure",
+      "y": 5607,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-12-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:36.219Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Infrastructure",
+        "title": "Infrastructure",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#infrastructure",
+      "tag": "SECTION",
+      "cls": "infrastructure  site-block gallery",
+      "elementId": "infrastructure",
+      "title": "Infrastructure",
+      "headings": [
+        "Infrastructure"
+      ],
+      "text": "Infrastructure beach patio spa sport clubhouse The main feature of Riverside are artificial reservoirs with beaches, sports fields and public spaces.",
+      "y": 5607,
+      "height": 498,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-13-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 498,
+        "capturedAt": "2026-10-22T10:04:37.005Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Infrastructure beach patio spa sport clubhouse The main feature of Riverside are artificial reservoirs with beaches, sports fields and public spaces.",
+        "title": "Infrastructure",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#location > main:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-block__title",
+      "elementId": "",
+      "title": "Location of DAMAC Riverside Views",
+      "headings": [
+        "Location of DAMAC Riverside Views"
+      ],
+      "text": "Location of DAMAC Riverside Views",
+      "y": 6285,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-14-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:37.685Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Location of DAMAC Riverside Views",
+        "title": "Location of DAMAC Riverside Views",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#location",
+      "tag": "SECTION",
+      "cls": "location site-block map__root",
+      "elementId": "location",
+      "title": "Location of DAMAC Riverside Views",
+      "headings": [
+        "Location of DAMAC Riverside Views"
+      ],
+      "text": "Location of DAMAC Riverside Views Nestled in the thriving Dubai Investment Park 2, Riverside Residences embody the concept of a city within a city. This vibrant community seamlessly blends business hubs and corporate offices with a lifestyle-focused infrastructure, offering an ideal balance of work and leisure. 20 minutes to Dubai Marina 30 minutes to Downtown Dubai © Yandex User Agreement Directions",
+      "y": 6285,
+      "height": 873,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-15-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 873,
+        "capturedAt": "2026-10-22T10:04:38.588Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Location of DAMAC Riverside Views Nestled in the thriving Dubai Investment Park 2, Riverside Residences embody the concept of a city within a city. This vibrant community seamlessly blends business hubs and corporate offices with a lifestyle-focused infrastructure, offering an ideal balance of work and leisure. 20 minutes to Dubai Marina 30 minutes to Downtown Dubai © Yandex User Agreement Directions",
+        "title": "Location of DAMAC Riverside Views",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(11)",
+      "tag": "SECTION",
+      "cls": "",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "UAE Golden Visa 2-year visa for investors. Buy property from $205,000 10-year visa for investors. Buy property from $550,000 Apply now",
+      "y": 7338,
+      "height": 625,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-16-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 625,
+        "capturedAt": "2026-10-22T10:04:39.293Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "16px",
+        "text": "UAE Golden Visa 2-year visa for investors. Buy property from $205,000 10-year visa for investors. Buy property from $550,000 Apply now",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#places_nearby > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-block__title",
+      "elementId": "",
+      "title": "Places nearby",
+      "headings": [
+        "Places nearby"
+      ],
+      "text": "Places nearby",
+      "y": 7963,
+      "height": 48,
+      "width": 890,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-17-desktop.jpg",
+        "captureWidth": 890,
+        "captureHeight": 48,
+        "capturedAt": "2026-10-22T10:04:39.810Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Places nearby",
+        "title": "Places nearby",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#places_nearby",
+      "tag": "SECTION",
+      "cls": "places site-block",
+      "elementId": "places_nearby",
+      "title": "Places nearby",
+      "headings": [
+        "Places nearby",
+        "Els Golf Club",
+        "Dubai International Cricket Stadium",
+        "The Market",
+        "Dubai Miracle Garden"
+      ],
+      "text": "Places nearby Els Golf Club Dubai International Cricket Stadium The Market Dubai Miracle Garden",
+      "y": 7963,
+      "height": 720,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-18-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 720,
+        "capturedAt": "2026-10-22T10:04:40.364Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "Places nearby Els Golf Club Dubai International Cricket Stadium The Market Dubai Miracle Garden",
+        "title": "Places nearby",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#faq",
+      "tag": "SECTION",
+      "cls": "faq site-block",
+      "elementId": "faq",
+      "title": "FAQ",
+      "headings": [
+        "FAQ",
+        "Q: What amenities are available in the DAMAC Riverside Views apartments?",
+        "Q: Where are the Riverside Views apartments located?",
+        "Q: What types of apartments are available at Riverside Views?",
+        "Q: How can I obtain the brochure for DAMAC Riverside Views?"
+      ],
+      "text": "FAQ Q: What amenities are available in the DAMAC Riverside Views apartments? Q: Where are the Riverside Views apartments located? Q: What types of apartments are available at Riverside Views? Q: How can I obtain the brochure for DAMAC Riverside Views? Q: What is the price range of the apartments in Riverside Views? Q: What attractions are near the Riverside Views community? Q: Is there excellent connectivity from Riv",
+      "y": 8863,
+      "height": 1092,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-19-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1092,
+        "capturedAt": "2026-10-22T10:04:41.117Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "48px",
+        "text": "FAQ Q: What amenities are available in the DAMAC Riverside Views apartments? Q: Where are the Riverside Views apartments located? Q: What types of apartments are available at Riverside Views? Q: How can I obtain the brochure for DAMAC Riverside Views? Q: What is the price range of the apartments in Riverside Views? Q: What attractions are near the Riverside Views community? Q: Is there excellent connectivity from Riv",
+        "title": "FAQ",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#excursion",
+      "tag": "SECTION",
+      "cls": "excursion site-block",
+      "elementId": "excursion",
+      "title": "",
+      "headings": [],
+      "text": "© Yandex User Agreement Directions Arrange a viewing Please provide your contact details, and our manager will contact you to clarify a convenient time for your viewing. Arrange on the website Arrange in WhatsApp Arrange in Telegram",
+      "y": 10135,
+      "height": 652,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-20-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 652,
+        "capturedAt": "2026-10-22T10:04:41.916Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "16px",
+        "text": "© Yandex User Agreement Directions Arrange a viewing Please provide your contact details, and our manager will contact you to clarify a convenient time for your viewing. Arrange on the website Arrange in WhatsApp Arrange in Telegram",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Gallery Infrastructure Experts vision Finishing Payment plan Location Places nearby Developer 24-hour hotline +971 (4) 581-4553 All information provided on this website is not a public offer. Get Brochure WHITEWILL REAL ESTATE BROKERS L.L.C, License Nr. 939961, address: Office 1314, The Onyx Tower, 1 Sheikh Zayed Rd, The Greens, Dubai Whitewill’s Office: Office 1314, The Onyx, Tower 1 Sheikh Zayed Road, The Greens, D",
+      "y": 10967,
+      "height": 529,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-20-21-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 529,
+        "capturedAt": "2026-10-22T10:04:42.659Z",
+        "failedImages": 0,
+        "font": "\"Proxima Nova\", sans-serif",
+        "fontSize": "16px",
+        "text": "Gallery Infrastructure Experts vision Finishing Payment plan Location Places nearby Developer 24-hour hotline +971 (4) 581-4553 All information provided on this website is not a public offer. Get Brochure WHITEWILL REAL ESTATE BROKERS L.L.C, License Nr. 939961, address: Office 1314, The Onyx Tower, 1 Sheikh Zayed Rd, The Greens, Dubai Whitewill’s Office: Office 1314, The Onyx, Tower 1 Sheikh Zayed Road, The Greens, D",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-20",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:04:28.937Z"
+}

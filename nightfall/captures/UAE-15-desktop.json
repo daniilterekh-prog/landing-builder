@@ -1,0 +1,211 @@
+{
+  "url": "https://www.aldar.com/samayas/",
+  "title": "SAMA YAS",
+  "height": 7076,
+  "blocks": [
+    {
+      "selector": "#header-banner",
+      "tag": "SECTION",
+      "cls": "home-banner",
+      "elementId": "header-banner",
+      "title": "A NEW STANDARD OF LUXURY LIVING IN THE PARK",
+      "headings": [
+        "A NEW STANDARD OF LUXURY LIVING IN THE PARK"
+      ],
+      "text": "A NEW STANDARD OF LUXURY LIVING IN THE PARK",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:03:12.049Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "72px",
+        "text": "A NEW STANDARD OF LUXURY LIVING IN THE PARK",
+        "title": "A NEW STANDARD OF LUXURY LIVING IN THE PARK",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#header-global",
+      "tag": "HEADER",
+      "cls": "main-header",
+      "elementId": "header-global",
+      "title": "",
+      "headings": [],
+      "text": "REGISTER YOUR INTEREST Go to Aldar.com",
+      "y": 42,
+      "height": 82,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 82,
+        "capturedAt": "2026-10-22T10:03:12.578Z",
+        "failedImages": 0,
+        "font": "Poppins, sans-serif",
+        "fontSize": "14px",
+        "text": "REGISTER YOUR INTEREST Go to Aldar.com",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#global-content > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "curated-block",
+      "elementId": "",
+      "title": "CURATED TO THE LAST DETAIL",
+      "headings": [
+        "CURATED TO THE LAST DETAIL"
+      ],
+      "text": "CURATED TO THE LAST DETAIL IN THE HEART OF ABU DHABI’S MOST VIBRANT ISLAND, SAMA YAS DEFINES ELEGANCE AND PRECISION. A TESTAMENT TO ALDAR'S METICULOUS ARTISTRY, WHERE EVERY FEATURE AMPLIFIES COMFORT AND STYLE.",
+      "y": 900,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:03:13.234Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "96px",
+        "text": "CURATED TO THE LAST DETAIL IN THE HEART OF ABU DHABI’S MOST VIBRANT ISLAND, SAMA YAS DEFINES ELEGANCE AND PRECISION. A TESTAMENT TO ALDAR'S METICULOUS ARTISTRY, WHERE EVERY FEATURE AMPLIFIES COMFORT AND STYLE.",
+        "title": "CURATED TO THE LAST DETAIL",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#global-content > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "luxurious-lifestyle",
+      "elementId": "",
+      "title": "A LUXURIOUS LIFESTYLE, CURATED TO THE LAST DETAIL",
+      "headings": [
+        "A LUXURIOUS LIFESTYLE, CURATED TO THE LAST DETAIL"
+      ],
+      "text": "A LUXURIOUS LIFESTYLE, CURATED TO THE LAST DETAIL RESIDENTS WILL ENJOY ACCESS TO A DEDICATED CONCIERGE, ROUND-THE-CLOCK ROOM SERVICE AND CATERED PICNICS IN THE EXPANSIVE PARK THAT SURROUNDS THE DEVELOPMENT, AS WELL AS THE CULINARY MASTERY OF CHEF IZU’S EXCLUSIVE IN-HOUSE RESTAURANT.",
+      "y": 1800,
+      "height": 1137,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1138,
+        "capturedAt": "2026-10-22T10:03:14.662Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "70px",
+        "text": "A LUXURIOUS LIFESTYLE, CURATED TO THE LAST DETAIL RESIDENTS WILL ENJOY ACCESS TO A DEDICATED CONCIERGE, ROUND-THE-CLOCK ROOM SERVICE AND CATERED PICNICS IN THE EXPANSIVE PARK THAT SURROUNDS THE DEVELOPMENT, AS WELL AS THE CULINARY MASTERY OF CHEF IZU’S EXCLUSIVE IN-HOUSE RESTAURANT.",
+        "title": "A LUXURIOUS LIFESTYLE, CURATED TO THE LAST DETAIL",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#global-content > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "explore-samayas",
+      "elementId": "",
+      "title": "EXPLORE SAMA YAS",
+      "headings": [
+        "EXPLORE SAMA YAS",
+        "TAKE A VIRTUAL TOUR"
+      ],
+      "text": "EXPLORE SAMA YAS A PLACE WHERE EACH DETAIL SIGNIFIES OUR UNWAVERING COMMITMENT TO LUXURY TAKE A VIRTUAL TOUR",
+      "y": 2937,
+      "height": 1146,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1146,
+        "capturedAt": "2026-10-22T10:03:15.732Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "80px",
+        "text": "EXPLORE SAMA YAS A PLACE WHERE EACH DETAIL SIGNIFIES OUR UNWAVERING COMMITMENT TO LUXURY TAKE A VIRTUAL TOUR",
+        "title": "EXPLORE SAMA YAS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#page-top > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "spacification-block",
+      "elementId": "",
+      "title": "SAMA YAS IS A TESTAMENT TO METICULOUS CRAFT, DESIGN AND PRECISION, WHERE EVERY DETAIL EXUDES LUXURY.",
+      "headings": [
+        "SAMA YAS IS A TESTAMENT TO METICULOUS CRAFT, DESIGN AND PRECISION, WHERE EVERY DETAIL EXUDES LUXURY.",
+        "A NEW STANDARD OF LUXURY LIVING IN THE PARK"
+      ],
+      "text": "SAMA YAS IS A TESTAMENT TO METICULOUS CRAFT, DESIGN AND PRECISION, WHERE EVERY DETAIL EXUDES LUXURY. AMENITIES SUSTAINABILITY COMMUNITY A NEW STANDARD OF LUXURY LIVING IN THE PARK ENJOY SERVICES AND AMENITIES WHERE EVERY DETAIL HAS BEEN CRAFTED TO ELEVATE YOUR COMFORT, STYLE AND ELEGANCE. THE CANOPY CLUB MAISON MOCHA COFFEE SHOP PICTURE PARLOR CINEMA 360-DEGREE CONCIERGE 24/7 ROOM SERVICE CATERED PICNICS IN THE PARK ",
+      "y": 4083,
+      "height": 1648,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1649,
+        "capturedAt": "2026-10-22T10:03:17.286Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "40px",
+        "text": "SAMA YAS IS A TESTAMENT TO METICULOUS CRAFT, DESIGN AND PRECISION, WHERE EVERY DETAIL EXUDES LUXURY. AMENITIES SUSTAINABILITY COMMUNITY A NEW STANDARD OF LUXURY LIVING IN THE PARK ENJOY SERVICES AND AMENITIES WHERE EVERY DETAIL HAS BEEN CRAFTED TO ELEVATE YOUR COMFORT, STYLE AND ELEGANCE. THE CANOPY CLUB MAISON MOCHA COFFEE SHOP PICTURE PARLOR CINEMA 360-DEGREE CONCIERGE 24/7 ROOM SERVICE CATERED PICNICS IN THE PARK ",
+        "title": "SAMA YAS IS A TESTAMENT TO METICULOUS CRAFT, DESIGN AND PRECISION, WHERE EVERY DETAIL EXUDES LUXURY.",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#page-top > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "details-and-finishes",
+      "elementId": "",
+      "title": "DETAILS AND FINISHES",
+      "headings": [
+        "DETAILS AND FINISHES"
+      ],
+      "text": "DETAILS AND FINISHES 800 ALDAR REGISTER INTEREST",
+      "y": 5732,
+      "height": 1344,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-15-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1344,
+        "capturedAt": "2026-10-22T10:03:18.247Z",
+        "failedImages": 0,
+        "font": "Brandon",
+        "fontSize": "80px",
+        "text": "DETAILS AND FINISHES 800 ALDAR REGISTER INTEREST",
+        "title": "DETAILS AND FINISHES",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-15",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:03:11.020Z"
+}

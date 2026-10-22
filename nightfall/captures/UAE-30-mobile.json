@@ -1,0 +1,459 @@
+{
+  "url": "https://saadiyat-island.aeontrisl.com/",
+  "title": "Saadiyat Island by Aldar in Abu Dhabi | Saadiyat Island Properties",
+  "height": 12313,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "elementor elementor-3134 elementor-location-header",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Overview Amenities Gallery Payment Plan Location Contact Us",
+      "y": 0,
+      "height": 50,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 50,
+        "capturedAt": "2026-10-22T10:11:43.766Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "Overview Amenities Gallery Payment Plan Location Contact Us",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-29190c2 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "Saadiyat Island by Aldar",
+      "headings": [
+        "Saadiyat Island by Aldar",
+        "Abu Dhabi’s Most Prestigious Community",
+        "1 to 6-BR",
+        "New Launch Limited Availability",
+        "40/60"
+      ],
+      "text": "Saadiyat Island by Aldar Abu Dhabi’s Most Prestigious Community Register your interest 1 to 6-BR Apartments, Villas & Townhouses New Launch Limited Availability 40/60 Payment Plan Starting Price Upon Request",
+      "y": 50,
+      "height": 550,
+      "width": 390,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 550,
+        "capturedAt": "2026-10-22T10:11:44.291Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Saadiyat Island by Aldar Abu Dhabi’s Most Prestigious Community Register your interest 1 to 6-BR Apartments, Villas & Townhouses New Launch Limited Availability 40/60 Payment Plan Starting Price Upon Request",
+        "title": "Saadiyat Island by Aldar",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#about",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-86ef02d e-flex e-con-boxed e-con e-child",
+      "elementId": "about",
+      "title": "Abu Dhabi’s Cultural & Luxury Living Destination",
+      "headings": [
+        "Abu Dhabi’s Cultural & Luxury Living Destination"
+      ],
+      "text": "About Saadiyat Island Abu Dhabi’s Cultural & Luxury Living Destination Saadiyat Island by Aldar is a master-planned community offering luxury villas, townhouses, and waterfront apartments. Surrounded by sandy beaches, green corridors, and cultural landmarks, it provides a lifestyle that blends leisure, nature, and connectivity.",
+      "y": 695,
+      "height": 348,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 348,
+        "capturedAt": "2026-10-22T10:11:44.773Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "About Saadiyat Island Abu Dhabi’s Cultural & Luxury Living Destination Saadiyat Island by Aldar is a master-planned community offering luxury villas, townhouses, and waterfront apartments. Surrounded by sandy beaches, green corridors, and cultural landmarks, it provides a lifestyle that blends leisure, nature, and connectivity.",
+        "title": "Abu Dhabi’s Cultural & Luxury Living Destination",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-8114ebe e-con-full e-flex e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Designed for Life, Connected to Everything Saadiyat Island is more than a location—it’s a lifestyle. With schools, parks, retail promenades, and leisure hubs, the community is designed for families to enjoy everyday comfort while experiencing a blend of wellness, culture, and luxury living in Abu Dhabi. Saadiyat Island – Smart Investment, Serene Living With strong rental demand, freehold ownership, and long-term valu",
+      "y": 1043,
+      "height": 724,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 724,
+        "capturedAt": "2026-10-22T10:11:45.243Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "Designed for Life, Connected to Everything Saadiyat Island is more than a location—it’s a lifestyle. With schools, parks, retail promenades, and leisure hubs, the community is designed for families to enjoy everyday comfort while experiencing a blend of wellness, culture, and luxury living in Abu Dhabi. Saadiyat Island – Smart Investment, Serene Living With strong rental demand, freehold ownership, and long-term valu",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#projects",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-fb7f34c e-flex e-con-boxed e-con e-child",
+      "elementId": "projects",
+      "title": "Explore Properties for Sale in Saadiyat Island by Aldar",
+      "headings": [
+        "Explore Properties for Sale in Saadiyat Island by Aldar"
+      ],
+      "text": "Projects Explore Properties for Sale in Saadiyat Island by Aldar Saadiyat Island features iconic Aldar projects including The Source Terraces, Mamsha Palm, and Saadiyat Lagoons. From beachfront apartments to luxury villas, each community offers a unique blend of lifestyle and investment appeal.",
+      "y": 1831,
+      "height": 348,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 348,
+        "capturedAt": "2026-10-22T10:11:45.738Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Projects Explore Properties for Sale in Saadiyat Island by Aldar Saadiyat Island features iconic Aldar projects including The Source Terraces, Mamsha Palm, and Saadiyat Lagoons. From beachfront apartments to luxury villas, each community offers a unique blend of lifestyle and investment appeal.",
+        "title": "Explore Properties for Sale in Saadiyat Island by Aldar",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-d61f315 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "Mandarin Oriental Residences",
+      "headings": [
+        "Mandarin Oriental Residences",
+        "Mamsha Gardens Saadiyat Island",
+        "Mamsha Palm Saadiyat Island"
+      ],
+      "text": "Mandarin Oriental Residences 1–5 Bedroom Apartments & Penthouses Starting Price: Upon Request Learn More Mamsha Gardens Saadiyat Island Furnished 1–5 BR Apartments & Townhouses Starting Price: Upon Request Learn More Mamsha Palm Saadiyat Island 1–4 BR Luxury Apartments & Sky Villas Starting Price: Upon Request Learn More",
+      "y": 2179,
+      "height": 1430,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1430,
+        "capturedAt": "2026-10-22T10:11:46.293Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "25px",
+        "text": "Mandarin Oriental Residences 1–5 Bedroom Apartments & Penthouses Starting Price: Upon Request Learn More Mamsha Gardens Saadiyat Island Furnished 1–5 BR Apartments & Townhouses Starting Price: Upon Request Learn More Mamsha Palm Saadiyat Island 1–4 BR Luxury Apartments & Sky Villas Starting Price: Upon Request Learn More",
+        "title": "Mandarin Oriental Residences",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-56f5e26 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "The Arthouse by Aldar",
+      "headings": [
+        "The Arthouse by Aldar",
+        "The Source Terraces by Aldar",
+        "Saadiyat Lagoons by Aldar"
+      ],
+      "text": "The Arthouse by Aldar Luxury 1–5 Bedroom Apartments & Sky Villas Starting Price: Upon Request Learn More The Source Terraces by Aldar Luxury 1–4 BR Apartments & Sky Suite Starting Price: Upon Request Learn More Saadiyat Lagoons by Aldar 4, 5 & 6 Bedroom Villas Starting Price: Upon Request Learn More",
+      "y": 3629,
+      "height": 1351,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-07-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1351,
+        "capturedAt": "2026-10-22T10:11:46.820Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "25px",
+        "text": "The Arthouse by Aldar Luxury 1–5 Bedroom Apartments & Sky Villas Starting Price: Upon Request Learn More The Source Terraces by Aldar Luxury 1–4 BR Apartments & Sky Suite Starting Price: Upon Request Learn More Saadiyat Lagoons by Aldar 4, 5 & 6 Bedroom Villas Starting Price: Upon Request Learn More",
+        "title": "The Arthouse by Aldar",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-1fc61dc e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Explore All Saadiyat Island Projects",
+      "y": 4979,
+      "height": 86,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-08-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 86,
+        "capturedAt": "2026-10-22T10:11:47.285Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "Explore All Saadiyat Island Projects",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#amenities",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-38c0c3c e-flex e-con-boxed e-con e-child",
+      "elementId": "amenities",
+      "title": "Experience Resort-Style Living Every Day",
+      "headings": [
+        "Experience Resort-Style Living Every Day"
+      ],
+      "text": "Features & Amenities Experience Resort-Style Living Every Day Saadiyat Island offers a resort-inspired lifestyle. Residents enjoy world-class leisure, green spaces, wellness facilities, and vibrant retail destinations—all within one master-planned community.",
+      "y": 5125,
+      "height": 280,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-09-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 281,
+        "capturedAt": "2026-10-22T10:11:47.757Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Features & Amenities Experience Resort-Style Living Every Day Saadiyat Island offers a resort-inspired lifestyle. Residents enjoy world-class leisure, green spaces, wellness facilities, and vibrant retail destinations—all within one master-planned community.",
+        "title": "Experience Resort-Style Living Every Day",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-5fbd269 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "Need Assistance? Schedule a Quick Call with Our Team",
+      "headings": [
+        "Need Assistance? Schedule a Quick Call with Our Team"
+      ],
+      "text": "White Sandy Beaches & Beach Clubs Community Parks & Green Corridors Jogging & Cycling Tracks Retail Outlets, Cafés & Fine Dining Waterfront Promenades & Leisure Destinations Schools & Nurseries Within the Community Need Assistance? Schedule a Quick Call with Our Team Request A Call Back",
+      "y": 5426,
+      "height": 1200,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1200,
+        "capturedAt": "2026-10-22T10:11:48.321Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "28px",
+        "text": "White Sandy Beaches & Beach Clubs Community Parks & Green Corridors Jogging & Cycling Tracks Retail Outlets, Cafés & Fine Dining Waterfront Promenades & Leisure Destinations Schools & Nurseries Within the Community Need Assistance? Schedule a Quick Call with Our Team Request A Call Back",
+        "title": "Need Assistance? Schedule a Quick Call with Our Team",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#payment-plan",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-b215c0b e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "payment-plan",
+      "title": "Simple & Flexible 40/60 Payment Plan",
+      "headings": [
+        "Simple & Flexible 40/60 Payment Plan"
+      ],
+      "text": "Simple & Flexible 40/60 Payment Plan Aldar’s flexible payment plans at Saadiyat Island provide an ideal opportunity for both homeowners and investors. With structured installments and long-term value, it’s easier than ever to secure a premium property in Abu Dhabi. Download Payment Plan Download Brochure 10% Down Payment Secure your home at Saadiyat Island with just a 10% down payment. 30% During Construction Enjoy f",
+      "y": 8946,
+      "height": 933,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-11-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 934,
+        "capturedAt": "2026-10-22T10:11:48.841Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Simple & Flexible 40/60 Payment Plan Aldar’s flexible payment plans at Saadiyat Island provide an ideal opportunity for both homeowners and investors. With structured installments and long-term value, it’s easier than ever to secure a premium property in Abu Dhabi. Download Payment Plan Download Brochure 10% Down Payment Secure your home at Saadiyat Island with just a 10% down payment. 30% During Construction Enjoy f",
+        "title": "Simple & Flexible 40/60 Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#location",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-944aab1 e-con-full e-flex e-con e-parent e-lazyloaded",
+      "elementId": "location",
+      "title": "Prime Abu Dhabi Location, Seamless Connectivity",
+      "headings": [
+        "Prime Abu Dhabi Location, Seamless Connectivity"
+      ],
+      "text": "Location Prime Abu Dhabi Location, Seamless Connectivity Strategically located just minutes from Downtown Abu Dhabi, Saadiyat Island offers the perfect balance of city convenience and island tranquility. With direct access to the Cultural District, pristine beaches, and the airport, it is a destination that connects residents to everything that matters.",
+      "y": 9955,
+      "height": 599,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-12-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 600,
+        "capturedAt": "2026-10-22T10:11:49.311Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Location Prime Abu Dhabi Location, Seamless Connectivity Strategically located just minutes from Downtown Abu Dhabi, Saadiyat Island offers the perfect balance of city convenience and island tranquility. With direct access to the Cultural District, pristine beaches, and the airport, it is a destination that connects residents to everything that matters.",
+        "title": "Prime Abu Dhabi Location, Seamless Connectivity",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(13)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-89b6676 e-con-full e-flex e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "05 min Louvre Abu Dhabi 07 min Zayed National Museum 10 min Abu Dhabi Corniche 15 min Downtown Abu Dhabi",
+      "y": 10504,
+      "height": 500,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-13-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 500,
+        "capturedAt": "2026-10-22T10:11:49.776Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "05 min Louvre Abu Dhabi 07 min Zayed National Museum 10 min Abu Dhabi Corniche 15 min Downtown Abu Dhabi",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#contact-us",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-e5d2d70 e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "contact-us",
+      "title": "Get a Free Consultation from Sales Team",
+      "headings": [
+        "Get a Free Consultation from Sales Team"
+      ],
+      "text": "Contact Us Get a Free Consultation from Sales Team",
+      "y": 11063,
+      "height": 125,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-14-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 126,
+        "capturedAt": "2026-10-22T10:11:50.290Z",
+        "failedImages": 0,
+        "font": "Forum, sans-serif",
+        "fontSize": "36px",
+        "text": "Contact Us Get a Free Consultation from Sales Team",
+        "title": "Get a Free Consultation from Sales Team",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#post-988518 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(15)",
+      "tag": "DIV",
+      "cls": "elementor-element elementor-element-5a99ffa e-flex e-con-boxed e-con e-parent e-lazyloaded",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Submit Your Inquiry By submitting this form, you agree to our Privacy Policy. We may contact you via email or phone to assist with your inquiry or provide further details.",
+      "y": 11209,
+      "height": 945,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-15-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 946,
+        "capturedAt": "2026-10-22T10:11:50.856Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "Submit Your Inquiry By submitting this form, you agree to our Privacy Policy. We may contact you via email or phone to assist with your inquiry or provide further details.",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-footer",
+      "tag": "FOOTER",
+      "cls": "main-footer",
+      "elementId": "main-footer",
+      "title": "",
+      "headings": [],
+      "text": "2026 © All rights reserved. Terms & Conditions Privacy Policy",
+      "y": 12213,
+      "height": 101,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-30-16-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 101,
+        "capturedAt": "2026-10-22T10:11:51.324Z",
+        "failedImages": 0,
+        "font": "\"DM Sans\", sans-serif",
+        "fontSize": "16px",
+        "text": "2026 © All rights reserved. Terms & Conditions Privacy Policy",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-30",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:11:43.251Z"
+}

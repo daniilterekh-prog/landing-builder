@@ -1,0 +1,320 @@
+{
+  "url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+  "title": "Cove Edition I | Dubai Land Residence Complex | Imtiaz",
+  "height": 5935,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "header transparent-header",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "ABOUT COMMUNITIES PROPERTIES MEDIA CENTER CONTACT US PAY NOW CHANNEL PARTNER",
+      "y": 0,
+      "height": 117,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 119,
+        "capturedAt": "2026-10-22T10:02:44.331Z",
+        "failedImages": 0,
+        "font": "Avenir",
+        "fontSize": "14px",
+        "text": "ABOUT COMMUNITIES PROPERTIES MEDIA CENTER CONTACT US PAY NOW CHANNEL PARTNER",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "big-banner-section property-details-banner bg-cover relative",
+      "elementId": "",
+      "title": "THE BEGINNING OF A DISTINGUISHED COMMUNITY - COVE EDITION I BY IMTIAZ",
+      "headings": [
+        "THE BEGINNING OF A DISTINGUISHED COMMUNITY - COVE EDITION I BY IMTIAZ"
+      ],
+      "text": "HOME / PROPERTIES / COVE EDITION I BY IMTIAZ THE BEGINNING OF A DISTINGUISHED COMMUNITY - COVE EDITION I BY IMTIAZ",
+      "y": 0,
+      "height": 700,
+      "width": 1440,
+      "h1Words": 12,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 700,
+        "capturedAt": "2026-10-22T10:02:44.850Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "32px",
+        "text": "HOME / PROPERTIES / COVE EDITION I BY IMTIAZ THE BEGINNING OF A DISTINGUISHED COMMUNITY - COVE EDITION I BY IMTIAZ",
+        "title": "THE BEGINNING OF A DISTINGUISHED COMMUNITY - COVE EDITION I BY IMTIAZ",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "patt-section prop-details-section left-right-section pt-100 pb-100 pt-50-p pb-50-p aos-init aos-animate",
+      "elementId": "",
+      "title": "AN OASIS IN THE SKY",
+      "headings": [
+        "AN OASIS IN THE SKY"
+      ],
+      "text": "AN OASIS IN THE SKY Discover an elevated lifestyle at Cove Edition Residence, where sophistication and luxury ascend to new heights. With elegant, fully-furnished residences, diverse housing options, and world-class amenities, it offers unparalleled convenience for residents. Investing in Cove Edition Residence promises refined living and smart financial growth in Dubailand, Dubai. Its strategic location ensures seam",
+      "y": 700,
+      "height": 637,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 638,
+        "capturedAt": "2026-10-22T10:02:45.515Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "AN OASIS IN THE SKY Discover an elevated lifestyle at Cove Edition Residence, where sophistication and luxury ascend to new heights. With elegant, fully-furnished residences, diverse housing options, and world-class amenities, it offers unparalleled convenience for residents. Investing in Cove Edition Residence promises refined living and smart financial growth in Dubailand, Dubai. Its strategic location ensures seam",
+        "title": "AN OASIS IN THE SKY",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "int-ext-section pb-100 pb-50-p aos-init",
+      "elementId": "",
+      "title": "INTERIOR",
+      "headings": [
+        "INTERIOR",
+        "EXTERIOR"
+      ],
+      "text": "INTERIOR EXTERIOR",
+      "y": 1392,
+      "height": 738,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 738,
+        "capturedAt": "2026-10-22T10:02:46.094Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "INTERIOR EXTERIOR",
+        "title": "INTERIOR",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "amen-section pb-100 pb-50-p aos-init",
+      "elementId": "",
+      "title": "AMENITIES",
+      "headings": [
+        "AMENITIES"
+      ],
+      "text": "AMENITIES FURNISHED CLUB HOUSE FULLY EQUIPPED GYM SAUNA & STEAM KID'S PLAY GROUND KIDS' ZONE JACUZZI SITTING AREA BBQ AREA",
+      "y": 2163,
+      "height": 642,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 642,
+        "capturedAt": "2026-10-22T10:02:46.843Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "AMENITIES FURNISHED CLUB HOUSE FULLY EQUIPPED GYM SAUNA & STEAM KID'S PLAY GROUND KIDS' ZONE JACUZZI SITTING AREA BBQ AREA",
+        "title": "AMENITIES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "const-section pt-90 pt-50-p pb-60 pb-50-p aos-init",
+      "elementId": "",
+      "title": "CONSTRUCTION PROGRESS",
+      "headings": [
+        "CONSTRUCTION PROGRESS"
+      ],
+      "text": "CONSTRUCTION PROGRESS 91 OVERALL ESTIMATED COMPLETION DATE Q3 2026 As the project progresses, significant milestones are reached, showcasing our team's dedication and expertise. We are steadily moving closer to our completion goal, ensuring quality and safety at every step. SEE CONSTRUCTION PROGRESS PHOTOS",
+      "y": 2812,
+      "height": 586,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 587,
+        "capturedAt": "2026-10-22T10:02:47.508Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "CONSTRUCTION PROGRESS 91 OVERALL ESTIMATED COMPLETION DATE Q3 2026 As the project progresses, significant milestones are reached, showcasing our team's dedication and expertise. We are steadily moving closer to our completion goal, ensuring quality and safety at every step. SEE CONSTRUCTION PROGRESS PHOTOS",
+        "title": "CONSTRUCTION PROGRESS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "prog-section bg-main pt-30 pb-30 aos-init",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "92 FINISHING WORKS 97 MEP WORKS 100 SUPER-STRUCTURE 100 SUB-STRUCTURE",
+      "y": 3398,
+      "height": 198,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 198,
+        "capturedAt": "2026-10-22T10:02:48.038Z",
+        "failedImages": 0,
+        "font": "Avenir",
+        "fontSize": "14px",
+        "text": "92 FINISHING WORKS 97 MEP WORKS 100 SUPER-STRUCTURE 100 SUB-STRUCTURE",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "const-section pt-90 pt-50-p pb-60 pb-50-p aos-init",
+      "elementId": "",
+      "title": "FAQS",
+      "headings": [
+        "FAQS",
+        "Where is Cove Edition located?",
+        "What unit types are available at Cove Edition?",
+        "Are the apartments fully furnished?",
+        "What amenities are available?"
+      ],
+      "text": "FAQS 1 Where is Cove Edition located? 2 What unit types are available at Cove Edition? 3 Are the apartments fully furnished? 4 What amenities are available? 5 What is the payment plan? 6 When is the expected handover for Cove Edition by Imtiaz? 7 Is Cove Edition by Imtiaz suitable for investment?",
+      "y": 3596,
+      "height": 592,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 592,
+        "capturedAt": "2026-10-22T10:02:49.058Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "FAQS 1 Where is Cove Edition located? 2 What unit types are available at Cove Edition? 3 Are the apartments fully furnished? 4 What amenities are available? 5 What is the payment plan? 6 When is the expected handover for Cove Edition by Imtiaz? 7 Is Cove Edition by Imtiaz suitable for investment?",
+        "title": "FAQS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "our-head-section pt-80 pb-100 pt-50-p pb-50-p aos-init",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "PROPERTY LOCATION",
+      "y": 4194,
+      "height": 672,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 672,
+        "capturedAt": "2026-10-22T10:02:49.997Z",
+        "failedImages": 0,
+        "font": "Avenir",
+        "fontSize": "14px",
+        "text": "PROPERTY LOCATION",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(9)",
+      "tag": "SECTION",
+      "cls": "register-section bg-cover pt-60 pb-60 overflow-hidden",
+      "elementId": "",
+      "title": "REGISTER YOUR INTEREST",
+      "headings": [
+        "REGISTER YOUR INTEREST"
+      ],
+      "text": "REGISTER YOUR INTEREST Imtiaz Developments stands as a beacon of unparalleled craftsmanship and design ethos. We build more than just structures; we curate experiences. We invite you to join us in this journey of redefining landscapes. Register your interest and become a part of the Imtiaz Developments legacy now. By doing so, you are taking the first step towards experiencing our commitment to delivering beyond expe",
+      "y": 4766,
+      "height": 734,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 734,
+        "capturedAt": "2026-10-22T10:02:51.193Z",
+        "failedImages": 0,
+        "font": "Optima",
+        "fontSize": "28px",
+        "text": "REGISTER YOUR INTEREST Imtiaz Developments stands as a beacon of unparalleled craftsmanship and design ethos. We build more than just structures; we curate experiences. We invite you to join us in this journey of redefining landscapes. Register your interest and become a part of the Imtiaz Developments legacy now. By doing so, you are taking the first step towards experiencing our commitment to delivering beyond expe",
+        "title": "REGISTER YOUR INTEREST",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer bg-main pt-60 pt-50-p",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Imtiaz Developments, a leading real estate property developer in UAE, delivers a total solution to all kinds of Real Estate projects, from initial concept through completion and handover to after sale maintenance and support. QUICK LINKS About Imtiaz Developments Communities Properties Faqs Careers Privacy Policy Terms & Conditions Cookie Policy CONTACT US +971 800 468429 info@imtiaz.ae Suite 204, Park Heights Square",
+      "y": 5500,
+      "height": 435,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-13-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 436,
+        "capturedAt": "2026-10-22T10:02:52.235Z",
+        "failedImages": 0,
+        "font": "Avenir",
+        "fontSize": "14px",
+        "text": "Imtiaz Developments, a leading real estate property developer in UAE, delivers a total solution to all kinds of Real Estate projects, from initial concept through completion and handover to after sale maintenance and support. QUICK LINKS About Imtiaz Developments Communities Properties Faqs Careers Privacy Policy Terms & Conditions Cookie Policy CONTACT US +971 800 468429 info@imtiaz.ae Suite 204, Park Heights Square",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-13",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:02:43.800Z"
+}

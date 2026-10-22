@@ -1,0 +1,369 @@
+{
+  "url": "https://theacres.meraas.com/",
+  "title": "The Acres by Meraas, an exclusive community of standalone 3 to 7-bedroom villas",
+  "height": 17658,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "section_header7 text-color-alternate desktop-vide hide-on-mobile",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T09:57:46.213Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "16px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#overview",
+      "tag": "SECTION",
+      "cls": "section-villas-v2-ph4 ph4",
+      "elementId": "overview",
+      "title": "THE ACRES ESTATES",
+      "headings": [
+        "THE ACRES ESTATES"
+      ],
+      "text": "THE ACRES ESTATES Introducing two exquisite collections of 5 to 7-bedroom villas, crafted for those with the most discerning tastes. From expansive living areas that invite natural light to flow freely, to private retreats that offer serenity and comfort, every detail has been thoughtfully considered.",
+      "y": 900,
+      "height": 486,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 487,
+        "capturedAt": "2026-10-22T09:57:46.745Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "THE ACRES ESTATES Introducing two exquisite collections of 5 to 7-bedroom villas, crafted for those with the most discerning tastes. From expansive living areas that invite natural light to flow freely, to private retreats that offer serenity and comfort, every detail has been thoughtfully considered.",
+        "title": "THE ACRES ESTATES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "property_section-v2-ph4 en property-section-ph4",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "IVORY COLLECTION AMBER COLLECTION Landscaped gardens frame this exquisite collection, enhancing your experience of nature’s beauty while preserving your privacy. It’s more than a home; it is a serene estate where comfort and sophistication offer an exceptional lifestyle. A home tailored for entertaining, where multiple open terraces and sun-drenched balconies create the perfect setting for hosting spectacular gatheri",
+      "y": 1386,
+      "height": 1872,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1873,
+        "capturedAt": "2026-10-22T09:57:50.976Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "16px",
+        "text": "IVORY COLLECTION AMBER COLLECTION Landscaped gardens frame this exquisite collection, enhancing your experience of nature’s beauty while preserving your privacy. It’s more than a home; it is a serene estate where comfort and sophistication offer an exceptional lifestyle. A home tailored for entertaining, where multiple open terraces and sun-drenched balconies create the perfect setting for hosting spectacular gatheri",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#acres-villas",
+      "tag": "SECTION",
+      "cls": "section-villas-v2-ph4-brown ph4 acres-villas",
+      "elementId": "acres-villas",
+      "title": "THE ACRES VILLAS",
+      "headings": [
+        "THE ACRES VILLAS"
+      ],
+      "text": "THE ACRES VILLAS Discover The Acres’ newest release of exquisite 3 to 5-bedroom villas, distinguished by their signature outdoor rooms and rear gardens that merge with the nature around you and offer the most refined living space. The villas’ contemporary design, characterised by an open-plan layout, double-height living spaces and floor-to-ceiling windows, effortlessly brings the captivating flora indoors and create",
+      "y": 4069,
+      "height": 380,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 380,
+        "capturedAt": "2026-10-22T09:57:51.508Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "THE ACRES VILLAS Discover The Acres’ newest release of exquisite 3 to 5-bedroom villas, distinguished by their signature outdoor rooms and rear gardens that merge with the nature around you and offer the most refined living space. The villas’ contemporary design, characterised by an open-plan layout, double-height living spaces and floor-to-ceiling windows, effortlessly brings the captivating flora indoors and create",
+        "title": "THE ACRES VILLAS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "property_section",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "3-BEDROOM VILLA 4-BEDROOM VILLA 5-BEDROOM VILLA Crafted with an eye for luxury and pure elegance, The Acres’ 5-bedroom villa features a facade that impresses with clean lines, creating selective openings on the street side to maximise privacy. In contrast, the thoughtful placement of large openings with full-length windows facing the courtyard invites the garden’s tranquility into each room. The heart of the home unf",
+      "y": 4520,
+      "height": 1030,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1030,
+        "capturedAt": "2026-10-22T09:57:56.477Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "16px",
+        "text": "3-BEDROOM VILLA 4-BEDROOM VILLA 5-BEDROOM VILLA Crafted with an eye for luxury and pure elegance, The Acres’ 5-bedroom villa features a facade that impresses with clean lines, creating selective openings on the street side to maximise privacy. In contrast, the thoughtful placement of large openings with full-length windows facing the courtyard invites the garden’s tranquility into each room. The heart of the home unf",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#community > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "pa_section-phase_4",
+      "elementId": "",
+      "title": "ABOUT THE ACRES COMMUNITY",
+      "headings": [
+        "ABOUT THE ACRES COMMUNITY"
+      ],
+      "text": "ABOUT THE ACRES COMMUNITY A standalone villa community featuring impeccable surroundings enveloped by nature. Graced with serene gardens and azure lagoons, this exclusive neighbourhood harmonises with the undulating terrain, creating a space that’s connected by meandering pathways to every corner of this ever-flourishing environment.",
+      "y": 5622,
+      "height": 381,
+      "width": 1440,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 382,
+        "capturedAt": "2026-10-22T09:57:57.082Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "ABOUT THE ACRES COMMUNITY A standalone villa community featuring impeccable surroundings enveloped by nature. Graced with serene gardens and azure lagoons, this exclusive neighbourhood harmonises with the undulating terrain, creating a space that’s connected by meandering pathways to every corner of this ever-flourishing environment.",
+        "title": "ABOUT THE ACRES COMMUNITY",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#location",
+      "tag": "SECTION",
+      "cls": "section-location-phase_4",
+      "elementId": "location",
+      "title": "IN THE MIDST OF NATURE",
+      "headings": [
+        "IN THE MIDST OF NATURE"
+      ],
+      "text": "IN THE MIDST OF NATURE Discover a community unlike any other in Dubai. A prestigious location where modern luxury and the splendour of nature converge. ‍ Centrally located within the Dubailand area with a very well-connected road network, the community has direct access to the city’s Sheikh Zayed Bin Hamdan Al Nahyan Street and Emirates Road. The Acres enjoys a prime position surrounded by a number of fully developed",
+      "y": 10950,
+      "height": 848,
+      "width": 1440,
+      "h1Words": 5,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 849,
+        "capturedAt": "2026-10-22T09:57:57.888Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "IN THE MIDST OF NATURE Discover a community unlike any other in Dubai. A prestigious location where modern luxury and the splendour of nature converge. ‍ Centrally located within the Dubailand area with a very well-connected road network, the community has direct access to the city’s Sheikh Zayed Bin Hamdan Al Nahyan Street and Emirates Road. The Acres enjoys a prime position surrounded by a number of fully developed",
+        "title": "IN THE MIDST OF NATURE",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#masterplan",
+      "tag": "SECTION",
+      "cls": "section-masterplan-phase_3",
+      "elementId": "masterplan",
+      "title": "A MASTERPLAN OF NATURAL LIVING",
+      "headings": [
+        "A MASTERPLAN OF NATURAL LIVING"
+      ],
+      "text": "A MASTERPLAN OF NATURAL LIVING Explore a world where bespoke villas find their home amongst flourishing surroundings, with lush parks that are conveniently located just a minute’s stroll away, inviting you to effortlessly immerse yourself in the beauty of nature. Nestled within the heart of this vibrant community are inviting swimmable lagoons, embraced by the serene beauty of a natural landscape. The Halo Loop Park ",
+      "y": 11711,
+      "height": 640,
+      "width": 1440,
+      "h1Words": 5,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 641,
+        "capturedAt": "2026-10-22T09:57:58.454Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "A MASTERPLAN OF NATURAL LIVING Explore a world where bespoke villas find their home amongst flourishing surroundings, with lush parks that are conveniently located just a minute’s stroll away, inviting you to effortlessly immerse yourself in the beauty of nature. Nestled within the heart of this vibrant community are inviting swimmable lagoons, embraced by the serene beauty of a natural landscape. The Halo Loop Park ",
+        "title": "A MASTERPLAN OF NATURAL LIVING",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(9)",
+      "tag": "SECTION",
+      "cls": "plan-grid-wrapper-phase_3",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "1. ENTRANCE 2. PRIMARY SCHOOL 3. MOSQUE 4. HALO PARK / COMMUNITY PARK 5. CLUBHOUSE 6. RETAIL 7. KINDERGARTEN 8. LAGOON CLUBHOUSE 9. JUICE BAR 10. LAGOON - LAKE 11. COMMUNITY AMENITIES",
+      "y": 12352,
+      "height": 837,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 837,
+        "capturedAt": "2026-10-22T09:57:59.023Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "16px",
+        "text": "1. ENTRANCE 2. PRIMARY SCHOOL 3. MOSQUE 4. HALO PARK / COMMUNITY PARK 5. CLUBHOUSE 6. RETAIL 7. KINDERGARTEN 8. LAGOON CLUBHOUSE 9. JUICE BAR 10. LAGOON - LAKE 11. COMMUNITY AMENITIES",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#amenities",
+      "tag": "SECTION",
+      "cls": "shaped-section-amenities-phase_4 ameneties-bg",
+      "elementId": "amenities",
+      "title": "IMMERSIVE AMENITIES",
+      "headings": [
+        "IMMERSIVE AMENITIES"
+      ],
+      "text": "IMMERSIVE AMENITIES Discover an array of engaging amenities nestled within carefully curated gardens that foster enriching interactions with nature. These gardens strategically encircle the main park, creating a harmonious blend of natural beauty and recreation. Within this expansive and integrated green network, a variety of facilities and amenities, tailored to a diverse range of interests, are easily accessible fo",
+      "y": 13189,
+      "height": 597,
+      "width": 1440,
+      "h1Words": 2,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 597,
+        "capturedAt": "2026-10-22T09:57:59.574Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "IMMERSIVE AMENITIES Discover an array of engaging amenities nestled within carefully curated gardens that foster enriching interactions with nature. These gardens strategically encircle the main park, creating a harmonious blend of natural beauty and recreation. Within this expansive and integrated green network, a variety of facilities and amenities, tailored to a diverse range of interests, are easily accessible fo",
+        "title": "IMMERSIVE AMENITIES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > section:nth-of-type(11)",
+      "tag": "SECTION",
+      "cls": "amenities-section-p4",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "ARRIVAL GARDEN VILLAGE GARDEN LAGOON GARDEN NATURE GARDEN LOST GARDEN PERFUME GARDEN EDIBLE GARDEN Walk into The Acres, where palm tree-lined boulevards extend the warmest of welcomes. Here, you’ll find the forest theatre, where nature and art meet, and the mosque plaza that sets the tone of peace. Each step in the Arrival Garden offers a calming glimpse into the greater environment that awaits within The Acres. ● AR",
+      "y": 13670,
+      "height": 840,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 841,
+        "capturedAt": "2026-10-22T09:58:01.640Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "16px",
+        "text": "ARRIVAL GARDEN VILLAGE GARDEN LAGOON GARDEN NATURE GARDEN LOST GARDEN PERFUME GARDEN EDIBLE GARDEN Walk into The Acres, where palm tree-lined boulevards extend the warmest of welcomes. Here, you’ll find the forest theatre, where nature and art meet, and the mosque plaza that sets the tone of peace. Each step in the Arrival Garden offers a calming glimpse into the greater environment that awaits within The Acres. ● AR",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#sustainability",
+      "tag": "SECTION",
+      "cls": "shaped-section-amenities-phase_3-copy no-bg-color",
+      "elementId": "sustainability",
+      "title": "NATURE’S BLUEPRINT",
+      "headings": [
+        "NATURE’S BLUEPRINT"
+      ],
+      "text": "NATURE’S BLUEPRINT Meraas has successfully attained LEED Gold pre-certification for Planning and Design at The Acres, reflecting its unwavering commitment to sustainability and environmentally friendly practices. LEED for Cities and Communities, the world’s leading sustainability certification system, sets the benchmark for eco-friendly practices that prioritise energy efficiency, water conservation, and environmenta",
+      "y": 15320,
+      "height": 1306,
+      "width": 1440,
+      "h1Words": 2,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-12-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1306,
+        "capturedAt": "2026-10-22T09:58:02.769Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "60px",
+        "text": "NATURE’S BLUEPRINT Meraas has successfully attained LEED Gold pre-certification for Planning and Design at The Acres, reflecting its unwavering commitment to sustainability and environmentally friendly practices. LEED for Cities and Communities, the world’s leading sustainability certification system, sets the benchmark for eco-friendly practices that prioritise energy efficiency, water conservation, and environmenta",
+        "title": "NATURE’S BLUEPRINT",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#register-now",
+      "tag": "SECTION",
+      "cls": "section-15-phase_3",
+      "elementId": "register-now",
+      "title": "REGISTER YOUR INTEREST",
+      "headings": [
+        "REGISTER YOUR INTEREST"
+      ],
+      "text": "REGISTER YOUR INTEREST FIRST NAME* LAST NAME* PHONE* EMAIL* COUNTRY OF RESIDENCE* United Arab Emirates Afghanistan Algeria Argentina Armenia Australia Austria Azerbaijan Bahrain Bangladesh Barbados Belarus Belgium Brazil British Virgin Islands Brunei Bulgaria Canada Chile China Colombia Comoros Croatia Cuba Cyprus Czech Republic Denmark Dominican Republic Egypt Eritrea Estonia Finland France Georgia Germany Ghana Gre",
+      "y": 16626,
+      "height": 828,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-02-13-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 828,
+        "capturedAt": "2026-10-22T09:58:03.361Z",
+        "failedImages": 0,
+        "font": "\"Kaftan Trial\", sans-serif",
+        "fontSize": "28.8px",
+        "text": "REGISTER YOUR INTEREST FIRST NAME* LAST NAME* PHONE* EMAIL* COUNTRY OF RESIDENCE* United Arab Emirates Afghanistan Algeria Argentina Armenia Australia Austria Azerbaijan Bahrain Bangladesh Barbados Belarus Belgium Brazil British Virgin Islands Brunei Bulgaria Canada Chile China Colombia Comoros Croatia Cuba Cyprus Czech Republic Denmark Dominican Republic Egypt Eritrea Estonia Finland France Georgia Germany Ghana Gre",
+        "title": "REGISTER YOUR INTEREST",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-02",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T09:57:45.624Z"
+}

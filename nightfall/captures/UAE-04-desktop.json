@@ -1,0 +1,291 @@
+{
+  "url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+  "title": "Grand Polo Club & Resort | Emaar Properties",
+  "height": 9119,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "SiteHeader-module__mIo1JG__bar site-header fixed inset-x-0 top-0 z-[var(--z-header)] h-[var(--em-header-height)] border-b",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "NEW LAUNCHES COMMUNITIES DELIVERED ABOUT EMAAR SEARCH GET IN TOUCH INSTANT CALL EN",
+      "y": 0,
+      "height": 72,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 72,
+        "capturedAt": "2026-10-22T10:00:52.412Z",
+        "failedImages": 0,
+        "font": "Lato, \"Lato Fallback\"",
+        "fontSize": "16px",
+        "text": "NEW LAUNCHES COMMUNITIES DELIVERED ABOUT EMAAR SEARCH GET IN TOUCH INSTANT CALL EN",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-content > div:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "CommunityHero-module__ig4hxG__hero relative mt-[clamp(20px,3vh,30px)] overflow-hidden",
+      "elementId": "",
+      "title": "Grand Polo Club & Resort",
+      "headings": [
+        "Grand Polo Club & Resort"
+      ],
+      "text": "EQUESTRIAN OPULENCE, BEYOND IMAGINATION Grand Polo Club & Resort Villas VIEW PROJECTS",
+      "y": 175,
+      "height": 868,
+      "width": 1440,
+      "h1Words": 5,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 869,
+        "capturedAt": "2026-10-22T10:00:53.009Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "63.36px",
+        "text": "EQUESTRIAN OPULENCE, BEYOND IMAGINATION Grand Polo Club & Resort Villas VIEW PROJECTS",
+        "title": "Grand Polo Club & Resort",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-content > div:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "mx-auto w-full max-w-[1472px] px-[clamp(20px,4vw,56px)] mt-[var(--space-band)]",
+      "elementId": "",
+      "title": "Equestrian Opulence, Beyond Imagination",
+      "headings": [
+        "Equestrian Opulence, Beyond Imagination"
+      ],
+      "text": "THE COMMUNITY Equestrian Opulence, Beyond Imagination A manifestation of luxurious living, blending the heritage of captivating equestrian experiences with seamless landscapes exuding modernity. An architectural style which is a fusion of form and function, entirely unparalleled. A lifestyle that offers an opportunity to be one with nature, every day. READ MORE PRICES FROM AED 3,500,000 PROPERTY TYPES Villas ENQUIRE",
+      "y": 1106,
+      "height": 347,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 348,
+        "capturedAt": "2026-10-22T10:00:53.568Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "THE COMMUNITY Equestrian Opulence, Beyond Imagination A manifestation of luxurious living, blending the heritage of captivating equestrian experiences with seamless landscapes exuding modernity. An architectural style which is a fusion of form and function, entirely unparalleled. A lifestyle that offers an opportunity to be one with nature, every day. READ MORE PRICES FROM AED 3,500,000 PROPERTY TYPES Villas ENQUIRE",
+        "title": "Equestrian Opulence, Beyond Imagination",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#em-figures",
+      "tag": "SECTION",
+      "cls": "mx-auto w-full max-w-[1472px] px-[clamp(20px,4vw,56px)] mt-[var(--space-band)] scroll-mt-[calc(var(--em-header-clearance)+12px)] mb-[-3.5px]",
+      "elementId": "em-figures",
+      "title": "",
+      "headings": [],
+      "text": "5.54 million SqM Masterplan Total Area 1.59 million SqM Open Space 340,000 SqM Polo Field & Stables Expanse 5,600 SqM Clubhouse GFA 1.56 million SqM Mix Use GFA 22 Residential Clusters 5,599 Residences 24,524 Estimated Resident Population",
+      "y": 1517,
+      "height": 210,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 211,
+        "capturedAt": "2026-10-22T10:00:54.076Z",
+        "failedImages": 0,
+        "font": "\"Source Sans 3\", \"Segoe UI\", system-ui, sans-serif",
+        "fontSize": "15px",
+        "text": "5.54 million SqM Masterplan Total Area 1.59 million SqM Open Space 340,000 SqM Polo Field & Stables Expanse 5,600 SqM Clubhouse GFA 1.56 million SqM Mix Use GFA 22 Residential Clusters 5,599 Residences 24,524 Estimated Resident Population",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#em-prop-h",
+      "tag": "H2",
+      "cls": "m-0 max-w-[20em] font-display text-h2 leading-[1.08] text-ink-primary text-pretty is-in is-done",
+      "elementId": "em-prop-h",
+      "title": "",
+      "headings": [],
+      "text": "Recently Launched in Grand Polo Club & Resort",
+      "y": 1823,
+      "height": 91,
+      "width": 840,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-05-desktop.jpg",
+        "captureWidth": 840,
+        "captureHeight": 91,
+        "capturedAt": "2026-10-22T10:00:54.630Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "Recently Launched in Grand Polo Club & Resort",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#em-properties > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "CommunityShowcase-module__GvlMhq__band",
+      "elementId": "",
+      "title": "Montura 2",
+      "headings": [
+        "Montura 2",
+        "Selvara 3",
+        "Montura 3",
+        "Chevalia Fields",
+        "Selvara"
+      ],
+      "text": "Showing 5 of 12 projects SHOWCASE GRID OPEN TO EXPLORE Montura 2 3 – 5 Bedrooms From AED 5,500,000 ENQUIRE EXPLORE → FLOOR PLANS VIEW BROCHURE AVAILABLE NOW Selvara 3 4 Bedrooms From AED 7,316,888 6 units remaining ENQUIRE EXPLORE → BOOK NOW FLOOR PLANS VIEW BROCHURE OPEN TO EXPLORE Montura 3 4 – 5 Bedrooms From AED 7,070,000 ENQUIRE EXPLORE → FLOOR PLANS VIEW BROCHURE OPEN TO EXPLORE Chevalia Fields 4 – 5 Bedrooms F",
+      "y": 1945,
+      "height": 3361,
+      "width": 1328,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-06-desktop.jpg",
+        "captureWidth": 1328,
+        "captureHeight": 3361,
+        "capturedAt": "2026-10-22T10:00:56.083Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "Showing 5 of 12 projects SHOWCASE GRID OPEN TO EXPLORE Montura 2 3 – 5 Bedrooms From AED 5,500,000 ENQUIRE EXPLORE → FLOOR PLANS VIEW BROCHURE AVAILABLE NOW Selvara 3 4 Bedrooms From AED 7,316,888 6 units remaining ENQUIRE EXPLORE → BOOK NOW FLOOR PLANS VIEW BROCHURE OPEN TO EXPLORE Montura 3 4 – 5 Bedrooms From AED 7,070,000 ENQUIRE EXPLORE → FLOOR PLANS VIEW BROCHURE OPEN TO EXPLORE Chevalia Fields 4 – 5 Bedrooms F",
+        "title": "Montura 2",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-content > div:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "mx-auto w-full max-w-[1472px] px-[clamp(20px,4vw,56px)] mt-[var(--space-band)]",
+      "elementId": "",
+      "title": "Getting here",
+      "headings": [
+        "Getting here"
+      ],
+      "text": "LOCATION Getting here VIEW THE LOCATION MAP FULL SCREEN VIEW GRAND POLO CLUB & RESORT IN GOOGLE MAPS (OPENS IN A NEW TAB)",
+      "y": 5369,
+      "height": 987,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 988,
+        "capturedAt": "2026-10-22T10:00:57.355Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "LOCATION Getting here VIEW THE LOCATION MAP FULL SCREEN VIEW GRAND POLO CLUB & RESORT IN GOOGLE MAPS (OPENS IN A NEW TAB)",
+        "title": "Getting here",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-content > div:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "mx-auto w-full max-w-[1472px] px-[clamp(20px,4vw,56px)] mt-[var(--space-band)]",
+      "elementId": "",
+      "title": "Green loops and gathering places",
+      "headings": [
+        "Green loops and gathering places"
+      ],
+      "text": "GALLERY Green loops and gathering places",
+      "y": 6419,
+      "height": 1218,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1218,
+        "capturedAt": "2026-10-22T10:00:58.622Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "GALLERY Green loops and gathering places",
+        "title": "Green loops and gathering places",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main-content > div:nth-of-type(1) > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "mx-auto w-full max-w-[1472px] px-[clamp(20px,4vw,56px)] mt-[var(--space-band)]",
+      "elementId": "",
+      "title": "About Grand Polo Club & Resort",
+      "headings": [
+        "About Grand Polo Club & Resort"
+      ],
+      "text": "QUESTIONS About Grand Polo Club & Resort Where is Grand Polo Club & Resort located? What types of properties are available in Grand Polo Club & Resort? What amenities are available at the Grand Polo Club & Resort community? What are the top attractions within Grand Polo Club & Resort? Why invest in Grand Polo Club & Resort?",
+      "y": 7700,
+      "height": 395,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 395,
+        "capturedAt": "2026-10-22T10:00:59.313Z",
+        "failedImages": 0,
+        "font": "optima, Optima, \"Optima Nova\", Candara, \"Trebuchet MS\", sans-serif",
+        "fontSize": "42px",
+        "text": "QUESTIONS About Grand Polo Club & Resort Where is Grand Polo Club & Resort located? What types of properties are available in Grand Polo Club & Resort? What amenities are available at the Grand Polo Club & Resort community? What are the top attractions within Grand Polo Club & Resort? Why invest in Grand Polo Club & Resort?",
+        "title": "About Grand Polo Club & Resort",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(2) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "site-footer bg-ground-footer font-nav text-ink-on-inverse",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Built Around Life GET IN TOUCH WHATSAPP EXPLORE New launches Communities Delivered Projects Malls Hospitality Entertainment Leisure ABOUT Who we are Sustainability Investor relations Board of directors Careers CONNECT Get in touch WhatsApp Customer support Emaar One app Contact Us NEWSLETTER Launch announcements and release dates, before public release. Email address SUBSCRIBE EXPLORE ALL OF EMAAR → © 2026 Emaar Prop",
+      "y": 8303,
+      "height": 816,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-04-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 816,
+        "capturedAt": "2026-10-22T10:01:00.027Z",
+        "failedImages": 0,
+        "font": "\"Source Sans 3\", \"Segoe UI\", system-ui, sans-serif",
+        "fontSize": "16px",
+        "text": "Built Around Life GET IN TOUCH WHATSAPP EXPLORE New launches Communities Delivered Projects Malls Hospitality Entertainment Leisure ABOUT Who we are Sustainability Investor relations Board of directors Careers CONNECT Get in touch WhatsApp Customer support Emaar One app Contact Us NEWSLETTER Launch announcements and release dates, before public release. Email address SUBSCRIBE EXPLORE ALL OF EMAAR → © 2026 Emaar Prop",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-04",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:00:51.897Z"
+}

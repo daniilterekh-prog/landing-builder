@@ -1,0 +1,206 @@
+{
+  "url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+  "title": "Binghatti",
+  "height": 4709,
+  "blocks": [
+    {
+      "selector": "body",
+      "tag": "HERO",
+      "cls": "first-viewport",
+      "title": "Premium Property with Binghatti",
+      "text": "Первый экран страницы",
+      "y": 0,
+      "height": 844,
+      "width": 390,
+      "viewportOnly": true,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 844,
+        "capturedAt": "2026-10-22T10:04:00.264Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "42px",
+        "text": "Первый экран страницы",
+        "title": "Premium Property with Binghatti",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5)",
+      "tag": "DIV",
+      "cls": "binghatti-section",
+      "elementId": "",
+      "title": "WHY BINGHATTI?",
+      "headings": [
+        "WHY BINGHATTI?"
+      ],
+      "text": "WHY BINGHATTI? Binghatti, led by Chairman Muhammad BinGhatti, is an award-winning developer known for its bold, signature architectural designs that redefine Dubai’s skyline. Driven by a passion for hyper-properties, Binghatti blends iconic architecture with groundbreaking design. Its visionary approach has earned global recognition, including awards from Gulf Real Estate, MENA Green Building, Cityscape, and the Duba",
+      "y": 1152,
+      "height": 718,
+      "width": 390,
+      "h1Words": 2,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 718,
+        "capturedAt": "2026-10-22T10:04:00.863Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "30px",
+        "text": "WHY BINGHATTI? Binghatti, led by Chairman Muhammad BinGhatti, is an award-winning developer known for its bold, signature architectural designs that redefine Dubai’s skyline. Driven by a passion for hyper-properties, Binghatti blends iconic architecture with groundbreaking design. Its visionary approach has earned global recognition, including awards from Gulf Real Estate, MENA Green Building, Cityscape, and the Duba",
+        "title": "WHY BINGHATTI?",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(6)",
+      "tag": "DIV",
+      "cls": "milestone",
+      "elementId": "",
+      "title": "MILESTONES",
+      "headings": [
+        "MILESTONES"
+      ],
+      "text": "MILESTONES 80+ PROJECTS IN THE REGION 12,000+ UNITS HANDED OVER 70 BILLION VALUE REGISTER YOUR INTEREST",
+      "y": 1869,
+      "height": 558,
+      "width": 390,
+      "h1Words": 1,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 558,
+        "capturedAt": "2026-10-22T10:04:01.342Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "30px",
+        "text": "MILESTONES 80+ PROJECTS IN THE REGION 12,000+ UNITS HANDED OVER 70 BILLION VALUE REGISTER YOUR INTEREST",
+        "title": "MILESTONES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(7)",
+      "tag": "DIV",
+      "cls": "investment",
+      "elementId": "",
+      "title": "START YOUR INVESTMENT JOURNEY TODAY",
+      "headings": [
+        "START YOUR INVESTMENT JOURNEY TODAY"
+      ],
+      "text": "START YOUR INVESTMENT JOURNEY TODAY We have all the information you need to find the perfect property. BINGHATTI SKYHALL Studio | 1BR Business Bay, Dubai Enquire now BINGHATTI STARLIGHT Studio | 1BR | 2BR | 3BR Al Jaddaf, Dubai Enquire now BINGHATTI HILLVIEWS Studio | 1BR | 2BR Dubai Science Park Enquire now BINGHATTI HAVEN Studio | 1BR | 2BR | 3BR Dubai Sports City Enquire now",
+      "y": 2427,
+      "height": 805,
+      "width": 390,
+      "h1Words": 5,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 806,
+        "capturedAt": "2026-10-22T10:04:01.824Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "22px",
+        "text": "START YOUR INVESTMENT JOURNEY TODAY We have all the information you need to find the perfect property. BINGHATTI SKYHALL Studio | 1BR Business Bay, Dubai Enquire now BINGHATTI STARLIGHT Studio | 1BR | 2BR | 3BR Al Jaddaf, Dubai Enquire now BINGHATTI HILLVIEWS Studio | 1BR | 2BR Dubai Science Park Enquire now BINGHATTI HAVEN Studio | 1BR | 2BR | 3BR Dubai Sports City Enquire now",
+        "title": "START YOUR INVESTMENT JOURNEY TODAY",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(8)",
+      "tag": "DIV",
+      "cls": "slider",
+      "elementId": "",
+      "title": "PRIME LOCATIONS, ICONIC PROJECTS",
+      "headings": [
+        "PRIME LOCATIONS, ICONIC PROJECTS"
+      ],
+      "text": "PRIME LOCATIONS, ICONIC PROJECTS Explore Binghatti’s iconic projects positioned in key districts across Dubai. From vibrant city centers to serene residential communities.",
+      "y": 3232,
+      "height": 437,
+      "width": 390,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 437,
+        "capturedAt": "2026-10-22T10:04:02.277Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "20px",
+        "text": "PRIME LOCATIONS, ICONIC PROJECTS Explore Binghatti’s iconic projects positioned in key districts across Dubai. From vibrant city centers to serene residential communities.",
+        "title": "PRIME LOCATIONS, ICONIC PROJECTS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#form",
+      "tag": "DIV",
+      "cls": "form-section",
+      "elementId": "form",
+      "title": "SECURE YOUR BINGHATTI PROPERTY",
+      "headings": [
+        "SECURE YOUR BINGHATTI PROPERTY"
+      ],
+      "text": "SECURE YOUR BINGHATTI PROPERTY Name Email Phone number Algeria (+213) Andorra (+376) Angola (+244) Anguilla (+1264) Antigua (+1268) Argentina (+54) Armenia (+374) Aruba (+297) Australia (+61) Austria (+43) Azerbaijan (+994) Bahamas (+1242) Bahrain (+973) Bangladesh (+880) Barbados (+1246) Belarus (+375) Belgium (+32) Belize (+501) Benin (+229) Bermuda (+1441) Bhutan (+975) Bolivia (+591) Bosnia (+387) Botswana (+267)",
+      "y": 3668,
+      "height": 820,
+      "width": 390,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 821,
+        "capturedAt": "2026-10-22T10:04:02.757Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "28px",
+        "text": "SECURE YOUR BINGHATTI PROPERTY Name Email Phone number Algeria (+213) Andorra (+376) Angola (+244) Anguilla (+1264) Antigua (+1268) Argentina (+54) Armenia (+374) Aruba (+297) Australia (+61) Austria (+43) Azerbaijan (+994) Bahamas (+1242) Bahrain (+973) Bangladesh (+880) Barbados (+1246) Belarus (+375) Belgium (+32) Belize (+501) Benin (+229) Bermuda (+1441) Bhutan (+975) Bolivia (+591) Bosnia (+387) Botswana (+267)",
+        "title": "SECURE YOUR BINGHATTI PROPERTY",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Privacy Notice | Terms of Use | Cookie Notice Copyright © 2026 Binghatti Developers",
+      "y": 4489,
+      "height": 220,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-18-07-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 220,
+        "capturedAt": "2026-10-22T10:04:03.205Z",
+        "failedImages": 0,
+        "font": "aktiv-grotesk, sans-serif",
+        "fontSize": "16px",
+        "text": "Privacy Notice | Terms of Use | Cookie Notice Copyright © 2026 Binghatti Developers",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-18",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:04:00.124Z"
+}

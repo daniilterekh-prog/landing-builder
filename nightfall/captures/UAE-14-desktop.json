@@ -1,0 +1,233 @@
+{
+  "url": "https://www.arada.com/en/armani-beach-residences/",
+  "title": "Armani Beach Residences Palm Jumeirah - Luxury Apartments, Townhouses & Penthouses, | Arada, UAE",
+  "height": 4820,
+  "blocks": [
+    {
+      "selector": "#header",
+      "tag": "HEADER",
+      "cls": "site-header",
+      "elementId": "header",
+      "title": "",
+      "headings": [],
+      "text": "Armani Beach Residences Residences In the news Careers Arada العربية Get in touch",
+      "y": 0,
+      "height": 89,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 90,
+        "capturedAt": "2026-10-22T10:02:46.096Z",
+        "failedImages": 0,
+        "font": "Arada-Regular",
+        "fontSize": "18px",
+        "text": "Armani Beach Residences Residences In the news Careers Arada العربية Get in touch",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_9e486abcd368546e1605ca3f6a06de54",
+      "tag": "SECTION",
+      "cls": "hero ",
+      "elementId": "block_9e486abcd368546e1605ca3f6a06de54",
+      "title": "Ultra luxury at The Palm Jumeirah",
+      "headings": [
+        "Ultra luxury at The Palm Jumeirah",
+        "Find your property"
+      ],
+      "text": "Ultra luxury at The Palm Jumeirah Find your property X Development show all Aljada Nasma Residences Masaar Jouri Hills Armani Beach Residences Anantara Residences Sharjah Dubai Harbour Zabeel Second Downtown Dubai Category show all Type show all Bedrooms show all 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Bathrooms show all 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Search Find your property",
+      "y": 80,
+      "height": 760,
+      "width": 1440,
+      "h1Words": 6,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 760,
+        "capturedAt": "2026-10-22T10:02:46.686Z",
+        "failedImages": 0,
+        "font": "Arada-Headline-Bold",
+        "fontSize": "54px",
+        "text": "Ultra luxury at The Palm Jumeirah Find your property X Development show all Aljada Nasma Residences Masaar Jouri Hills Armani Beach Residences Anantara Residences Sharjah Dubai Harbour Zabeel Second Downtown Dubai Category show all Type show all Bedrooms show all 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Bathrooms show all 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 Search Find your property",
+        "title": "Ultra luxury at The Palm Jumeirah",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_a61325e4e6e67919a14dacc9c056ac8d",
+      "tag": "SECTION",
+      "cls": "featured-properties-carousel overlap-top-with-section hide-pager ",
+      "elementId": "block_a61325e4e6e67919a14dacc9c056ac8d",
+      "title": "",
+      "headings": [],
+      "text": "2 BR apartment Know more 3 BR apartment Know more 4 BR apartment Know more",
+      "y": 680,
+      "height": 412,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 412,
+        "capturedAt": "2026-10-22T10:02:47.279Z",
+        "failedImages": 0,
+        "font": "Arada-Regular",
+        "fontSize": "18px",
+        "text": "2 BR apartment Know more 3 BR apartment Know more 4 BR apartment Know more",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_bd4c7e54c0328385078422711fe3abeb",
+      "tag": "SECTION",
+      "cls": "rounded-blocks  remove-top-padding ",
+      "elementId": "block_bd4c7e54c0328385078422711fe3abeb",
+      "title": "Armani/Casa",
+      "headings": [
+        "Armani/Casa",
+        "Tadao Ando",
+        "Arada",
+        "Palm Jumeirah"
+      ],
+      "text": "Interior designed by Armani/Casa Architecture by Tadao Ando Developed by Arada Located at Palm Jumeirah",
+      "y": 1092,
+      "height": 400,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 400,
+        "capturedAt": "2026-10-22T10:02:47.839Z",
+        "failedImages": 0,
+        "font": "Arada-Bold",
+        "fontSize": "24px",
+        "text": "Interior designed by Armani/Casa Architecture by Tadao Ando Developed by Arada Located at Palm Jumeirah",
+        "title": "Armani/Casa",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_7eda341b171c351aab54427805e19ffd",
+      "tag": "SECTION",
+      "cls": "image-to-text-section  remove-top-padding ",
+      "elementId": "block_7eda341b171c351aab54427805e19ffd",
+      "title": "",
+      "headings": [],
+      "text": "“Tadao Ando is an absolute master of architecture, with an unmistakable aesthetic style that comes very close to my sensibility” Giorgio Armani “I read his heart and he does the same with mine; we share a passion for beauty” Tadao Ando Discover a world of timeless elegance. Setting a new standard for ultra-luxury living, Armani Beach Residences at Palm Jumeirah is located on the shores of Dubai’s famous manmade islan",
+      "y": 1971,
+      "height": 1400,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1400,
+        "capturedAt": "2026-10-22T10:02:48.826Z",
+        "failedImages": 0,
+        "font": "Arada-Regular",
+        "fontSize": "18px",
+        "text": "“Tadao Ando is an absolute master of architecture, with an unmistakable aesthetic style that comes very close to my sensibility” Giorgio Armani “I read his heart and he does the same with mine; we share a passion for beauty” Tadao Ando Discover a world of timeless elegance. Setting a new standard for ultra-luxury living, Armani Beach Residences at Palm Jumeirah is located on the shores of Dubai’s famous manmade islan",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_2bd338482f3b5a6eb9b2fc71ae6694eb",
+      "tag": "SECTION",
+      "cls": "find-us-tab   remove-top-padding ",
+      "elementId": "block_2bd338482f3b5a6eb9b2fc71ae6694eb",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 3371,
+      "height": 149,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 149,
+        "capturedAt": "2026-10-22T10:02:49.469Z",
+        "failedImages": 0,
+        "font": "Arada-Bold",
+        "fontSize": "24px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block_2ca52fa5be554e60a79815c3dfd36a86",
+      "tag": "SECTION",
+      "cls": "photo-gallery-block   ",
+      "elementId": "block_2ca52fa5be554e60a79815c3dfd36a86",
+      "title": "Photo gallery",
+      "headings": [
+        "Photo gallery"
+      ],
+      "text": "Photo gallery",
+      "y": 3520,
+      "height": 1049,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1049,
+        "capturedAt": "2026-10-22T10:02:50.563Z",
+        "failedImages": 0,
+        "font": "Arada-Bold",
+        "fontSize": "24px",
+        "text": "Photo gallery",
+        "title": "Photo gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "footer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 4569,
+      "height": 251,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-14-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 251,
+        "capturedAt": "2026-10-22T10:02:51.330Z",
+        "failedImages": 0,
+        "font": "Arada-Regular",
+        "fontSize": "18px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-14",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:02:45.483Z"
+}

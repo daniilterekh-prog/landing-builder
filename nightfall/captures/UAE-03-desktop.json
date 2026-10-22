@@ -1,0 +1,317 @@
+{
+  "url": "https://thealbadestination.omniyat.com/",
+  "title": "The Alba Residences, Dorchester Collection, Dubai",
+  "height": 13471,
+  "blocks": [
+    {
+      "selector": "#home > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "absolute h-screen w-full",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:00:20.951Z",
+        "failedImages": 0,
+        "font": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "peddingVertical peddingHorizontal",
+      "elementId": "",
+      "title": "A WELL-LIVING DESTINATION",
+      "headings": [
+        "A WELL-LIVING DESTINATION"
+      ],
+      "text": "A WELL-LIVING DESTINATION Presented by OMNIYAT, only this level of expertise and experience can inform every characteristic and quality of The Alba. Rewriting every existing standard and expectation, the ultimate luxury beachfront and well-living destination on Palm Jumeirah is designed by Zaha Hadid Architects with world-class services managed by Dorchester Collection. BOOK YOUR PRIVATE MEETING REQUEST BROCHURE",
+      "y": 1800,
+      "height": 470,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 470,
+        "capturedAt": "2026-10-22T10:00:21.494Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "A WELL-LIVING DESTINATION Presented by OMNIYAT, only this level of expertise and experience can inform every characteristic and quality of The Alba. Rewriting every existing standard and expectation, the ultimate luxury beachfront and well-living destination on Palm Jumeirah is designed by Zaha Hadid Architects with world-class services managed by Dorchester Collection. BOOK YOUR PRIVATE MEETING REQUEST BROCHURE",
+        "title": "A WELL-LIVING DESTINATION",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "relative overflow-hidden lg:h-screen",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "The Alba Residences The Alba Resort Residences The Alba Hotel Landscaped Ground by Vladimir Djurovic ✕ The Alba Residences offer unfurnished simplex and duplex homes by Zaha Hadid Architects, each with soaring spaces, private pools, and exclusive access to residents-only amenities. A sanctuary of privacy and light, they embody OMNIYAT’s highest vision of well-living. DISCOVER MORE TOUR THE ALBA RESIDENCES ✕ The Alba ",
+      "y": 2270,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:00:21.995Z",
+        "failedImages": 0,
+        "font": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "text": "The Alba Residences The Alba Resort Residences The Alba Hotel Landscaped Ground by Vladimir Djurovic ✕ The Alba Residences offer unfurnished simplex and duplex homes by Zaha Hadid Architects, each with soaring spaces, private pools, and exclusive access to residents-only amenities. A sanctuary of privacy and light, they embody OMNIYAT’s highest vision of well-living. DISCOVER MORE TOUR THE ALBA RESIDENCES ✕ The Alba ",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "peddingHorizontal peddingVertical",
+      "elementId": "",
+      "title": "WHERE PRESENCE REWRITES TIME",
+      "headings": [
+        "WHERE PRESENCE REWRITES TIME"
+      ],
+      "text": "WHERE PRESENCE REWRITES TIME The Alba introduces a new chapter in residential living, one shaped by architectural clarity, with regenerative rhythm, and an enduring approach to wellbeing. Developed by OMNIYAT and set on Palm Jumeirah, The Alba is composed for well-living at every level: spatial, material, and experiential. From the way light moves through a room to the way materials meet the skin, each detail is shap",
+      "y": 3170,
+      "height": 432,
+      "width": 1440,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 432,
+        "capturedAt": "2026-10-22T10:00:22.513Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "WHERE PRESENCE REWRITES TIME The Alba introduces a new chapter in residential living, one shaped by architectural clarity, with regenerative rhythm, and an enduring approach to wellbeing. Developed by OMNIYAT and set on Palm Jumeirah, The Alba is composed for well-living at every level: spatial, material, and experiential. From the way light moves through a room to the way materials meet the skin, each detail is shap",
+        "title": "WHERE PRESENCE REWRITES TIME",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > div:nth-of-type(4) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "relative flex h-screen w-screen",
+      "elementId": "",
+      "title": "AHEAD OF THE CURVE",
+      "headings": [
+        "AHEAD OF THE CURVE"
+      ],
+      "text": "AHEAD OF THE CURVE",
+      "y": 3602,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:00:23.160Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "AHEAD OF THE CURVE",
+        "title": "AHEAD OF THE CURVE",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "peddingHorizontal peddingVertical",
+      "elementId": "",
+      "title": "AMENITIES AND WELL-LIVING",
+      "headings": [
+        "AMENITIES AND WELL-LIVING"
+      ],
+      "text": "AMENITIES AND WELL-LIVING Discover the most extensive well-living and amenities program in the UAE, across a 26,000 square metre central oasis, all set within resort-style landscaping designed by Vladimir Djurovic. Reflection, texture, and tropical density create an immersive calm that guides you from forest to water, sun to shade, and privacy to openness, all while regulating temperature and setting a natural pace. ",
+      "y": 7202,
+      "height": 518,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 518,
+        "capturedAt": "2026-10-22T10:00:23.752Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "AMENITIES AND WELL-LIVING Discover the most extensive well-living and amenities program in the UAE, across a 26,000 square metre central oasis, all set within resort-style landscaping designed by Vladimir Djurovic. Reflection, texture, and tropical density create an immersive calm that guides you from forest to water, sun to shade, and privacy to openness, all while regulating temperature and setting a natural pace. ",
+        "title": "AMENITIES AND WELL-LIVING",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "peddingHorizontal peddingVertical",
+      "elementId": "",
+      "title": "WHERE VITALITY RESIDES",
+      "headings": [
+        "WHERE VITALITY RESIDES"
+      ],
+      "text": "WHERE VITALITY RESIDES The Alba is home to a 3,000 square metre dedicated wellness centre consisting of treatment rooms, vitality pools, longevity therapies, a state-of-the-art fitness suite and restorative spa. EXPLORE",
+      "y": 8620,
+      "height": 430,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 430,
+        "capturedAt": "2026-10-22T10:00:24.306Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "WHERE VITALITY RESIDES The Alba is home to a 3,000 square metre dedicated wellness centre consisting of treatment rooms, vitality pools, longevity therapies, a state-of-the-art fitness suite and restorative spa. EXPLORE",
+        "title": "WHERE VITALITY RESIDES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "peddingVertical",
+      "elementId": "",
+      "title": "LIGHT IN ITS PUREST FORM",
+      "headings": [
+        "LIGHT IN ITS PUREST FORM"
+      ],
+      "text": "LIGHT IN ITS PUREST FORM Interiors at The Alba allow you to reside within the intangible light that permeates this ethereal building. Steeped in the language of living well, the residences are tailored to your needs. Ceiling heights soar to over three metres, with broad spaces designed for entertaining or simply living to the highest possible standard.",
+      "y": 9950,
+      "height": 989,
+      "width": 1440,
+      "h1Words": 5,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 989,
+        "capturedAt": "2026-10-22T10:00:26.502Z",
+        "failedImages": 1,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "LIGHT IN ITS PUREST FORM Interiors at The Alba allow you to reside within the intangible light that permeates this ethereal building. Steeped in the language of living well, the residences are tailored to your needs. Ceiling heights soar to over three metres, with broad spaces designed for entertaining or simply living to the highest possible standard.",
+        "title": "LIGHT IN ITS PUREST FORM",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "relative w-screen overflow-hidden",
+      "elementId": "",
+      "title": "AN ICONIC ADDRESS LOCATED ON A WORLD ICON",
+      "headings": [
+        "AN ICONIC ADDRESS LOCATED ON A WORLD ICON"
+      ],
+      "text": "LOCATION AN ICONIC ADDRESS LOCATED ON A WORLD ICON",
+      "y": 10939,
+      "height": 1175,
+      "width": 1440,
+      "h1Words": 8,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1176,
+        "capturedAt": "2026-10-22T10:00:27.221Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "LOCATION AN ICONIC ADDRESS LOCATED ON A WORLD ICON",
+        "title": "AN ICONIC ADDRESS LOCATED ON A WORLD ICON",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "container mt-14 flex w-11/12 flex-col items-center pb-12 lg:mt-28 lg:pb-24",
+      "elementId": "",
+      "title": "BOOK A PRIVATE MEETING",
+      "headings": [
+        "BOOK A PRIVATE MEETING"
+      ],
+      "text": "BOOK A PRIVATE MEETING First Name* Last Name* Email Address* Country Code* +971 Phone Number* REGISTER YOUR INTEREST",
+      "y": 12226,
+      "height": 477,
+      "width": 1280,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-10-desktop.jpg",
+        "captureWidth": 1280,
+        "captureHeight": 477,
+        "capturedAt": "2026-10-22T10:00:29.370Z",
+        "failedImages": 0,
+        "font": "__esDokument_8b15e7, __esDokument_Fallback_8b15e7",
+        "fontSize": "36px",
+        "text": "BOOK A PRIVATE MEETING First Name* Last Name* Email Address* Country Code* +971 Phone Number* REGISTER YOUR INTEREST",
+        "title": "BOOK A PRIVATE MEETING",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(9)",
+      "tag": "SECTION",
+      "cls": "relative h-fit",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "THE ALBA RESIDENCES",
+      "y": 12703,
+      "height": 360,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-03-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 360,
+        "capturedAt": "2026-10-22T10:00:29.954Z",
+        "failedImages": 0,
+        "font": "ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+        "fontSize": "16px",
+        "text": "THE ALBA RESIDENCES",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-03",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:00:20.195Z"
+}

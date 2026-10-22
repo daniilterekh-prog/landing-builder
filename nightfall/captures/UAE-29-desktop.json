@@ -1,0 +1,520 @@
+{
+  "url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+  "title": "Aldar Fahid Beach Terraces - Starting from 3.6m AED",
+  "height": 13759,
+  "blocks": [
+    {
+      "selector": "body > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "navbar-1 w-nav",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Project Overview Features Payment Plan Unit Types Floor Plans Location Contact Us Download Brochure Chat",
+      "y": 0,
+      "height": 79,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 79,
+        "capturedAt": "2026-10-22T10:10:56.296Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Project Overview Features Payment Plan Unit Types Floor Plans Location Contact Us Download Brochure Chat",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "section _700-h",
+      "elementId": "",
+      "title": "Fahid Beach Terraces",
+      "headings": [
+        "Fahid Beach Terraces"
+      ],
+      "text": "Fahid Beach Terraces Aldar Properties Now Selling A luxurious collection of six beachfront towers designed by Koichi Takada on the UAE's first wellness-dedicated island. Download Brochure Fast Consultation",
+      "y": 0,
+      "height": 700,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 700,
+        "capturedAt": "2026-10-22T10:10:56.845Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "64px",
+        "text": "Fahid Beach Terraces Aldar Properties Now Selling A luxurious collection of six beachfront towers designed by Koichi Takada on the UAE's first wellness-dedicated island. Download Brochure Fast Consultation",
+        "title": "Fahid Beach Terraces",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Overview",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Overview",
+      "title": "Fahid Beach Terraces",
+      "headings": [
+        "Fahid Beach Terraces"
+      ],
+      "text": "Overview Fahid Beach Terraces Fahid Beach Terraces by Aldar Properties is a groundbreaking residential development situated on the pristine shores of Fahid Island, Abu Dhabi. As the cornerstone of the UAE's first island masterplan dedicated entirely to well-being, this six-tower community is designed to transform coastal living through science-backed wellness principles. Every architectural detail, guided by the visi",
+      "y": 700,
+      "height": 779,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 780,
+        "capturedAt": "2026-10-22T10:10:57.346Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Overview Fahid Beach Terraces Fahid Beach Terraces by Aldar Properties is a groundbreaking residential development situated on the pristine shores of Fahid Island, Abu Dhabi. As the cornerstone of the UAE's first island masterplan dedicated entirely to well-being, this six-tower community is designed to transform coastal living through science-backed wellness principles. Every architectural detail, guided by the visi",
+        "title": "Fahid Beach Terraces",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Gallery",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Gallery",
+      "title": "Project Gallery",
+      "headings": [
+        "Project Gallery"
+      ],
+      "text": "Image Gallery Project Gallery View Full Gallery",
+      "y": 1479,
+      "height": 893,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 894,
+        "capturedAt": "2026-10-22T10:10:59.352Z",
+        "failedImages": 3,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Image Gallery Project Gallery View Full Gallery",
+        "title": "Project Gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Download-Brochure",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Download-Brochure",
+      "title": "Download Project Brochure",
+      "headings": [
+        "Download Project Brochure"
+      ],
+      "text": "Brochure Download Project Brochure All you need to know about Aldar Fahid Beach Terraces in one brochure. Fill in your details to download. Download Brochure Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+      "y": 2373,
+      "height": 503,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 503,
+        "capturedAt": "2026-10-22T10:10:59.895Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Brochure Download Project Brochure All you need to know about Aldar Fahid Beach Terraces in one brochure. Fill in your details to download. Download Brochure Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+        "title": "Download Project Brochure",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Features",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Features",
+      "title": "Key Features",
+      "headings": [
+        "Key Features"
+      ],
+      "text": "Features Key Features UAE's First Wellness Island Developed by Aldar Properties, Fahid Island is the region's first masterplan where health and balance are embedded into the infrastructure, from optimized air quality to walkable trails. Architectural Masterpiece By Koichi Takada Features flowing forms and gently curving balconies inspired by tidal imprints, creating a visual harmony between the built environment and ",
+      "y": 2875,
+      "height": 686,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 686,
+        "capturedAt": "2026-10-22T10:11:00.458Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Features Key Features UAE's First Wellness Island Developed by Aldar Properties, Fahid Island is the region's first masterplan where health and balance are embedded into the infrastructure, from optimized air quality to walkable trails. Architectural Masterpiece By Koichi Takada Features flowing forms and gently curving balconies inspired by tidal imprints, creating a visual harmony between the built environment and ",
+        "title": "Key Features",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Payment-Plan",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Payment-Plan",
+      "title": "Payment Plan",
+      "headings": [
+        "Payment Plan"
+      ],
+      "text": "Payment Plan Payment Plan Invest in Abu Dhabi's premier wellness destination with a flexible schedule designed for capital appreciation. Download Brochure Make An Inquiry 10 % Down Payment On Booking 55 % During Construction Staged in installments 35 % On Handover (Q4 2029) Final payment upon completion",
+      "y": 3561,
+      "height": 640,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 640,
+        "capturedAt": "2026-10-22T10:11:00.985Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Payment Plan Payment Plan Invest in Abu Dhabi's premier wellness destination with a flexible schedule designed for capital appreciation. Download Brochure Make An Inquiry 10 % Down Payment On Booking 55 % During Construction Staged in installments 35 % On Handover (Q4 2029) Final payment upon completion",
+        "title": "Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "",
+      "title": "The Architecture Of Light",
+      "headings": [
+        "The Architecture Of Light"
+      ],
+      "text": "Luxury Property The Architecture Of Light At Fahid Beach Terraces, the architecture is an invitation to celebrate the nature in front of you. Koichi Takada's design approach utilizes expansive glazing to flood interiors with natural sunlight while filtered external noise ensures a whisper-quiet sanctuary. Varied floor plates and generous building separation create a \"breathable\" architectural silhouette that allows t",
+      "y": 4201,
+      "height": 1078,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1078,
+        "capturedAt": "2026-10-22T10:11:01.600Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Luxury Property The Architecture Of Light At Fahid Beach Terraces, the architecture is an invitation to celebrate the nature in front of you. Koichi Takada's design approach utilizes expansive glazing to flood interiors with natural sunlight while filtered external noise ensures a whisper-quiet sanctuary. Varied floor plates and generous building separation create a \"breathable\" architectural silhouette that allows t",
+        "title": "The Architecture Of Light",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Unit-Types",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Unit-Types",
+      "title": "Unit Types",
+      "headings": [
+        "Unit Types"
+      ],
+      "text": "Unit Types Unit Types A diverse collection of residences tailored for refined coastal living. 1 Bedroom Sea-facing entry units 907 – 1,260 Sq. Ft. View Unit Type Starting from: AED 3,600,000 2 Bedroom Available as Duplex & Study layouts 1,668 – 2,200 Sq. Ft. View Unit Type Starting from: AED 6,500,000 3 Bedroom Includes maid's room & expansive views 2,507 – 2,800 Sq. Ft. View Unit Type Starting from: AED 9,100,000 4 ",
+      "y": 5279,
+      "height": 805,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 805,
+        "capturedAt": "2026-10-22T10:11:02.150Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Unit Types Unit Types A diverse collection of residences tailored for refined coastal living. 1 Bedroom Sea-facing entry units 907 – 1,260 Sq. Ft. View Unit Type Starting from: AED 3,600,000 2 Bedroom Available as Duplex & Study layouts 1,668 – 2,200 Sq. Ft. View Unit Type Starting from: AED 6,500,000 3 Bedroom Includes maid's room & expansive views 2,507 – 2,800 Sq. Ft. View Unit Type Starting from: AED 9,100,000 4 ",
+        "title": "Unit Types",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Floor-Plans",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Floor-Plans",
+      "title": "View All Floor Plans In 1-Click",
+      "headings": [
+        "View All Floor Plans In 1-Click"
+      ],
+      "text": "View All Floor Plans In 1-Click Get a detailed PDF with all floor plans options at Fahid Beach Terraces. Pick the unit that fits your needs most. View All Floor Plans Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+      "y": 6084,
+      "height": 550,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 550,
+        "capturedAt": "2026-10-22T10:11:02.672Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "View All Floor Plans In 1-Click Get a detailed PDF with all floor plans options at Fahid Beach Terraces. Pick the unit that fits your needs most. View All Floor Plans Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+        "title": "View All Floor Plans In 1-Click",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Location",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Location",
+      "title": "The Heart Of The Coast",
+      "headings": [
+        "The Heart Of The Coast"
+      ],
+      "text": "Project Location The Heart Of The Coast Fahid Island is strategically located in Abu Dhabi, bridging the gap between the city's cultural heart and its leading entertainment districts. Yas Island (Themeparks & Arena) 5 minutes Saadiyat Island (Louvre & Guggenheim) 15 minutes Zayed International Airport 15 minutes Abu Dhabi City Center 20 minutes Learn More",
+      "y": 6634,
+      "height": 1080,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1081,
+        "capturedAt": "2026-10-22T10:11:03.271Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Project Location The Heart Of The Coast Fahid Island is strategically located in Abu Dhabi, bridging the gap between the city's cultural heart and its leading entertainment districts. Yas Island (Themeparks & Arena) 5 minutes Saadiyat Island (Louvre & Guggenheim) 15 minutes Zayed International Airport 15 minutes Abu Dhabi City Center 20 minutes Learn More",
+        "title": "The Heart Of The Coast",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Amenities",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Amenities",
+      "title": "Science-Backed Vitality",
+      "headings": [
+        "Science-Backed Vitality",
+        "Contact Sales Team",
+        "Get Your Personal Investment Plan"
+      ],
+      "text": "Amenities Science-Backed Vitality Experience a holistic ecosystem where every facility is designed to keep your family active and restored. Elevated Panorama Clubhouse Lifted above the shoreline, this central hub offers a waterfront fitness center and panoramic water views. Beach-Inspired Wellness Spa A restorative retreat featuring private treatment rooms for sound therapy, salt relaxation zones, and steam rooms. Po",
+      "y": 7714,
+      "height": 1441,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-12-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1442,
+        "capturedAt": "2026-10-22T10:11:03.868Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Amenities Science-Backed Vitality Experience a holistic ecosystem where every facility is designed to keep your family active and restored. Elevated Panorama Clubhouse Lifted above the shoreline, this central hub offers a waterfront fitness center and panoramic water views. Beach-Inspired Wellness Spa A restorative retreat featuring private treatment rooms for sound therapy, salt relaxation zones, and steam rooms. Po",
+        "title": "Science-Backed Vitality",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Developer-Info",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Developer-Info",
+      "title": "Why Invest With Aldar Properties?",
+      "headings": [
+        "Why Invest With Aldar Properties?"
+      ],
+      "text": "About Developer Why Invest With Aldar Properties? Aldar Properties is the UAE’s leading real estate developer, trusted for shaping world-class destinations that stand the test of time. Learn More About Aldar Unrivaled Track Record Renowned for iconic projects like Yas Island and Saadiyat, Aldar ensures institutional-grade quality and reliable delivery. First-Mover Island Advantage Investing in the world's first Fitwe",
+      "y": 9156,
+      "height": 1033,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-13-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1034,
+        "capturedAt": "2026-10-22T10:11:04.472Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "About Developer Why Invest With Aldar Properties? Aldar Properties is the UAE’s leading real estate developer, trusted for shaping world-class destinations that stand the test of time. Learn More About Aldar Unrivaled Track Record Renowned for iconic projects like Yas Island and Saadiyat, Aldar ensures institutional-grade quality and reliable delivery. First-Mover Island Advantage Investing in the world's first Fitwe",
+        "title": "Why Invest With Aldar Properties?",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(13)",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "",
+      "title": "Invest With Trust",
+      "headings": [
+        "Invest With Trust",
+        "This Project Has Been Verified"
+      ],
+      "text": "Verified Invest With Trust Authorized Sales Partner This Project Has Been Verified This project has been verified and approved by the Dubai Land Department (DLD)",
+      "y": 10189,
+      "height": 460,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-14-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 460,
+        "capturedAt": "2026-10-22T10:11:04.990Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Verified Invest With Trust Authorized Sales Partner This Project Has Been Verified This project has been verified and approved by the Dubai Land Department (DLD)",
+        "title": "Invest With Trust",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#FAQ",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "FAQ",
+      "title": "Get Answers To Frequently Asked Questions",
+      "headings": [
+        "Get Answers To Frequently Asked Questions"
+      ],
+      "text": "FAQ Get Answers To Frequently Asked Questions Where is Fahid Beach Terraces located? What is the starting price? What are the key sustainability certifications? What is the payment plan? When will the project be completed? Is this a freehold development?",
+      "y": 10649,
+      "height": 965,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-15-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 965,
+        "capturedAt": "2026-10-22T10:11:05.627Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "FAQ Get Answers To Frequently Asked Questions Where is Fahid Beach Terraces located? What is the starting price? What are the key sustainability certifications? What is the payment plan? When will the project be completed? Is this a freehold development?",
+        "title": "Get Answers To Frequently Asked Questions",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Contact-us",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Contact-us",
+      "title": "Talk To One Of Our Advisors?",
+      "headings": [
+        "Talk To One Of Our Advisors?"
+      ],
+      "text": "Talk To One Of Our Advisors? Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Full name Email Phone +31 Message This site is protected by reCAPTCHA and the Google Terms & Conditions and Privacy Policy apply.",
+      "y": 11613,
+      "height": 761,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-16-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 762,
+        "capturedAt": "2026-10-22T10:11:06.158Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Talk To One Of Our Advisors? Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Full name Email Phone +31 Message This site is protected by reCAPTCHA and the Google Terms & Conditions and Privacy Policy apply.",
+        "title": "Talk To One Of Our Advisors?",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#More-Projects",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "More-Projects",
+      "title": "View Other Projects From Aldar Properties",
+      "headings": [
+        "View Other Projects From Aldar Properties"
+      ],
+      "text": "Other Projects View Other Projects From Aldar Properties Handover Q4 2029 Aldar Yas Riva Residences AED 1,350,000 View Project Handover Q1 2030 Aldar The Row Saadiyat AED 3,700,000 View Project Handover Q1 2030 Aldar Yas Park Place AED 1,390,000 View Project",
+      "y": 12375,
+      "height": 752,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-17-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 752,
+        "capturedAt": "2026-10-22T10:11:06.703Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Other Projects View Other Projects From Aldar Properties Handover Q4 2029 Aldar Yas Riva Residences AED 1,350,000 View Project Handover Q1 2030 Aldar The Row Saadiyat AED 3,700,000 View Project Handover Q1 2030 Aldar Yas Park Place AED 1,390,000 View Project",
+        "title": "View Other Projects From Aldar Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(17)",
+      "tag": "DIV",
+      "cls": "footer-1",
+      "elementId": "",
+      "title": "Speak Directly To Our Sales Team",
+      "headings": [
+        "Speak Directly To Our Sales Team"
+      ],
+      "text": "Speak Directly To Our Sales Team Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Follow us on socials: Project Overview Image Gallery Download Brochure Features Payment Plan Floor plans Location Amenities Investment Plan FAQ Contact us Developer Info More Projects Browse Projects About us Terms of Service Privacy Policy Contact Westcore Salescentre.com is owned and operated by Westcore P",
+      "y": 13126,
+      "height": 633,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-29-18-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 634,
+        "capturedAt": "2026-10-22T10:11:07.207Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Speak Directly To Our Sales Team Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Follow us on socials: Project Overview Image Gallery Download Brochure Features Payment Plan Floor plans Location Amenities Investment Plan FAQ Contact us Developer Info More Projects Browse Projects About us Terms of Service Privacy Policy Contact Westcore Salescentre.com is owned and operated by Westcore P",
+        "title": "Speak Directly To Our Sales Team",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-29",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:10:55.780Z"
+}

@@ -1,0 +1,289 @@
+{
+  "url": "https://everhomes.ae/off-plan/one-river-point/",
+  "title": "One River Point by Ellington Properties in Business Bay, Dubai | Everhomes",
+  "height": 9072,
+  "blocks": [
+    {
+      "selector": "body",
+      "tag": "HERO",
+      "cls": "first-viewport",
+      "title": "One River Point",
+      "text": "Первый экран страницы",
+      "y": 0,
+      "height": 844,
+      "width": 390,
+      "viewportOnly": true,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 844,
+        "capturedAt": "2026-10-22T10:09:41.273Z",
+        "failedImages": 59,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "48px",
+        "text": "Первый экран страницы",
+        "title": "One River Point",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#project-location",
+      "tag": "SECTION",
+      "cls": "section section--content location",
+      "elementId": "project-location",
+      "title": "One River Point — Location",
+      "headings": [
+        "One River Point — Location"
+      ],
+      "text": "One River Point — Location One River Point is nestled in Dubai’s “Manhattan”, within the Business Bay neighborhood. Conveniently close to the UAE's main transportation artery, Sheikh Zayed Road, which is merely a two-minute drive away. The Business Bay metro station is reachable within a five-minute drive. 1 min Dubai Water Canal Boardwalk 2 min Dubai Waterfall 5 min Business Bay Marina 5 min Al Quoz Pond Park 7 min ",
+      "y": 900,
+      "height": 893,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-02-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 893,
+        "capturedAt": "2026-10-22T10:09:41.861Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "24px",
+        "text": "One River Point — Location One River Point is nestled in Dubai’s “Manhattan”, within the Business Bay neighborhood. Conveniently close to the UAE's main transportation artery, Sheikh Zayed Road, which is merely a two-minute drive away. The Business Bay metro station is reachable within a five-minute drive. 1 min Dubai Water Canal Boardwalk 2 min Dubai Waterfall 5 min Business Bay Marina 5 min Al Quoz Pond Park 7 min ",
+        "title": "One River Point — Location",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "section section--content split-gallery",
+      "elementId": "",
+      "title": "One River Point — About the project",
+      "headings": [
+        "One River Point — About the project"
+      ],
+      "text": "One River Point — About the project One River Point stands tall with 37 residential floors and a five-story podium. It offers designer studios with balconies, 1-3 bedroom apartments, terraced duplexes, and spacious 3-4 bedroom penthouses. Apartments range from 1,060.25 to 2,397.3 square feet, while duplexes and penthouses span from 3,502 to 5,847 square feet.",
+      "y": 1849,
+      "height": 586,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-03-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 586,
+        "capturedAt": "2026-10-22T10:09:43.873Z",
+        "failedImages": 6,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "24px",
+        "text": "One River Point — About the project One River Point stands tall with 37 residential floors and a five-story podium. It offers designer studios with balconies, 1-3 bedroom apartments, terraced duplexes, and spacious 3-4 bedroom penthouses. Apartments range from 1,060.25 to 2,397.3 square feet, while duplexes and penthouses span from 3,502 to 5,847 square feet.",
+        "title": "One River Point — About the project",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#floor-plan",
+      "tag": "SECTION",
+      "cls": "section section--md",
+      "elementId": "floor-plan",
+      "title": "One River Point — Floor Plans",
+      "headings": [
+        "One River Point — Floor Plans",
+        "Studio apartment"
+      ],
+      "text": "One River Point — Floor Plans SQFT SQM AED USD RUB Studios Number of bedrooms 1 Apartments Number of bedrooms 1 1 2 3 Studio apartment 1,482,828 AED Bathrooms 1 Total area 487 sqft",
+      "y": 2491,
+      "height": 734,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-04-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 734,
+        "capturedAt": "2026-10-22T10:09:45.875Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "24px",
+        "text": "One River Point — Floor Plans SQFT SQM AED USD RUB Studios Number of bedrooms 1 Apartments Number of bedrooms 1 1 2 3 Studio apartment 1,482,828 AED Bathrooms 1 Total area 487 sqft",
+        "title": "One River Point — Floor Plans",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "section section--md payment-plan",
+      "elementId": "",
+      "title": "One River Point — Payment Plan",
+      "headings": [
+        "One River Point — Payment Plan"
+      ],
+      "text": "One River Point — Payment Plan 20% 01 At the time of booking 10% 02 30 days after the booking date 10% 03 90 days after the booking date 5% 04 150 days after the booking date 5% 05 On completion of 30% construction of the project 5% 06 On completion of 40% construction of the project 5% 07 On completion of 50% construction of the project 5% 08 On completion of 60% construction of the project 30% 09 On completion",
+      "y": 3281,
+      "height": 772,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-05-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 772,
+        "capturedAt": "2026-10-22T10:09:46.378Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "24px",
+        "text": "One River Point — Payment Plan 20% 01 At the time of booking 10% 02 30 days after the booking date 10% 03 90 days after the booking date 5% 04 150 days after the booking date 5% 05 On completion of 30% construction of the project 5% 06 On completion of 40% construction of the project 5% 07 On completion of 50% construction of the project 5% 08 On completion of 60% construction of the project 30% 09 On completion",
+        "title": "One River Point — Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "section amenities-preview-section",
+      "elementId": "",
+      "title": "Amenities",
+      "headings": [
+        "Amenities",
+        "Reputable developers for lucrative investment",
+        "Immersive room, 3 swimming pools, and a Clubhouse",
+        "Studios and apartments with balconies and laundry rooms",
+        "Smart Home System"
+      ],
+      "text": "Amenities F&B and retail area on the 1st floor Coworking spaces Two infinity pools and a family pool Multi-sports hall Terrace observation deck Pet walking area Club Lounge Five-level parking lot Reputable developers for lucrative investment Founded in 2015 by Robert Buss, former CEO of Emaar, Ellington Properties' developments are highly regarded and valued. Collaborating with Dutco Group, with over 70 years of expe",
+      "y": 4433,
+      "height": 2621,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-06-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 2622,
+        "capturedAt": "2026-10-22T10:09:46.950Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "24px",
+        "text": "Amenities F&B and retail area on the 1st floor Coworking spaces Two infinity pools and a family pool Multi-sports hall Terrace observation deck Pet walking area Club Lounge Five-level parking lot Reputable developers for lucrative investment Founded in 2015 by Robert Buss, former CEO of Emaar, Ellington Properties' developments are highly regarded and valued. Collaborating with Dutco Group, with over 70 years of expe",
+        "title": "Amenities",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#wgatheme_communicationsform-8125",
+      "tag": "DIV",
+      "cls": "cta-primary section",
+      "elementId": "wgatheme_communicationsform-8125",
+      "title": "",
+      "headings": [],
+      "text": "We will answer all your questions Fill out the form to contact an expert CONTACT FORM CONTACT ME",
+      "y": 7110,
+      "height": 398,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-07-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 398,
+        "capturedAt": "2026-10-22T10:09:47.505Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "16px",
+        "text": "We will answer all your questions Fill out the form to contact an expert CONTACT FORM CONTACT ME",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "section section--title-arrows-offset project-section-similar",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Similar projects READY TO MOVE IN Studios , Apartments , Townhouses from 1,230,000 AED Eleganz by Danube Group Jumeirah Village Circle (JVC), Dubai Ready-to-move-in fully furnished apartments in JVC — one of the most popular rental neighborhoods in Dubai. 15 minutes by car to Dubai Marina. Low-rise development. Post-payment until 2027, 1% per month. HANDOVER Q2 2026 Studios , Apartments from 1,122,888 AED Rove Home D",
+      "y": 7564,
+      "height": 535,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-08-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 535,
+        "capturedAt": "2026-10-22T10:09:49.532Z",
+        "failedImages": 38,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "16px",
+        "text": "Similar projects READY TO MOVE IN Studios , Apartments , Townhouses from 1,230,000 AED Eleganz by Danube Group Jumeirah Village Circle (JVC), Dubai Ready-to-move-in fully furnished apartments in JVC — one of the most popular rental neighborhoods in Dubai. 15 minutes by car to Dubai Marina. Low-rise development. Post-payment until 2027, 1% per month. HANDOVER Q2 2026 Studios , Apartments from 1,122,888 AED Rove Home D",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#main > div:nth-of-type(2) > div:nth-of-type(1) > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Related to this item #HANDOVER",
+      "y": 8155,
+      "height": 108,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-09-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 108,
+        "capturedAt": "2026-10-22T10:09:50.030Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "16px",
+        "text": "Related to this item #HANDOVER",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Call us: +97145787087 Email us: hello@everhomes.ae 1st floor, Mangrove 6, SA06 Building Sustainability District, Dubai Expo City Dubai - United Arab Emirates NEW LAUNCHES OFF-PLAN COMMUNITIES DEVELOPERS INFORMATION BLOG © 2026 Everhomes.ae by Emirabiz. Terms of use | Privacy policy En | Ru",
+      "y": 8318,
+      "height": 754,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-24-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 754,
+        "capturedAt": "2026-10-22T10:09:50.545Z",
+        "failedImages": 0,
+        "font": "Gilroy, system-ui, sans-serif",
+        "fontSize": "16px",
+        "text": "Call us: +97145787087 Email us: hello@everhomes.ae 1st floor, Mangrove 6, SA06 Building Sustainability District, Dubai Expo City Dubai - United Arab Emirates NEW LAUNCHES OFF-PLAN COMMUNITIES DEVELOPERS INFORMATION BLOG © 2026 Everhomes.ae by Emirabiz. Terms of use | Privacy policy En | Ru",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-24",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:09:41.151Z"
+}

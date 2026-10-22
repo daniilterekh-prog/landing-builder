@@ -1,0 +1,211 @@
+{
+  "url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+  "title": "The Alba Residences in Palm Jumeirah by Omniyat | Luxhabitat",
+  "height": 5828,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "site-header",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Area, development... List with us",
+      "y": 0,
+      "height": 80,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 80,
+        "capturedAt": "2026-10-22T10:05:30.505Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "15px",
+        "text": "Area, development... List with us",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "page-entry",
+      "elementId": "",
+      "title": "The Alba Residences",
+      "headings": [
+        "The Alba Residences"
+      ],
+      "text": "The Alba Residences Ultra Luxury Living by Omniyat",
+      "y": 130,
+      "height": 65,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 65,
+        "capturedAt": "2026-10-22T10:05:31.022Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "28px",
+        "text": "The Alba Residences Ultra Luxury Living by Omniyat",
+        "title": "The Alba Residences",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2)",
+      "tag": "DIV",
+      "cls": "upper-nav-outer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Overview Images Location Payment plan Request brochure",
+      "y": 215,
+      "height": 73,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 74,
+        "capturedAt": "2026-10-22T10:05:31.510Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "15px",
+        "text": "Overview Images Location Payment plan Request brochure",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3)",
+      "tag": "DIV",
+      "cls": "page-entry",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 307,
+      "height": 612,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 612,
+        "capturedAt": "2026-10-22T10:05:32.070Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "15px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4)",
+      "tag": "DIV",
+      "cls": "vstack gap-6 pt-4 pb-9",
+      "elementId": "",
+      "title": "About The Alba Residences by Omniyat",
+      "headings": [
+        "About The Alba Residences by Omniyat",
+        "Amenities",
+        "Palm Jumeirah",
+        "Payment plan",
+        "Omniyat"
+      ],
+      "text": "Developed by Omniyat in Palm Jumeirah. Features 3 to 4-bedroom simplex, duplex and penthouses. Estimated completion in Q1 2028. Location Palm Jumeirah, Dubai Price AED 20,000,000+ Unit types Apartments Built up area 5,368 sq. ft.+ Bedrooms 3 to 4 Developer Omniyat About The Alba Residences by Omniyat The Alba Residences is a high-end development by Omniyat located on the iconic Palm Jumeirah in Dubai. The renowned Za",
+      "y": 939,
+      "height": 2517,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 2518,
+        "capturedAt": "2026-10-22T10:05:32.966Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "22px",
+        "text": "Developed by Omniyat in Palm Jumeirah. Features 3 to 4-bedroom simplex, duplex and penthouses. Estimated completion in Q1 2028. Location Palm Jumeirah, Dubai Price AED 20,000,000+ Unit types Apartments Built up area 5,368 sq. ft.+ Bedrooms 3 to 4 Developer Omniyat About The Alba Residences by Omniyat The Alba Residences is a high-end development by Omniyat located on the iconic Palm Jumeirah in Dubai. The renowned Za",
+        "title": "About The Alba Residences by Omniyat",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > main:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5)",
+      "tag": "DIV",
+      "cls": "page-entry",
+      "elementId": "",
+      "title": "FAQs about The Alba Residences by Omniyat",
+      "headings": [
+        "FAQs about The Alba Residences by Omniyat",
+        "Where is The Alba Residences by Omniyat located?",
+        "Who is the developer of The Alba Residences by Omniyat?",
+        "What types of properties are available in The Alba Residences by Omniyat?",
+        "What are the prices for The Alba Residences by Omniyat?"
+      ],
+      "text": "Building & Community GuidesDubaiThe Alba Residences by Omniyat FAQs about The Alba Residences by Omniyat Where is The Alba Residences by Omniyat located? Who is the developer of The Alba Residences by Omniyat? What types of properties are available in The Alba Residences by Omniyat? What are the prices for The Alba Residences by Omniyat? Request information BROWSE NEXT Villas for sale in Palm Jumeirah Apartments for ",
+      "y": 3476,
+      "height": 1489,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1490,
+        "capturedAt": "2026-10-22T10:05:33.647Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "18px",
+        "text": "Building & Community GuidesDubaiThe Alba Residences by Omniyat FAQs about The Alba Residences by Omniyat Where is The Alba Residences by Omniyat located? Who is the developer of The Alba Residences by Omniyat? What types of properties are available in The Alba Residences by Omniyat? What are the prices for The Alba Residences by Omniyat? Request information BROWSE NEXT Villas for sale in Palm Jumeirah Apartments for ",
+        "title": "FAQs about The Alba Residences by Omniyat",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "page-entry pt-6 pb-10 pb-lg-6 site-footer-outer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Stay well-informed. Sign up to our newsletter for market updates. Sign up → Luxury property for sale Apartments for sale in Dubai Property for sale in Abu Dhabi Penthouses for sale in Dubai Property for sale in Dubai Property for sale in RAK Townhouses for sale in Dubai Villas for sale in Dubai Luxury property for rent Apartments for rent in Dubai Duplex for rent in Dubai Holiday Homes in Dubai Penthouses for rent in",
+      "y": 5066,
+      "height": 762,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-23-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 762,
+        "capturedAt": "2026-10-22T10:05:34.275Z",
+        "failedImages": 0,
+        "font": "Plain, Arial, Verdana, sans-serif",
+        "fontSize": "15px",
+        "text": "Stay well-informed. Sign up to our newsletter for market updates. Sign up → Luxury property for sale Apartments for sale in Dubai Property for sale in Abu Dhabi Penthouses for sale in Dubai Property for sale in Dubai Property for sale in RAK Townhouses for sale in Dubai Villas for sale in Dubai Luxury property for rent Apartments for rent in Dubai Duplex for rent in Dubai Holiday Homes in Dubai Penthouses for rent in",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-23",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:05:30.015Z"
+}

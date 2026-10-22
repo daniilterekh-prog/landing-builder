@@ -1,0 +1,544 @@
+{
+  "url": "https://mered.ae/iconic",
+  "title": "Iconic Residences design by Pininfarina | Mered",
+  "height": 900,
+  "blocks": [
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIndexWelcome",
+      "elementId": "",
+      "title": "ICONIC RESIDENCES – DESIGNED BY PININFARINA",
+      "headings": [
+        "ICONIC RESIDENCES – DESIGNED BY PININFARINA"
+      ],
+      "text": "BRANDED RESIDENCES DESIGNED AND FURNISHED BY PININFARINA ICONIC RESIDENCES – DESIGNED BY PININFARINA scroll",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 6,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:42.449Z",
+        "failedImages": 0,
+        "font": "\"TT Commons Pro\", sans-serif",
+        "fontSize": "12.8px",
+        "text": "BRANDED RESIDENCES DESIGNED AND FURNISHED BY PININFARINA ICONIC RESIDENCES – DESIGNED BY PININFARINA scroll",
+        "title": "ICONIC RESIDENCES – DESIGNED BY PININFARINA",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIconicParameters",
+      "elementId": "",
+      "title": "Exceptional Residences",
+      "headings": [
+        "Exceptional Residences"
+      ],
+      "text": "Exceptional Residences G+66 Tower floors 310 Apartments 1 Penthouse VIP parking with A/C 2 levels of Amenities End of 2027 Delivery Apartment plans Download Project presentation Download",
+      "y": 900,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:43.299Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "61.6px",
+        "text": "Exceptional Residences G+66 Tower floors 310 Apartments 1 Penthouse VIP parking with A/C 2 levels of Amenities End of 2027 Delivery Apartment plans Download Project presentation Download",
+        "title": "Exceptional Residences",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(3) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageAmenities PageGallery PageIndexGallery_architecture",
+      "elementId": "",
+      "title": "Architecture & Interiors by Pininfarina",
+      "headings": [
+        "Architecture & Interiors by Pininfarina"
+      ],
+      "text": "◂ prev next ▸ Architecture & Interiors by Pininfarina Pininfarina — is a global symbol of sophisticated Italian design.",
+      "y": 1800,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:44.152Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "38.4px",
+        "text": "◂ prev next ▸ Architecture & Interiors by Pininfarina Pininfarina — is a global symbol of sophisticated Italian design.",
+        "title": "Architecture & Interiors by Pininfarina",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageAmenities PageGallery PageIndexGallery_no-gradient",
+      "elementId": "",
+      "title": "Future Dominant in Dubai Internet City",
+      "headings": [
+        "Future Dominant in Dubai Internet City"
+      ],
+      "text": "Future Dominant in Dubai Internet City Strategically located area. Transport accessibility.",
+      "y": 2700,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:44.951Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "38.4px",
+        "text": "Future Dominant in Dubai Internet City Strategically located area. Transport accessibility.",
+        "title": "Future Dominant in Dubai Internet City",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageAmenities PageGallery PageIndexGallery_no-gradient",
+      "elementId": "",
+      "title": "Exciting Sea Views",
+      "headings": [
+        "Exciting Sea Views"
+      ],
+      "text": "◂ prev next ▸ Exciting Sea Views The building is designed to provide its residents with spectacular seascape and landmark views.",
+      "y": 3600,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:45.646Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "38.4px",
+        "text": "◂ prev next ▸ Exciting Sea Views The building is designed to provide its residents with spectacular seascape and landmark views.",
+        "title": "Exciting Sea Views",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(6) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "StandardSectionWelcome",
+      "elementId": "",
+      "title": "Central location",
+      "headings": [
+        "Central location"
+      ],
+      "text": "Central location Iconic Residences is located 5 minutes away from Palm Jumeirah and offer amazing connectivity in the city",
+      "y": 4950,
+      "height": 289,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 289,
+        "capturedAt": "2026-10-22T10:05:46.391Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Central location Iconic Residences is located 5 minutes away from Palm Jumeirah and offer amazing connectivity in the city",
+        "title": "Central location",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(8) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIconicLocationAttraction",
+      "elementId": "",
+      "title": "Places of attraction",
+      "headings": [
+        "Places of attraction",
+        "Palm Jumeirah Beaches",
+        "Jumeirah Beaches",
+        "Emirates Golf Club",
+        "Dubai Harbour"
+      ],
+      "text": "Places of attraction Palm Jumeirah Beaches 5 minutes by car Jumeirah Beaches 9 minutes by car Emirates Golf Club 9 minutes by car Dubai Harbour 10 minutes by car Bluewaters Island 10 minutes by car Bluewaters Beach Clubs 12 minutes by car Downtown Dubai 25 minutes by car ◂ prev next ▸",
+      "y": 6049,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:48.067Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Places of attraction Palm Jumeirah Beaches 5 minutes by car Jumeirah Beaches 9 minutes by car Emirates Golf Club 9 minutes by car Dubai Harbour 10 minutes by car Bluewaters Island 10 minutes by car Bluewaters Beach Clubs 12 minutes by car Downtown Dubai 25 minutes by car ◂ prev next ▸",
+        "title": "Places of attraction",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(9) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "StandardSectionWelcome",
+      "elementId": "",
+      "title": "Exclusive amenities",
+      "headings": [
+        "Exclusive amenities"
+      ],
+      "text": "Exclusive amenities Two floors of excellent service and care",
+      "y": 7399,
+      "height": 266,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 266,
+        "capturedAt": "2026-10-22T10:05:48.724Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Exclusive amenities Two floors of excellent service and care",
+        "title": "Exclusive amenities",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(10) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIconicAmenities PageGallery",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "◂ prev next ▸ Infinity pool Sky Amenities 39-40th floors",
+      "y": 7665,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:49.713Z",
+        "failedImages": 0,
+        "font": "Manrope, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "◂ prev next ▸ Infinity pool Sky Amenities 39-40th floors",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(11) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "StandardSectionWelcome",
+      "elementId": "",
+      "title": "Premium finishing",
+      "headings": [
+        "Premium finishing"
+      ],
+      "text": "Premium finishing The perfect combination of excellence and beauty. Timeless Italian design, natural wood and marble WELCOME TO OUR SHOWFLAT",
+      "y": 9015,
+      "height": 344,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 345,
+        "capturedAt": "2026-10-22T10:05:50.389Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Premium finishing The perfect combination of excellence and beauty. Timeless Italian design, natural wood and marble WELCOME TO OUR SHOWFLAT",
+        "title": "Premium finishing",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(12) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIconicFinishing",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "◂ prev next ▸",
+      "y": 9359,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:50.999Z",
+        "failedImages": 0,
+        "font": "Manrope, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "◂ prev next ▸",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#fully-furnished > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "FullyFurnishedWelcome",
+      "elementId": "",
+      "title": "Fully Furnished Residences by Pininfarina",
+      "headings": [
+        "Fully Furnished Residences by Pininfarina",
+        "Complete pininfarina experience",
+        "Italian craftsmanship",
+        "Privileged packages"
+      ],
+      "text": "Fully Furnished Residences by Pininfarina Complete pininfarina experience Our buyers can receive a fully furnished residence with Pininfarina-designed interiors, extending the architecture and finishes of Iconic Residences into a seamless living environment — ideal for those seeking luxury apartments for sale in Abu Dhabi. Italian craftsmanship All furniture is produced in Italy by Reflex Angelo, Pininfarina’s long-s",
+      "y": 10709,
+      "height": 784,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-12-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 785,
+        "capturedAt": "2026-10-22T10:05:51.649Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Fully Furnished Residences by Pininfarina Complete pininfarina experience Our buyers can receive a fully furnished residence with Pininfarina-designed interiors, extending the architecture and finishes of Iconic Residences into a seamless living environment — ideal for those seeking luxury apartments for sale in Abu Dhabi. Italian craftsmanship All furniture is produced in Italy by Reflex Angelo, Pininfarina’s long-s",
+        "title": "Fully Furnished Residences by Pininfarina",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#fully-furnished-gallery > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame FullyFurnishedGallery",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "◂ prev next ▸",
+      "y": 11494,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-13-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:52.262Z",
+        "failedImages": 0,
+        "font": "Manrope, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "◂ prev next ▸",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(14) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "StandardSectionWelcome",
+      "elementId": "",
+      "title": "VIP parking with A/C",
+      "headings": [
+        "VIP parking with A/C"
+      ],
+      "text": "VIP parking with A/C",
+      "y": 12844,
+      "height": 188,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-14-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 188,
+        "capturedAt": "2026-10-22T10:05:52.834Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "VIP parking with A/C",
+        "title": "VIP parking with A/C",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(15) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIndexParking",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "◂ prev next ▸",
+      "y": 13032,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-15-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:53.405Z",
+        "failedImages": 0,
+        "font": "Manrope, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "◂ prev next ▸",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(16) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "StandardSectionWelcome",
+      "elementId": "",
+      "title": "Construction progress",
+      "headings": [
+        "Construction progress"
+      ],
+      "text": "Construction progress",
+      "y": 14382,
+      "height": 188,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-16-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 188,
+        "capturedAt": "2026-10-22T10:05:53.919Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Construction progress",
+        "title": "Construction progress",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(18) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "PageIconicVisaSectionWelcome",
+      "elementId": "",
+      "title": "Secure your 10-year UAE Golden Visa",
+      "headings": [
+        "Secure your 10-year UAE Golden Visa"
+      ],
+      "text": "Secure your 10-year UAE Golden Visa Invest in Iconic Residences design by Pininfarina and enjoy the exclusive benefits of a 10-year UAE Golden Visa. Residency for you & your family No restrictions on time spent outside the UAE Seamless visa support from our team GET IN TOUCH TO LEARN MORE",
+      "y": 15830,
+      "height": 584,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-17-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 585,
+        "capturedAt": "2026-10-22T10:05:54.499Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "40px",
+        "text": "Secure your 10-year UAE Golden Visa Invest in Iconic Residences design by Pininfarina and enjoy the exclusive benefits of a 10-year UAE Golden Visa. Residency for you & your family No restrictions on time spent outside the UAE Seamless visa support from our team GET IN TOUCH TO LEARN MORE",
+        "title": "Secure your 10-year UAE Golden Visa",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__layout > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(20) > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "PageIconicMortgage",
+      "elementId": "",
+      "title": "Financing your residence at ICONIC may be easier than you think",
+      "headings": [
+        "Financing your residence at ICONIC may be easier than you think"
+      ],
+      "text": "MORTGAGE OPTIONS Financing your residence at ICONIC may be easier than you think Mortgages are available even if you're not a UAE resident. You can finance up to half the property value and get full support throughout the process. Support: Full assistance from our mortgage partner — from application to approval Available for: UAE residents Golden Visa holders Non-residents with international income Repayment age limi",
+      "y": 17224,
+      "height": 872,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-18-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 872,
+        "capturedAt": "2026-10-22T10:05:55.203Z",
+        "failedImages": 0,
+        "font": "\"ABC Helveesti\", sans-serif",
+        "fontSize": "47px",
+        "text": "MORTGAGE OPTIONS Financing your residence at ICONIC may be easier than you think Mortgages are available even if you're not a UAE resident. You can finance up to half the property value and get full support throughout the process. Support: Full assistance from our mortgage partner — from application to approval Available for: UAE residents Golden Visa holders Non-residents with international income Repayment age limi",
+        "title": "Financing your residence at ICONIC may be easier than you think",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#contacts > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "ScreenFrame PageIconicForm",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Sales Center +971 (4) 879-7205 Send request Leave your details and we will contact you +31 Call me Message me I’ve read and agree to the Privacy Policy CONTACT ME Thank you for your enquiry. Our Customer Care team will be in touch with you shortly.",
+      "y": 18096,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-01-19-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:05:57.055Z",
+        "failedImages": 0,
+        "font": "Manrope, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "Sales Center +971 (4) 879-7205 Send request Leave your details and we will contact you +31 Call me Message me I’ve read and agree to the Privacy Policy CONTACT ME Thank you for your enquiry. Our Customer Care team will be in touch with you shortly.",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-01",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:05:41.157Z"
+}

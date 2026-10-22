@@ -1,0 +1,262 @@
+{
+  "url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+  "title": "Karl Lagerfeld Luxury Villas in Meydan Dubai | Taraf Holding",
+  "height": 7311,
+  "blocks": [
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "section_hero-image",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "REGISTER YOUR INTEREST",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:01:32.150Z",
+        "failedImages": 0,
+        "font": "Gotham",
+        "fontSize": "16px",
+        "text": "REGISTER YOUR INTEREST",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "banner_component",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "WHERE FASHION & ARCHITECTURE INTERPLAY 5, 6, 7 BEDROOM VILLAS AT MEYDAN, DUBAI REGISTER INTEREST DOWNLOAD BROCHURE CONSTRUCTION UPDATE MORTGAGE CALC.",
+      "y": 885,
+      "height": 103,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 104,
+        "capturedAt": "2026-10-22T10:01:32.638Z",
+        "failedImages": 0,
+        "font": "Gotham",
+        "fontSize": "16px",
+        "text": "WHERE FASHION & ARCHITECTURE INTERPLAY 5, 6, 7 BEDROOM VILLAS AT MEYDAN, DUBAI REGISTER INTEREST DOWNLOAD BROCHURE CONSTRUCTION UPDATE MORTGAGE CALC.",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#find_out_more",
+      "tag": "SECTION",
+      "cls": "section_project-intro black",
+      "elementId": "find_out_more",
+      "title": "KARL LAGERFELD VILLAS",
+      "headings": [
+        "KARL LAGERFELD VILLAS",
+        "This limited collection of 51 exquisite villas with views over the Crystal Lagoon or Downtown Skyline, is located in the most sort-after villa community of Dubai – Meydan. Experience fashion-fused architecture designed with the ethos of an Icon."
+      ],
+      "text": "KARL LAGERFELD VILLAS This limited collection of 51 exquisite villas with views over the Crystal Lagoon or Downtown Skyline, is located in the most sort-after villa community of Dubai – Meydan. Experience fashion-fused architecture designed with the ethos of an Icon.",
+      "y": 900,
+      "height": 1258,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1258,
+        "capturedAt": "2026-10-22T10:01:33.247Z",
+        "failedImages": 0,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "9.6px",
+        "text": "KARL LAGERFELD VILLAS This limited collection of 51 exquisite villas with views over the Crystal Lagoon or Downtown Skyline, is located in the most sort-after villa community of Dubai – Meydan. Experience fashion-fused architecture designed with the ethos of an Icon.",
+        "title": "KARL LAGERFELD VILLAS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "section_projectlayout1 darker",
+      "elementId": "",
+      "title": "Nad Al Sheba – Meydan",
+      "headings": [
+        "Nad Al Sheba – Meydan"
+      ],
+      "text": "AN ICONIC LOCATION Nad Al Sheba – Meydan Located within the Mohamed Bin Rashed Al Maktoum City District, the site is across from Nad Al Sheba and is located adjacent to a crystal lagoon with uninterrupted views of Downtown Dubai. The development is situated within a renowned zone that creates endless possibilities for a truly exceptional lifestyle. 3 Minutes to Nad Al Sheba 15 Minutes to Meydan Racecourse 19 Minutes ",
+      "y": 2158,
+      "height": 951,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 951,
+        "capturedAt": "2026-10-22T10:01:33.791Z",
+        "failedImages": 0,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "32px",
+        "text": "AN ICONIC LOCATION Nad Al Sheba – Meydan Located within the Mohamed Bin Rashed Al Maktoum City District, the site is across from Nad Al Sheba and is located adjacent to a crystal lagoon with uninterrupted views of Downtown Dubai. The development is situated within a renowned zone that creates endless possibilities for a truly exceptional lifestyle. 3 Minutes to Nad Al Sheba 15 Minutes to Meydan Racecourse 19 Minutes ",
+        "title": "Nad Al Sheba – Meydan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "section_projectlayout2 black",
+      "elementId": "",
+      "title": "Inspired By The Catwalk",
+      "headings": [
+        "Inspired By The Catwalk"
+      ],
+      "text": "SPACIOUS INTERIORS Inspired By The Catwalk Inspired by the brand’s fashion collections, the aesthetics boast the beauty of the brand’s versatility and simplicity, enhancing the experience of life within these one-of-a-kind villas. Each villa features a central catwalk, boasting a grand entrance in the center and different lifestyle zones on either side, creating an exclusive experience for residents and their guests.",
+      "y": 3109,
+      "height": 1046,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1047,
+        "capturedAt": "2026-10-22T10:01:35.954Z",
+        "failedImages": 7,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "32px",
+        "text": "SPACIOUS INTERIORS Inspired By The Catwalk Inspired by the brand’s fashion collections, the aesthetics boast the beauty of the brand’s versatility and simplicity, enhancing the experience of life within these one-of-a-kind villas. Each villa features a central catwalk, boasting a grand entrance in the center and different lifestyle zones on either side, creating an exclusive experience for residents and their guests.",
+        "title": "Inspired By The Catwalk",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "section_projectlayout1 darker",
+      "elementId": "",
+      "title": "Inspired by the DNA of KARL LAGERFELD",
+      "headings": [
+        "Inspired by the DNA of KARL LAGERFELD"
+      ],
+      "text": "STUNNING EXTERIORS Inspired by the DNA of KARL LAGERFELD Infused with the ethos of KARL LAGERFELD fashion, the architectural design blends minimalist elements with sleek forms, incorporating a monochromatic color palette and textured materials across the facades. The exteriors redefine contemporary design with flawless elements inspired by Karl’s own passion for the 18th century, including art deco elements and minim",
+      "y": 4155,
+      "height": 719,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 719,
+        "capturedAt": "2026-10-22T10:01:38.183Z",
+        "failedImages": 5,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "32px",
+        "text": "STUNNING EXTERIORS Inspired by the DNA of KARL LAGERFELD Infused with the ethos of KARL LAGERFELD fashion, the architectural design blends minimalist elements with sleek forms, incorporating a monochromatic color palette and textured materials across the facades. The exteriors redefine contemporary design with flawless elements inspired by Karl’s own passion for the 18th century, including art deco elements and minim",
+        "title": "Inspired by the DNA of KARL LAGERFELD",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "section_projectlayout2 black",
+      "elementId": "",
+      "title": "The Karl Lagerfeld Clubhouse",
+      "headings": [
+        "The Karl Lagerfeld Clubhouse"
+      ],
+      "text": "THE FLOATING JEWEL The Karl Lagerfeld Clubhouse The Pavilion offers exclusive facilities to all residents, such as “The Club”, an entertainment space for all ages, “The Library”, a lounge named after KARL LAGERFELD’s passion for books and libraries, a gym and a fitness studio, an adult pool inspired by the beach, and a kids’ pool, all surrounded by immaculately landscaped areas and parks. ENQUIRE NOW",
+      "y": 4874,
+      "height": 719,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 719,
+        "capturedAt": "2026-10-22T10:01:40.361Z",
+        "failedImages": 4,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "32px",
+        "text": "THE FLOATING JEWEL The Karl Lagerfeld Clubhouse The Pavilion offers exclusive facilities to all residents, such as “The Club”, an entertainment space for all ages, “The Library”, a lounge named after KARL LAGERFELD’s passion for books and libraries, a gym and a fitness studio, an adult pool inspired by the beach, and a kids’ pool, all surrounded by immaculately landscaped areas and parks. ENQUIRE NOW",
+        "title": "The Karl Lagerfeld Clubhouse",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "section_cta59",
+      "elementId": "",
+      "title": "Real Estate Permit Card",
+      "headings": [
+        "Real Estate Permit Card"
+      ],
+      "text": "Real Estate Permit Card This listing has been verified by the Dubai Land Department. Scan for more information.",
+      "y": 6457,
+      "height": 150,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 150,
+        "capturedAt": "2026-10-22T10:01:40.931Z",
+        "failedImages": 0,
+        "font": "\"Gotham Ultra\"",
+        "fontSize": "32px",
+        "text": "Real Estate Permit Card This listing has been verified by the Dubai Land Department. Scan for more information.",
+        "title": "Real Estate Permit Card",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer_component",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "ABOUT TARAF What We Do Contact Us PROPERTIES Luce Terrazzo Karl Lagerfeld Villas Fay Hills Terra Golf Collection Cello W Residences Solea MEDIA CENTER News Blog CORPORATE OFFICE 1304, Marina Plaza, Dubai Marina, Dubai, United Arab Emirates GET DIRECTIONS DUBAI SALES GALLERY 1303, Marina Plaza, Dubai Marina, Dubai, United Arab Emirates GET DIRECTIONS TARAF X MASDAR CITY SALES GALLERY Next to Al Masar Skate Park, Abu D",
+      "y": 6607,
+      "height": 704,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-07-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 705,
+        "capturedAt": "2026-10-22T10:01:41.440Z",
+        "failedImages": 0,
+        "font": "Gotham",
+        "fontSize": "16px",
+        "text": "ABOUT TARAF What We Do Contact Us PROPERTIES Luce Terrazzo Karl Lagerfeld Villas Fay Hills Terra Golf Collection Cello W Residences Solea MEDIA CENTER News Blog CORPORATE OFFICE 1304, Marina Plaza, Dubai Marina, Dubai, United Arab Emirates GET DIRECTIONS DUBAI SALES GALLERY 1303, Marina Plaza, Dubai Marina, Dubai, United Arab Emirates GET DIRECTIONS TARAF X MASDAR CITY SALES GALLERY Next to Al Masar Skate Park, Abu D",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-07",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:01:31.588Z"
+}

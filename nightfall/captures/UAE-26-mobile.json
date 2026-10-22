@@ -1,0 +1,43 @@
+{
+  "url": "https://podbor.dubai-realty.com/",
+  "title": "Подбор недвижимости в ОАЭ",
+  "height": 844,
+  "blocks": [
+    {
+      "selector": "#quiz-root",
+      "tag": "DIV",
+      "cls": "quiz",
+      "elementId": "quiz-root",
+      "title": "Новостройки в Дубае и Абу-Даби от 650 000 дрхм",
+      "headings": [
+        "Новостройки в Дубае и Абу-Даби от 650 000 дрхм"
+      ],
+      "text": "ТОП ПРОЕКТЫ КОНФИДЕНЦИАЛЬНО Новостройки в Дубае и Абу-Даби от 650 000 дрхм Выбрать недвижимость",
+      "y": 0,
+      "height": 844,
+      "width": 390,
+      "h1Words": 9,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-26-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 844,
+        "capturedAt": "2026-10-22T10:10:17.287Z",
+        "failedImages": 0,
+        "font": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Ubuntu, Cantarell, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif",
+        "fontSize": "36px",
+        "text": "ТОП ПРОЕКТЫ КОНФИДЕНЦИАЛЬНО Новостройки в Дубае и Абу-Даби от 650 000 дрхм Выбрать недвижимость",
+        "title": "Новостройки в Дубае и Абу-Даби от 650 000 дрхм",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-26",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:10:16.778Z"
+}

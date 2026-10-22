@@ -1,0 +1,782 @@
+[
+  {
+    "id": "UAE-01",
+    "name": "MERED — ICONIC Residences",
+    "url": "https://mered.ae/iconic",
+    "ad": true,
+    "owner": "Застройщик MERED",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 19,
+        "capturedAt": "2026-10-22T10:05:41.157Z",
+        "url": "https://mered.ae/iconic",
+        "successful": 19
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 19,
+        "capturedAt": "2026-10-22T10:06:04.371Z",
+        "url": "https://mered.ae/iconic",
+        "successful": 19
+      }
+    },
+    "variants": 19
+  },
+  {
+    "id": "UAE-02",
+    "name": "Meraas — The Acres",
+    "url": "https://theacres.meraas.com/",
+    "ad": false,
+    "owner": "Застройщик Meraas",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 13,
+        "capturedAt": "2026-10-22T09:57:45.624Z",
+        "url": "https://theacres.meraas.com/",
+        "successful": 13
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 12,
+        "capturedAt": "2026-10-22T09:58:08.994Z",
+        "url": "https://theacres.meraas.com/",
+        "successful": 12
+      }
+    },
+    "variants": 13
+  },
+  {
+    "id": "UAE-03",
+    "name": "OMNIYAT — The Alba",
+    "url": "https://thealbadestination.omniyat.com/",
+    "ad": false,
+    "owner": "Застройщик OMNIYAT",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:00:20.195Z",
+        "url": "https://thealbadestination.omniyat.com/",
+        "successful": 11
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:00:37.193Z",
+        "url": "https://thealbadestination.omniyat.com/",
+        "successful": 11
+      }
+    },
+    "variants": 11
+  },
+  {
+    "id": "UAE-04",
+    "name": "Emaar — Grand Polo Club & Resort",
+    "url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+    "ad": false,
+    "owner": "Застройщик Emaar",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:00:51.897Z",
+        "url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+        "successful": 10
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 8,
+        "capturedAt": "2026-10-22T10:01:04.271Z",
+        "url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+        "successful": 8
+      }
+    },
+    "variants": 10
+  },
+  {
+    "id": "UAE-05",
+    "name": "Sobha — Siniya Island",
+    "url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+    "ad": false,
+    "owner": "Застройщик Sobha Realty",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:01:02.009Z",
+        "url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+        "successful": 11
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:01:24.197Z",
+        "url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+        "successful": 11
+      }
+    },
+    "variants": 11
+  },
+  {
+    "id": "UAE-06",
+    "name": "Ellington — One River Point",
+    "url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+    "ad": false,
+    "owner": "Застройщик Ellington",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 6,
+        "capturedAt": "2026-10-22T10:01:13.882Z",
+        "url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+        "successful": 6
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:01:22.441Z",
+        "url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+        "successful": 7
+      }
+    },
+    "variants": 7
+  },
+  {
+    "id": "UAE-07",
+    "name": "Taraf — Karl Lagerfeld Villas",
+    "url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+    "ad": false,
+    "owner": "Застройщик Taraf",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 9,
+        "capturedAt": "2026-10-22T10:01:31.588Z",
+        "url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+        "successful": 9
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 9,
+        "capturedAt": "2026-10-22T10:01:46.089Z",
+        "url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+        "successful": 9
+      }
+    },
+    "variants": 9
+  },
+  {
+    "id": "UAE-08",
+    "name": "Select Group — Six Senses Dubai Marina",
+    "url": "https://www.select-group.ae/developments/six-senses-residences-dubai-marina",
+    "ad": false,
+    "owner": "Застройщик Select Group",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 13,
+        "capturedAt": "2026-10-22T10:01:41.231Z",
+        "url": "https://www.select-group.ae/developments/six-senses-residences-dubai-marina",
+        "successful": 13
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 16,
+        "capturedAt": "2026-10-22T10:02:01.909Z",
+        "url": "https://www.select-group.ae/developments/six-senses-residences-dubai-marina",
+        "successful": 16
+      }
+    },
+    "variants": 17
+  },
+  {
+    "id": "UAE-09",
+    "name": "RAK Properties — Quattro Del Mar",
+    "url": "https://quattrodelmar.rakproperties.ae/",
+    "ad": false,
+    "owner": "Застройщик RAK Properties",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 15,
+        "capturedAt": "2026-10-22T10:02:02.975Z",
+        "url": "https://quattrodelmar.rakproperties.ae/",
+        "successful": 14
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 16,
+        "capturedAt": "2026-10-22T10:02:21.416Z",
+        "url": "https://quattrodelmar.rakproperties.ae/",
+        "successful": 16
+      }
+    },
+    "variants": 16
+  },
+  {
+    "id": "UAE-10",
+    "name": "Object 1 — LUM1NAR Tower 1",
+    "url": "https://object-1.com/project/lum1nar-tower-1/",
+    "ad": false,
+    "owner": "Застройщик Object 1",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:13:28.053Z",
+        "url": "https://object-1.com/project/lum1nar-tower-1/",
+        "successful": 11
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:13:42.979Z",
+        "url": "https://object-1.com/project/lum1nar-tower-1/",
+        "successful": 11
+      }
+    },
+    "variants": 11
+  },
+  {
+    "id": "UAE-11",
+    "name": "BEYOND — ORISE",
+    "url": "https://beyonddevelopments.ae/Projects/orise/",
+    "ad": false,
+    "owner": "Застройщик BEYOND",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:02:20.730Z",
+        "url": "https://beyonddevelopments.ae/Projects/orise/",
+        "successful": 10
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 9,
+        "capturedAt": "2026-10-22T10:02:34.945Z",
+        "url": "https://beyonddevelopments.ae/Projects/orise/",
+        "successful": 9
+      }
+    },
+    "variants": 10
+  },
+  {
+    "id": "UAE-12",
+    "name": "Danube — BAYZ 102",
+    "url": "https://danubeproperties.com/portfolio/bayz102/",
+    "ad": false,
+    "owner": "Застройщик Danube",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:05:45.011Z",
+        "url": "https://danubeproperties.com/portfolio/bayz102/",
+        "successful": 11
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:06:09.216Z",
+        "url": "https://danubeproperties.com/portfolio/bayz102/",
+        "successful": 10
+      }
+    },
+    "variants": 11
+  },
+  {
+    "id": "UAE-13",
+    "name": "Imtiaz — Cove Edition I",
+    "url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+    "ad": false,
+    "owner": "Застройщик Imtiaz",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 11,
+        "capturedAt": "2026-10-22T10:02:43.800Z",
+        "url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+        "successful": 11
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:03:00.384Z",
+        "url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+        "successful": 10
+      }
+    },
+    "variants": 11
+  },
+  {
+    "id": "UAE-14",
+    "name": "Arada — Armani Beach Residences",
+    "url": "https://www.arada.com/en/armani-beach-residences/",
+    "ad": false,
+    "owner": "Застройщик Arada",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 8,
+        "capturedAt": "2026-10-22T10:02:45.483Z",
+        "url": "https://www.arada.com/en/armani-beach-residences/",
+        "successful": 8
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:02:56.143Z",
+        "url": "https://www.arada.com/en/armani-beach-residences/",
+        "successful": 7
+      }
+    },
+    "variants": 8
+  },
+  {
+    "id": "UAE-15",
+    "name": "Aldar — Sama Yas",
+    "url": "https://www.aldar.com/samayas/",
+    "ad": false,
+    "owner": "Застройщик Aldar",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:03:11.020Z",
+        "url": "https://www.aldar.com/samayas/",
+        "successful": 7
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:03:28.174Z",
+        "url": "https://www.aldar.com/samayas/",
+        "successful": 7
+      }
+    },
+    "variants": 7
+  },
+  {
+    "id": "UAE-16",
+    "name": "Nakheel — Palm Jebel Ali",
+    "url": "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali",
+    "ad": false,
+    "owner": "Застройщик Nakheel",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 14,
+        "capturedAt": "2026-10-22T10:03:22.210Z",
+        "url": "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali",
+        "successful": 14
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 13,
+        "capturedAt": "2026-10-22T10:03:38.235Z",
+        "url": "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali",
+        "successful": 13
+      }
+    },
+    "variants": 14
+  },
+  {
+    "id": "UAE-17",
+    "name": "NEXT — Coral",
+    "url": "https://next-property.com/ru/next-coral",
+    "ad": true,
+    "owner": "Застройщик NEXT",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 23,
+        "capturedAt": "2026-10-22T10:03:40.511Z",
+        "url": "https://next-property.com/ru/next-coral",
+        "successful": 23
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 23,
+        "capturedAt": "2026-10-22T10:04:02.361Z",
+        "url": "https://next-property.com/ru/next-coral",
+        "successful": 23
+      }
+    },
+    "variants": 24
+  },
+  {
+    "id": "UAE-18",
+    "name": "Binghatti — Premium Property",
+    "url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+    "ad": true,
+    "owner": "Застройщик Binghatti",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 8,
+        "capturedAt": "2026-10-22T10:03:51.800Z",
+        "url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+        "successful": 8
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:04:00.124Z",
+        "url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+        "successful": 7
+      }
+    },
+    "variants": 8
+  },
+  {
+    "id": "UAE-19",
+    "name": "DAMAC — Investment Landing",
+    "url": "https://promotions.damacproperties.com/usa/dubai-real-estate-investment-from-usa/",
+    "ad": true,
+    "owner": "Застройщик DAMAC",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 14,
+        "capturedAt": "2026-10-22T10:04:09.178Z",
+        "url": "https://promotions.damacproperties.com/usa/dubai-real-estate-investment-from-usa/",
+        "successful": 13
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 13,
+        "capturedAt": "2026-10-22T10:04:24.212Z",
+        "url": "https://promotions.damacproperties.com/usa/dubai-real-estate-investment-from-usa/",
+        "successful": 12
+      }
+    },
+    "variants": 13
+  },
+  {
+    "id": "UAE-20",
+    "name": "Whitewill — Riverside Views",
+    "url": "https://whitewill.ae/riverside-views",
+    "ad": false,
+    "owner": "Агентство Whitewill",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 21,
+        "capturedAt": "2026-10-22T10:04:28.937Z",
+        "url": "https://riverside-views.ae.house/",
+        "successful": 15
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 17,
+        "capturedAt": "2026-10-22T10:04:47.934Z",
+        "url": "https://riverside-views.ae.house/",
+        "successful": 15
+      }
+    },
+    "variants": 15
+  },
+  {
+    "id": "UAE-21",
+    "name": "Metropolitan — Bugatti Residences",
+    "url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+    "ad": true,
+    "owner": "Агентство Metropolitan",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 21,
+        "capturedAt": "2026-10-22T10:08:17.755Z",
+        "url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+        "successful": 20
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 21,
+        "capturedAt": "2026-10-22T10:08:50.061Z",
+        "url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+        "successful": 20
+      }
+    },
+    "variants": 21
+  },
+  {
+    "id": "UAE-22",
+    "name": "Engel & Völkers — Palm Central",
+    "url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+    "ad": false,
+    "owner": "Агентство Engel & Völkers",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 15,
+        "capturedAt": "2026-10-22T10:05:02.928Z",
+        "url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+        "successful": 14
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 19,
+        "capturedAt": "2026-10-22T10:05:16.176Z",
+        "url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+        "successful": 16
+      }
+    },
+    "variants": 16
+  },
+  {
+    "id": "UAE-23",
+    "name": "LUXHABITAT — The Alba",
+    "url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+    "ad": false,
+    "owner": "Площадка LUXHABITAT; брокер на странице требует проверки",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 7,
+        "capturedAt": "2026-10-22T10:05:30.015Z",
+        "url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+        "successful": 7
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 8,
+        "capturedAt": "2026-10-22T10:05:40.392Z",
+        "url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+        "successful": 8
+      }
+    },
+    "variants": 9
+  },
+  {
+    "id": "UAE-24",
+    "name": "Everhomes — One River Point",
+    "url": "https://everhomes.ae/off-plan/one-river-point/",
+    "ad": false,
+    "owner": "Агентство Everhomes",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:09:18.771Z",
+        "url": "https://everhomes.ae/off-plan/one-river-point/",
+        "successful": 10
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 10,
+        "capturedAt": "2026-10-22T10:09:41.151Z",
+        "url": "https://everhomes.ae/off-plan/one-river-point/",
+        "successful": 10
+      }
+    },
+    "variants": 10
+  },
+  {
+    "id": "UAE-25",
+    "name": "Tanami — Karl Lagerfeld Villas",
+    "url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+    "ad": false,
+    "owner": "Агентство Tanami Properties",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 12,
+        "capturedAt": "2026-10-22T10:09:54.805Z",
+        "url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+        "successful": 12
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 13,
+        "capturedAt": "2026-10-22T10:10:04.792Z",
+        "url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+        "successful": 13
+      }
+    },
+    "variants": 13
+  },
+  {
+    "id": "UAE-26",
+    "name": "Dubai Realty — Подбор новостроек",
+    "url": "https://podbor.dubai-realty.com/",
+    "ad": true,
+    "owner": "Агентство Dubai Realty",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 1,
+        "capturedAt": "2026-10-22T10:10:14.211Z",
+        "url": "https://podbor.dubai-realty.com/b/",
+        "successful": 2
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 1,
+        "capturedAt": "2026-10-22T10:10:16.778Z",
+        "url": "https://podbor.dubai-realty.com/",
+        "successful": 2
+      }
+    },
+    "variants": 2
+  },
+  {
+    "id": "UAE-27",
+    "name": "Property Sales Centre — Binghatti",
+    "url": "https://projects.property-sales-centre.com/binghatti/",
+    "ad": true,
+    "owner": "Посредник; юридическое лицо требует проверки",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 15,
+        "capturedAt": "2026-10-22T10:10:22.411Z",
+        "url": "https://projects.property-sales-centre.com/binghatti/",
+        "successful": 12
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 15,
+        "capturedAt": "2026-10-22T10:10:38.384Z",
+        "url": "https://projects.property-sales-centre.com/binghatti/",
+        "successful": 12
+      }
+    },
+    "variants": 13
+  },
+  {
+    "id": "UAE-28",
+    "name": "Salescentre — Ellington",
+    "url": "https://ellington.salescentre.com/ellingtonproperties",
+    "ad": true,
+    "owner": "Посредник; не официальный домен Ellington",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 18,
+        "capturedAt": "2026-10-22T09:59:43.306Z",
+        "url": "https://ellington.salescentre.com/ellingtonproperties",
+        "successful": 18
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 18,
+        "capturedAt": "2026-10-22T10:00:02.179Z",
+        "url": "https://ellington.salescentre.com/ellingtonproperties",
+        "successful": 18
+      }
+    },
+    "variants": 18
+  },
+  {
+    "id": "UAE-29",
+    "name": "Salescentre — Fahid Beach Terraces",
+    "url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+    "ad": true,
+    "owner": "Посредник; не официальный домен Aldar",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 18,
+        "capturedAt": "2026-10-22T10:10:55.780Z",
+        "url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+        "successful": 18
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 18,
+        "capturedAt": "2026-10-22T10:11:12.048Z",
+        "url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+        "successful": 18
+      }
+    },
+    "variants": 18
+  },
+  {
+    "id": "UAE-30",
+    "name": "Aeon & Trisl — Saadiyat Island",
+    "url": "https://saadiyat-island.aeontrisl.com/",
+    "ad": true,
+    "owner": "Агентство Aeon & Trisl",
+    "modes": {
+      "desktop": {
+        "status": "ok",
+        "error": null,
+        "blocks": 16,
+        "capturedAt": "2026-10-22T10:11:29.876Z",
+        "url": "https://saadiyat-island.aeontrisl.com/",
+        "successful": 16
+      },
+      "mobile": {
+        "status": "ok",
+        "error": null,
+        "blocks": 16,
+        "capturedAt": "2026-10-22T10:11:43.251Z",
+        "url": "https://saadiyat-island.aeontrisl.com/",
+        "successful": 16
+      }
+    },
+    "variants": 16
+  }
+]

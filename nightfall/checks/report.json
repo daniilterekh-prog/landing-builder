@@ -1,0 +1,26 @@
+{
+  "checkedAt": "2026-10-22T10:15:55.895Z",
+  "base": "http://127.0.0.1:8867/nightfall/",
+  "projects": 30,
+  "categories": 24,
+  "variants": 381,
+  "availableStates": 732,
+  "checks": [
+    "all source reports",
+    "catalogue assets",
+    "all category counts",
+    "source filter",
+    "primary choice",
+    "notes persistence",
+    "independent storage",
+    "full viewer and Escape",
+    "comparison",
+    "JSON export/import",
+    "foreign import rejected",
+    "selection view",
+    "empty search/reset",
+    "390/768 overflow",
+    "30 source rows",
+    "no page errors"
+  ]
+}

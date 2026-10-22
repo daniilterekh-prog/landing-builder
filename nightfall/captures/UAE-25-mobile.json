@@ -1,0 +1,377 @@
+{
+  "url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+  "title": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+  "height": 11870,
+  "blocks": [
+    {
+      "selector": "#BannerSlider",
+      "tag": "SECTION",
+      "cls": "bg_inner_img innerpage_80vh",
+      "elementId": "BannerSlider",
+      "title": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+      "headings": [
+        "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai"
+      ],
+      "text": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+      "y": 110,
+      "height": 749,
+      "width": 390,
+      "h1Words": 10,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 749,
+        "capturedAt": "2026-10-22T10:10:05.322Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "30px",
+        "text": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+        "title": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#form1 > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "row",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "DOWNLOAD BROCHURE SERVICE CHARGES",
+      "y": 885,
+      "height": 46,
+      "width": 374,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-02-mobile.jpg",
+        "captureWidth": 374,
+        "captureHeight": 46,
+        "capturedAt": "2026-10-22T10:10:05.772Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "text": "DOWNLOAD BROCHURE SERVICE CHARGES",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#divSummary",
+      "tag": "DIV",
+      "cls": "cards pro_head mb-4 mt-2",
+      "elementId": "divSummary",
+      "title": "Karl Lagerfeld Villas Summary",
+      "headings": [
+        "Karl Lagerfeld Villas Summary",
+        "By Taraf Holding | Mohd Bin Rashid City",
+        "AED 15,000,000"
+      ],
+      "text": "Karl Lagerfeld Villas Summary By Taraf Holding | Mohd Bin Rashid City Starting From AED 15,000,000 Villa 5, 6 & 7 BR 7,769 to 18,869 sq. ft. DOWN PAYMENT 10% PAYMENT PLAN 60/40 HANDOVER Q4 - 2027",
+      "y": 939,
+      "height": 460,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-03-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 461,
+        "capturedAt": "2026-10-22T10:10:06.225Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "18px",
+        "text": "Karl Lagerfeld Villas Summary By Taraf Holding | Mohd Bin Rashid City Starting From AED 15,000,000 Villa 5, 6 & 7 BR 7,769 to 18,869 sq. ft. DOWN PAYMENT 10% PAYMENT PLAN 60/40 HANDOVER Q4 - 2027",
+        "title": "Karl Lagerfeld Villas Summary",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#over",
+      "tag": "DIV",
+      "cls": "card overview",
+      "elementId": "over",
+      "title": "Overview",
+      "headings": [
+        "Overview"
+      ],
+      "text": "Overview The Karl Lagerfeld Villas by Taraf Holding represent a fusion of haute couture and luxury real estate, offering 5 to 7-bedroom villas located in MBR City, Dubai. Developed through a partnership between Taraf Holding and the iconic fashion house Karl Lagerfeld, this limited collection of 51 exquisite villas epitomizes sophistication, elegance, and innovation. Located within the prestigious Mohammed Bin Rashid",
+      "y": 1423,
+      "height": 1965,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-04-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 1965,
+        "capturedAt": "2026-10-22T10:10:06.735Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Overview The Karl Lagerfeld Villas by Taraf Holding represent a fusion of haute couture and luxury real estate, offering 5 to 7-bedroom villas located in MBR City, Dubai. Developed through a partnership between Taraf Holding and the iconic fashion house Karl Lagerfeld, this limited collection of 51 exquisite villas epitomizes sophistication, elegance, and innovation. Located within the prestigious Mohammed Bin Rashid",
+        "title": "Overview",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#feat",
+      "tag": "DIV",
+      "cls": "card mt-4",
+      "elementId": "feat",
+      "title": "Feature & Amenities",
+      "headings": [
+        "Feature & Amenities"
+      ],
+      "text": "Feature & Amenities Dining Outlets Where good food is served to people, often in a formal way. Gymnasium For those who want to remain fit and lead a healthy lifestyle. Kids Play Area An area used for outdoor play or recreation, especially by children Parks and Leisure Areas Access to parks & recreation facilities leads to healthy lifestyles. Restaurants Treat your inner foodie by serving authentic flavors. Retail Out",
+      "y": 3412,
+      "height": 1012,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-05-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 1013,
+        "capturedAt": "2026-10-22T10:10:07.234Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Feature & Amenities Dining Outlets Where good food is served to people, often in a formal way. Gymnasium For those who want to remain fit and lead a healthy lifestyle. Kids Play Area An area used for outdoor play or recreation, especially by children Parks and Leisure Areas Access to parks & recreation facilities leads to healthy lifestyles. Restaurants Treat your inner foodie by serving authentic flavors. Retail Out",
+        "title": "Feature & Amenities",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#pay",
+      "tag": "DIV",
+      "cls": "card mt-4",
+      "elementId": "pay",
+      "title": "Payment Plan",
+      "headings": [
+        "Payment Plan"
+      ],
+      "text": "Payment Plan DOWNLOAD PAYMENT PLAN 10% Down Payment On Booking Date 50% During Construction 1st to 9th Installment 40% On Handover 100% Completion Read More...",
+      "y": 4448,
+      "height": 1035,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-06-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 1036,
+        "capturedAt": "2026-10-22T10:10:07.782Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Payment Plan DOWNLOAD PAYMENT PLAN 10% Down Payment On Booking Date 50% During Construction 1st to 9th Installment 40% On Handover 100% Completion Read More...",
+        "title": "Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#location",
+      "tag": "DIV",
+      "cls": "card mt-4 location",
+      "elementId": "location",
+      "title": "Location Map",
+      "headings": [
+        "Location Map"
+      ],
+      "text": "Location Map Downtown Dubai 19 Minutes Dubai International Airport 27 Minutes Meydan Racecourse 15 Minutes Nad Al Sheba 03 Minutes Read More...",
+      "y": 5508,
+      "height": 723,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-07-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 596,
+        "capturedAt": "2026-10-22T10:10:08.254Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Location Map Downtown Dubai 19 Minutes Dubai International Airport 27 Minutes Meydan Racecourse 15 Minutes Nad Al Sheba 03 Minutes Read More...",
+        "title": "Location Map",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#master",
+      "tag": "DIV",
+      "cls": "card mt-4 location",
+      "elementId": "master",
+      "title": "Master Plan",
+      "headings": [
+        "Master Plan"
+      ],
+      "text": "Master Plan Read More...",
+      "y": 6255,
+      "height": 454,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-08-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 326,
+        "capturedAt": "2026-10-22T10:10:08.707Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Master Plan Read More...",
+        "title": "Master Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#form1 > main:nth-of-type(1) > div:nth-of-type(1) > section:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(2) > div:nth-of-type(10)",
+      "tag": "DIV",
+      "cls": "card mt-4",
+      "elementId": "",
+      "title": "Floor Plan",
+      "headings": [
+        "Floor Plan"
+      ],
+      "text": "Floor Plan DOWNLOAD FLOOR PLAN Floor Plan Category Unit Type Floor Details Sizes Type 5 Bedroom 5 Bedrooms + Maid Ground To First Floor to Second Floor 7769.00 to 7769.00 Sq Ft Villa 6 Bedroom 6 Bedrooms + Maid Ground To First Floor to Second Floor 11345.00 to 11345.00 Sq Ft Villa 7 Bedroom 7 Bedrooms + Maid Basement To Ground Floor to Second Floor 13006.00 to 18870.00 Sq Ft Villa Read More...",
+      "y": 6732,
+      "height": 489,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-09-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 489,
+        "capturedAt": "2026-10-22T10:10:09.195Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Floor Plan DOWNLOAD FLOOR PLAN Floor Plan Category Unit Type Floor Details Sizes Type 5 Bedroom 5 Bedrooms + Maid Ground To First Floor to Second Floor 7769.00 to 7769.00 Sq Ft Villa 6 Bedroom 6 Bedrooms + Maid Ground To First Floor to Second Floor 11345.00 to 11345.00 Sq Ft Villa 7 Bedroom 7 Bedrooms + Maid Basement To Ground Floor to Second Floor 13006.00 to 18870.00 Sq Ft Villa Read More...",
+        "title": "Floor Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#divFloorPlan",
+      "tag": "DIV",
+      "cls": "card-body",
+      "elementId": "divFloorPlan",
+      "title": "Floor Plan",
+      "headings": [
+        "Floor Plan"
+      ],
+      "text": "Floor Plan DOWNLOAD FLOOR PLAN Floor Plan Category Unit Type Floor Details Sizes Type 5 Bedroom 5 Bedrooms + Maid Ground To First Floor to Second Floor 7769.00 to 7769.00 Sq Ft Villa 6 Bedroom 6 Bedrooms + Maid Ground To First Floor to Second Floor 11345.00 to 11345.00 Sq Ft Villa 7 Bedroom 7 Bedrooms + Maid Basement To Ground Floor to Second Floor 13006.00 to 18870.00 Sq Ft Villa Read More...",
+      "y": 6733,
+      "height": 487,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-10-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 487,
+        "capturedAt": "2026-10-22T10:10:09.673Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Floor Plan DOWNLOAD FLOOR PLAN Floor Plan Category Unit Type Floor Details Sizes Type 5 Bedroom 5 Bedrooms + Maid Ground To First Floor to Second Floor 7769.00 to 7769.00 Sq Ft Villa 6 Bedroom 6 Bedrooms + Maid Ground To First Floor to Second Floor 11345.00 to 11345.00 Sq Ft Villa 7 Bedroom 7 Bedrooms + Maid Basement To Ground Floor to Second Floor 13006.00 to 18870.00 Sq Ft Villa Read More...",
+        "title": "Floor Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#gly",
+      "tag": "DIV",
+      "cls": "card mt-4",
+      "elementId": "gly",
+      "title": "Image Gallery",
+      "headings": [
+        "Image Gallery"
+      ],
+      "text": "Image Gallery +12",
+      "y": 7245,
+      "height": 1084,
+      "width": 360,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-11-mobile.jpg",
+        "captureWidth": 360,
+        "captureHeight": 667,
+        "capturedAt": "2026-10-22T10:10:10.181Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "Image Gallery +12",
+        "title": "Image Gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#enq",
+      "tag": "DIV",
+      "cls": "col-md-12 col-lg-3 order-md-2",
+      "elementId": "enq",
+      "title": "",
+      "headings": [],
+      "text": "CONTACT OUR EXPERTS (Please Share Your Contact Details) Name Email ID Netherlands +31 +31 Contact No. Individual Agent Investor Do not want to disclose Others I am Message CONTACT NOW! Check Mortgage",
+      "y": 8329,
+      "height": 574,
+      "width": 374,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-12-mobile.jpg",
+        "captureWidth": 374,
+        "captureHeight": 574,
+        "capturedAt": "2026-10-22T10:10:10.666Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "16px",
+        "text": "CONTACT OUR EXPERTS (Please Share Your Contact Details) Name Email ID Netherlands +31 +31 Contact No. Individual Agent Investor Do not want to disclose Others I am Message CONTACT NOW! Check Mortgage",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#moreDeveloperProjectsId",
+      "tag": "SECTION",
+      "cls": "similar_pro container-fluid text-center mt-5 mb-1",
+      "elementId": "moreDeveloperProjectsId",
+      "title": "MORE PROJECTS OF TARAF HOLDING",
+      "headings": [
+        "MORE PROJECTS OF TARAF HOLDING"
+      ],
+      "text": "MORE PROJECTS OF TARAF HOLDING Starting From Call Us Fay Gardens at Masdar City Masdar City VIEW DETAILS Starting From Call Us Fay Hills by Taraf Masdar City VIEW DETAILS Starting From AED 1.1 M Terrazzo Residences at JVC Al Barsha South Fourth (JVC) VIEW DETAILS Starting From AED 7.2 M Terra Golf Collection Jumeirah Golf Estates VIEW DETAILS VIEW MORE",
+      "y": 8951,
+      "height": 2010,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-25-13-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1831,
+        "capturedAt": "2026-10-22T10:10:11.257Z",
+        "failedImages": 0,
+        "font": "Verdana, Geneva, Tahoma, sans-serif",
+        "fontSize": "24px",
+        "text": "MORE PROJECTS OF TARAF HOLDING Starting From Call Us Fay Gardens at Masdar City Masdar City VIEW DETAILS Starting From Call Us Fay Hills by Taraf Masdar City VIEW DETAILS Starting From AED 1.1 M Terrazzo Residences at JVC Al Barsha South Fourth (JVC) VIEW DETAILS Starting From AED 7.2 M Terra Golf Collection Jumeirah Golf Estates VIEW DETAILS VIEW MORE",
+        "title": "MORE PROJECTS OF TARAF HOLDING",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-25",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:10:04.792Z"
+}

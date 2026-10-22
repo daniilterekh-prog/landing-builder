@@ -1,0 +1,641 @@
+{
+  "url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+  "title": "Bugatti Residences Penthouses & Apartments for Sale by Binghatti | Metropolitan Premium Properties",
+  "height": 17854,
+  "blocks": [
+    {
+      "selector": "#headerMenu",
+      "tag": "HEADER",
+      "cls": "pageHeader",
+      "elementId": "headerMenu",
+      "title": "",
+      "headings": [],
+      "text": "EN / AED",
+      "y": 0,
+      "height": 68,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 68,
+        "capturedAt": "2026-10-22T10:08:50.629Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "18px",
+        "text": "EN / AED",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "section property-hero-block",
+      "elementId": "",
+      "title": "Bugatti Residences",
+      "headings": [
+        "Bugatti Residences"
+      ],
+      "text": "Business Bay, Dubai Bugatti Residences Bugatti Residences by Binghatti is the world’s first branded project by the renowned French luxury car brand Bugatti. Binghatti Properties, one of Dubai’s leading developers, is the creator of the complex. Launch Price AED 19m Handover Q3 2027 Number of Units 182 Check Availability",
+      "y": 0,
+      "height": 844,
+      "width": 390,
+      "h1Words": 2,
+      "state": {
+        "status": "error",
+        "rawFile": "shots/uae-21-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 844,
+        "capturedAt": "2026-10-22T10:08:51.216Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "40px",
+        "text": "Business Bay, Dubai Bugatti Residences Bugatti Residences by Binghatti is the world’s first branded project by the renowned French luxury car brand Bugatti. Binghatti Properties, one of Dubai’s leading developers, is the creator of the complex. Launch Price AED 19m Handover Q3 2027 Number of Units 182 Check Availability",
+        "title": "Bugatti Residences",
+        "note": "Фоновая фотография источника вернула HTTP 403. Остальные разделы доступны; hero смотри на исходном сайте."
+      }
+    },
+    {
+      "selector": "#project-overview-section",
+      "tag": "SECTION",
+      "cls": "section project-overview-wrapper",
+      "elementId": "project-overview-section",
+      "title": "Project Overview",
+      "headings": [
+        "Project Overview"
+      ],
+      "text": "Home Areas Business Bay Bugatti Residences Project Overview Bugatti Residences by Binghatti is the world’s first branded project by the renowned French luxury car brand Bugatti. Binghatti Properties, one of Dubai’s leading developers, is the creator of the complex. Located in the thriving neighbourhood of Business Bay, the upcoming striking landmark will comprise 2 towers, each 52 storeys high (4B+G+1P+45+R). The arc",
+      "y": 844,
+      "height": 937,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 938,
+        "capturedAt": "2026-10-22T10:08:52.195Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Home Areas Business Bay Bugatti Residences Project Overview Bugatti Residences by Binghatti is the world’s first branded project by the renowned French luxury car brand Bugatti. Binghatti Properties, one of Dubai’s leading developers, is the creator of the complex. Located in the thriving neighbourhood of Business Bay, the upcoming striking landmark will comprise 2 towers, each 52 storeys high (4B+G+1P+45+R). The arc",
+        "title": "Project Overview",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "property-gallery-section",
+      "title": "Gallery",
+      "headings": [
+        "Gallery"
+      ],
+      "text": "Gallery Play video",
+      "y": 1781,
+      "height": 499,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 499,
+        "capturedAt": "2026-10-22T10:08:52.834Z",
+        "failedImages": 9,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Gallery Play video",
+        "title": "Gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#offplan-floor-plan-section",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "offplan-floor-plan-section",
+      "title": "Floor Plans",
+      "headings": [
+        "Floor Plans",
+        "2 Bedrooms",
+        "3 Bedrooms"
+      ],
+      "text": "Floor Plans 2 Bedrooms Apartments Starting price: AED 19m Living area: 2,036 sq. ft. Price per sq. ft. AED 9.37k Check Availability 3 Bedrooms Apartments Starting price: AED 39.20m Living area: 3,820 sq. ft. Price per sq. ft. AED 10.26k Check Availability",
+      "y": 2280,
+      "height": 831,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 831,
+        "capturedAt": "2026-10-22T10:08:53.373Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Floor Plans 2 Bedrooms Apartments Starting price: AED 19m Living area: 2,036 sq. ft. Price per sq. ft. AED 9.37k Check Availability 3 Bedrooms Apartments Starting price: AED 39.20m Living area: 3,820 sq. ft. Price per sq. ft. AED 10.26k Check Availability",
+        "title": "Floor Plans",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "section project-banner-wrapper project-banner-wrapper--dark-blue",
+      "elementId": "",
+      "title": "View All Floor Plans in One Click",
+      "headings": [
+        "View All Floor Plans in One Click"
+      ],
+      "text": "View All Floor Plans in One Click Get a detailed PDF with layouts and configurations of all units in this Project Get All Floor Plans",
+      "y": 3111,
+      "height": 540,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 540,
+        "capturedAt": "2026-10-22T10:08:53.907Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "View All Floor Plans in One Click Get a detailed PDF with layouts and configurations of all units in this Project Get All Floor Plans",
+        "title": "View All Floor Plans in One Click",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#offplan-payment-plan-section",
+      "tag": "SECTION",
+      "cls": "section payment-plan-wrapper",
+      "elementId": "offplan-payment-plan-section",
+      "title": "Payment Plan",
+      "headings": [
+        "Payment Plan",
+        "On Booking",
+        "25%",
+        "On construction",
+        "45%"
+      ],
+      "text": "Payment Plan A structured payment plan is a powerful investment tool. When used wisely, it can significantly increase your return on equity (ROE). Not sure how to make the most of it? We’ll explain everything for free! 70/30 On Booking 25% Payment On construction 45% Payment On Handover Q4 2025 30% Payment Request Payment Breakdown",
+      "y": 3651,
+      "height": 689,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-07-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 689,
+        "capturedAt": "2026-10-22T10:08:54.404Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Payment Plan A structured payment plan is a powerful investment tool. When used wisely, it can significantly increase your return on equity (ROE). Not sure how to make the most of it? We’ll explain everything for free! 70/30 On Booking 25% Payment On construction 45% Payment On Handover Q4 2025 30% Payment Request Payment Breakdown",
+        "title": "Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#offplan-amenities-section",
+      "tag": "SECTION",
+      "cls": "section amenities-wrapper",
+      "elementId": "offplan-amenities-section",
+      "title": "Amenities",
+      "headings": [
+        "Amenities"
+      ],
+      "text": "Amenities These are just a few of the amenities available in this residence. To receive the full list of features and detailed information, please contact our agent — we will tailor the best option for your needs. Beach Access Infinity Pool Jacuzzis Gym Fine Dinning Restaurants Valet Parking Lounge Cleaning Services Show all amenities",
+      "y": 4339,
+      "height": 811,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-08-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 811,
+        "capturedAt": "2026-10-22T10:08:54.949Z",
+        "failedImages": 17,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Amenities These are just a few of the amenities available in this residence. To receive the full list of features and detailed information, please contact our agent — we will tailor the best option for your needs. Beach Access Infinity Pool Jacuzzis Gym Fine Dinning Restaurants Valet Parking Lounge Cleaning Services Show all amenities",
+        "title": "Amenities",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "section offplan-contact-form",
+      "elementId": "",
+      "title": "Get professional property guidance",
+      "headings": [
+        "Get professional property guidance",
+        "Thank you for your interest!"
+      ],
+      "text": "Get professional property guidance Leave your details, and an advisor will help you choose the right property and navigate the purchase process. Netherlands +31 +31 I agree to receive information about offers, deals and services from this website (optional). Get Consultation By clicking the submit button, I accept and provide my personal information, and agree to the Metropolitan Group Privacy Policy, applicable data",
+      "y": 5150,
+      "height": 1089,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-09-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1090,
+        "capturedAt": "2026-10-22T10:08:56.073Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Get professional property guidance Leave your details, and an advisor will help you choose the right property and navigate the purchase process. Netherlands +31 +31 I agree to receive information about offers, deals and services from this website (optional). Get Consultation By clicking the submit button, I accept and provide my personal information, and agree to the Metropolitan Group Privacy Policy, applicable data",
+        "title": "Get professional property guidance",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#offplan-location-section",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "offplan-location-section",
+      "title": "Location",
+      "headings": [
+        "Location"
+      ],
+      "text": "Location Business Bay , Dubai Business Bay offers a prime central location with excellent connectivity to key areas of the city. The area is well-served by public transportation, including the Business Bay metro station, and provides easy access to major attractions such as Dubai Mall and Safa Park. Its strategic position makes it ideal for professionals in Dubai’s financial sector, while also offering residents stun",
+      "y": 6240,
+      "height": 1124,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1124,
+        "capturedAt": "2026-10-22T10:08:57.155Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Location Business Bay , Dubai Business Bay offers a prime central location with excellent connectivity to key areas of the city. The area is well-served by public transportation, including the Business Bay metro station, and provides easy access to major attractions such as Dubai Mall and Safa Park. Its strategic position makes it ideal for professionals in Dubai’s financial sector, while also offering residents stun",
+        "title": "Location",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(10)",
+      "tag": "SECTION",
+      "cls": "section project-banner-wrapper project-banner-wrapper--gray",
+      "elementId": "",
+      "title": "Explore all future developments around this property",
+      "headings": [
+        "Explore all future developments around this property"
+      ],
+      "text": "Explore all future developments around this property See what’s planned nearby to make an informed decision and secure peace and quiet for years to come Request a Private Briefing",
+      "y": 7363,
+      "height": 540,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-11-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 540,
+        "capturedAt": "2026-10-22T10:08:57.773Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Explore all future developments around this property See what’s planned nearby to make an informed decision and secure peace and quiet for years to come Request a Private Briefing",
+        "title": "Explore all future developments around this property",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(11)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "Other Projects in Business Bay",
+      "headings": [
+        "Other Projects in Business Bay",
+        "Terraces Marasi",
+        "Elite Business Bay",
+        "Al Manara Tower",
+        "Haus of Tenet by IRTH"
+      ],
+      "text": "Other Projects in Business Bay View more photos Terraces Marasi Business Bay, Dubai Apartments Duplexes From AED 2.20m Keymaven Ready View more photos Elite Business Bay Business Bay, Dubai Apartments On Request Triplanet Ready View more photos Al Manara Tower Business Bay, Dubai Offices On Request ETA Star Ready View more photos Haus of Tenet by IRTH Business Bay, Dubai Offices From AED 3.20m Q2 2028 View more photo",
+      "y": 7903,
+      "height": 654,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-12-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 655,
+        "capturedAt": "2026-10-22T10:08:58.308Z",
+        "failedImages": 3,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Other Projects in Business Bay View more photos Terraces Marasi Business Bay, Dubai Apartments Duplexes From AED 2.20m Keymaven Ready View more photos Elite Business Bay Business Bay, Dubai Apartments On Request Triplanet Ready View more photos Al Manara Tower Business Bay, Dubai Offices On Request ETA Star Ready View more photos Haus of Tenet by IRTH Business Bay, Dubai Offices From AED 3.20m Q2 2028 View more photo",
+        "title": "Other Projects in Business Bay",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(12)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "Binghatti",
+      "headings": [
+        "Binghatti"
+      ],
+      "text": "ABOUT THE DEVELOPER Binghatti Binghatti is an Emirati family developer founded in Dubai in 2008, known for design-led 'hyper-property' towers and for bringing global luxury brands into residential real estate - including the world's first Bugatti Residences, Mercedes-Benz Places and Burj Binghatti Jacob & Co Residences. It builds across Business Bay, Jumeirah Village Circle, Al Jaddaf, Downtown, Meydan and Dubai Scie",
+      "y": 8557,
+      "height": 1290,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-13-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1291,
+        "capturedAt": "2026-10-22T10:08:59.286Z",
+        "failedImages": 2,
+        "font": "Manrope, sans-serif",
+        "fontSize": "18px",
+        "text": "ABOUT THE DEVELOPER Binghatti Binghatti is an Emirati family developer founded in Dubai in 2008, known for design-led 'hyper-property' towers and for bringing global luxury brands into residential real estate - including the world's first Bugatti Residences, Mercedes-Benz Places and Burj Binghatti Jacob & Co Residences. It builds across Business Bay, Jumeirah Village Circle, Al Jaddaf, Downtown, Meydan and Dubai Scie",
+        "title": "Binghatti",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(13)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "Other Projects by Binghatti",
+      "headings": [
+        "Other Projects by Binghatti",
+        "Vision Iconic Tower",
+        "Binghatti Starfall",
+        "Binghatti Wraith",
+        "Tilal Binghatti Oasis Villas"
+      ],
+      "text": "Other Projects by Binghatti View more photos Vision Iconic Tower Meydan City, Dubai Apartments From AED 2.25m Binghatti Q3 2028 View more photos Binghatti Starfall Al Jaddaff, Dubai Apartments From AED 759.99k Binghatti Q4 2027 View more photos Binghatti Wraith Al Jaddaff, Dubai Apartments From AED 799.99k Binghatti View more photos Tilal Binghatti Oasis Villas Tilal Binghatti, Dubai Villas From AED 4.20m Binghatti I",
+      "y": 9848,
+      "height": 654,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-14-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 655,
+        "capturedAt": "2026-10-22T10:08:59.919Z",
+        "failedImages": 3,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Other Projects by Binghatti View more photos Vision Iconic Tower Meydan City, Dubai Apartments From AED 2.25m Binghatti Q3 2028 View more photos Binghatti Starfall Al Jaddaff, Dubai Apartments From AED 759.99k Binghatti Q4 2027 View more photos Binghatti Wraith Al Jaddaff, Dubai Apartments From AED 799.99k Binghatti View more photos Tilal Binghatti Oasis Villas Tilal Binghatti, Dubai Villas From AED 4.20m Binghatti I",
+        "title": "Other Projects by Binghatti",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(14)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "FAQ",
+      "headings": [
+        "FAQ",
+        "Who is the developer of Bugatti Residences by Binghatti?",
+        "What is the address of Bugatti Residences by Binghatti?",
+        "What are the offered unit types?",
+        "What is the completion date of Bugatti Residences by Binghatti?"
+      ],
+      "text": "FAQ Who is the developer of Bugatti Residences by Binghatti? Binghatti Properties is the developer of Bugatti Residences by Binghatti. What is the address of Bugatti Residences by Binghatti? Bugatti Residences by Binghatti is situated in Business Bay. What are the offered unit types? You may choose from a selection of 2–4 bedroom penthouses across 2 categories: the Riviera Mansion Collection and the Sky Mansion Penth",
+      "y": 10502,
+      "height": 1251,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-15-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1252,
+        "capturedAt": "2026-10-22T10:09:01.058Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "FAQ Who is the developer of Bugatti Residences by Binghatti? Binghatti Properties is the developer of Bugatti Residences by Binghatti. What is the address of Bugatti Residences by Binghatti? Bugatti Residences by Binghatti is situated in Business Bay. What are the offered unit types? You may choose from a selection of 2–4 bedroom penthouses across 2 categories: the Riviera Mansion Collection and the Sky Mansion Penth",
+        "title": "FAQ",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#about-us-section",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "about-us-section",
+      "title": "About Metropolitan Premium Properties",
+      "headings": [
+        "About Metropolitan Premium Properties",
+        "18+",
+        "7000+",
+        "120+",
+        "500+"
+      ],
+      "text": "About Metropolitan Premium Properties Metropolitan Premium Properties is a RERA-licensed real estate brokerage in Dubai (ORN 11899), part of the Metropolitan Group established in 2008. The agency has 1,000+ professionals across offices in Dubai, Abu Dhabi, Ras Al Khaimah, and Vienna, and covers residential and commercial sales, off-plan investments, rentals, and property management. The company has closed 6,000+ tran",
+      "y": 11753,
+      "height": 1398,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-16-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1398,
+        "capturedAt": "2026-10-22T10:09:02.208Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "About Metropolitan Premium Properties Metropolitan Premium Properties is a RERA-licensed real estate brokerage in Dubai (ORN 11899), part of the Metropolitan Group established in 2008. The agency has 1,000+ professionals across offices in Dubai, Abu Dhabi, Ras Al Khaimah, and Vienna, and covers residential and commercial sales, off-plan investments, rentals, and property management. The company has closed 6,000+ tran",
+        "title": "About Metropolitan Premium Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(16)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "Our Services",
+      "headings": [
+        "Our Services",
+        "Property Management",
+        "Consulting",
+        "Escrow and Conveyancing",
+        "Property Handover"
+      ],
+      "text": "Our Services 01 Property Management Full property management — from valuation and tenant sourcing to payment control and legal support. Tenant selection and screening EJARI registration and lease renewals Handling technical and legal matters Learn more 02 Consulting Comprehensive corporate and legal support in the UAE — from company registration and bank account opening to visa processing, inheritance and notary serv",
+      "y": 13151,
+      "height": 699,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-17-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 699,
+        "capturedAt": "2026-10-22T10:09:02.836Z",
+        "failedImages": 0,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Our Services 01 Property Management Full property management — from valuation and tenant sourcing to payment control and legal support. Tenant selection and screening EJARI registration and lease renewals Handling technical and legal matters Learn more 02 Consulting Comprehensive corporate and legal support in the UAE — from company registration and bank account opening to visa processing, inheritance and notary serv",
+        "title": "Our Services",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(17)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "Our Achievements",
+      "headings": [
+        "Our Achievements",
+        "Arada Broker Awards 2025",
+        "One Broker Group 2024",
+        "The Black Onyx Awards 2024",
+        "Omniyat Broker Awards 2024"
+      ],
+      "text": "Our Achievements 1ST PLACE Arada Broker Awards 2025 2ND PLACE One Broker Group 2024 1ST PLACE The Black Onyx Awards 2024 2ND PLACE Omniyat Broker Awards 2024 3RD PLACE Alhamra Top Broker of the Year 2023 1ST PLACE TAG Top Partner 2023 3RD PLACE DAMAC Broker Awards 2023 3RD PLACE IRTH Broker Awards Q3 2024",
+      "y": 13850,
+      "height": 480,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-18-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 480,
+        "capturedAt": "2026-10-22T10:09:03.367Z",
+        "failedImages": 2,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "Our Achievements 1ST PLACE Arada Broker Awards 2025 2ND PLACE One Broker Group 2024 1ST PLACE The Black Onyx Awards 2024 2ND PLACE Omniyat Broker Awards 2024 3RD PLACE Alhamra Top Broker of the Year 2023 1ST PLACE TAG Top Partner 2023 3RD PLACE DAMAC Broker Awards 2023 3RD PLACE IRTH Broker Awards Q3 2024",
+        "title": "Our Achievements",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(18)",
+      "tag": "SECTION",
+      "cls": "section",
+      "elementId": "",
+      "title": "What Clients Say About Us",
+      "headings": [
+        "What Clients Say About Us",
+        "Clement Yuyun",
+        "Vichy Ebelle",
+        "Karan Prasad",
+        "Zeyna Aswad"
+      ],
+      "text": "What Clients Say About Us 4.6 Clement Yuyun October 1, 2026 Metropolitan staff Desire Epangue showed exceptional attention and high quality services in a consistent and proactive manner Vichy Ebelle September 28, 2026 Two months ago, I contacted the Metropolitan Premium Properties group through one of their real estate investment experts, Desire Epangue, regarding the acquisition of a studio apartment in GVC. It wasn",
+      "y": 14330,
+      "height": 585,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-19-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 585,
+        "capturedAt": "2026-10-22T10:09:03.933Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "36px",
+        "text": "What Clients Say About Us 4.6 Clement Yuyun October 1, 2026 Metropolitan staff Desire Epangue showed exceptional attention and high quality services in a consistent and proactive manner Vichy Ebelle September 28, 2026 Two months ago, I contacted the Metropolitan Premium Properties group through one of their real estate investment experts, Desire Epangue, regarding the acquisition of a studio apartment in GVC. It wasn",
+        "title": "What Clients Say About Us",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > section:nth-of-type(19)",
+      "tag": "SECTION",
+      "cls": "section offplan-contact-form--footer ",
+      "elementId": "",
+      "title": "Bugatti Residences",
+      "headings": [
+        "Bugatti Residences",
+        "Thank you for your interest!"
+      ],
+      "text": "Bugatti Residences New Launch in Business Bay by Binghatti Explore premium Apartments, Penthouses starting from 2-4 bedrooms Positioned in the vibrant Business Bay area, where the launch price averages AED 1m This project offers a perfect balance of luxury and value Move-in ready by Q3 2027 Netherlands +31 +31 I agree to receive information about offers, deals and services from this website (optional). Discuss with e",
+      "y": 14914,
+      "height": 1048,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-20-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1049,
+        "capturedAt": "2026-10-22T10:09:05.063Z",
+        "failedImages": 1,
+        "font": "Manrope, sans-serif",
+        "fontSize": "40px",
+        "text": "Bugatti Residences New Launch in Business Bay by Binghatti Explore premium Apartments, Penthouses starting from 2-4 bedrooms Positioned in the vibrant Business Bay area, where the launch price averages AED 1m This project offers a perfect balance of luxury and value Move-in ready by Q3 2027 Netherlands +31 +31 I agree to receive information about offers, deals and services from this website (optional). Discuss with e",
+        "title": "Bugatti Residences",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer-new",
+      "elementId": "",
+      "title": "Buy properties in Dubai & UAE",
+      "headings": [
+        "Buy properties in Dubai & UAE",
+        "New projects in Dubai",
+        "Commercial",
+        "Media",
+        "About Us"
+      ],
+      "text": "36th-38th Floor, Al Salam Tecom Tower, Internet City, Dubai, UAE Buy properties in Dubai & UAE Abu Dhabi Sharjah Ajman Ras Al Khaimah Saudi Arabia Georgia Egypt Oman New projects in Dubai Abu Dhabi Oman Sharjah Ajman Ras Al Khaimah Maldives Commercial Offices Hotels Shop Commercial lands Media Dubai real estate blog Media News Press about us About Us Metropolitan Group Careers Meet Our Team Contact Us Services Mortga",
+      "y": 15963,
+      "height": 1891,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-21-21-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1892,
+        "capturedAt": "2026-10-22T10:09:06.256Z",
+        "failedImages": 5,
+        "font": "Manrope, sans-serif",
+        "fontSize": "18px",
+        "text": "36th-38th Floor, Al Salam Tecom Tower, Internet City, Dubai, UAE Buy properties in Dubai & UAE Abu Dhabi Sharjah Ajman Ras Al Khaimah Saudi Arabia Georgia Egypt Oman New projects in Dubai Abu Dhabi Oman Sharjah Ajman Ras Al Khaimah Maldives Commercial Offices Hotels Shop Commercial lands Media Dubai real estate blog Media News Press about us About Us Metropolitan Group Careers Meet Our Team Contact Us Services Mortga",
+        "title": "Buy properties in Dubai & UAE",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-21",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:08:50.061Z"
+}

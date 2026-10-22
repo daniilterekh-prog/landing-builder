@@ -1,0 +1,520 @@
+{
+  "url": "https://ellington.salescentre.com/ellingtonproperties",
+  "title": "Ellington Properties - Dubai's Premier Boutique Luxury Developer",
+  "height": 16124,
+  "blocks": [
+    {
+      "selector": "body > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "navbar-1 w-nav",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Download Brochure Chat",
+      "y": 0,
+      "height": 53,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 53,
+        "capturedAt": "2026-10-22T10:00:03.345Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Download Brochure Chat",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1)",
+      "tag": "DIV",
+      "cls": "section _700-h",
+      "elementId": "",
+      "title": "Ellington Properties",
+      "headings": [
+        "Ellington Properties"
+      ],
+      "text": "Ellington Properties Ellington Properties Now Selling One of the UAE’s fastest-growing developers, known for iconic architectural masterpieces and record-breaking partnerships with global luxury brands like Bugatti and Mercedes-Benz. Download Brochure Fast Consultation",
+      "y": 0,
+      "height": 700,
+      "width": 390,
+      "h1Words": 2,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 700,
+        "capturedAt": "2026-10-22T10:00:04.443Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "48px",
+        "text": "Ellington Properties Ellington Properties Now Selling One of the UAE’s fastest-growing developers, known for iconic architectural masterpieces and record-breaking partnerships with global luxury brands like Bugatti and Mercedes-Benz. Download Brochure Fast Consultation",
+        "title": "Ellington Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Overview",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Overview",
+      "title": "Ellington Properties",
+      "headings": [
+        "Ellington Properties"
+      ],
+      "text": "Overview Ellington Properties Ellington Properties is Dubai’s premier boutique developer, celebrated for bringing a new level of aesthetic refinement to the city's real estate market. Founded in 2014, Ellington doesn't just build properties; it curates lifestyles. Their philosophy is simple yet profound: to create homes that are beautiful, functional, and deeply connected to their residents' well-being. Known for the",
+      "y": 700,
+      "height": 1161,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1161,
+        "capturedAt": "2026-10-22T10:00:05.107Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Overview Ellington Properties Ellington Properties is Dubai’s premier boutique developer, celebrated for bringing a new level of aesthetic refinement to the city's real estate market. Founded in 2014, Ellington doesn't just build properties; it curates lifestyles. Their philosophy is simple yet profound: to create homes that are beautiful, functional, and deeply connected to their residents' well-being. Known for the",
+        "title": "Ellington Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Gallery",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Gallery",
+      "title": "Project Gallery",
+      "headings": [
+        "Project Gallery"
+      ],
+      "text": "Image Gallery Project Gallery View Full Gallery",
+      "y": 1861,
+      "height": 624,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 625,
+        "capturedAt": "2026-10-22T10:00:07.097Z",
+        "failedImages": 2,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Image Gallery Project Gallery View Full Gallery",
+        "title": "Project Gallery",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Download-Brochure",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Download-Brochure",
+      "title": "Download Project Brochure",
+      "headings": [
+        "Download Project Brochure"
+      ],
+      "text": "Brochure Download Project Brochure All you need to know about Ellington Properties in one brochure. Fill in your details to download. Download Brochure Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+      "y": 2485,
+      "height": 807,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 807,
+        "capturedAt": "2026-10-22T10:00:07.588Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Brochure Download Project Brochure All you need to know about Ellington Properties in one brochure. Fill in your details to download. Download Brochure Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+        "title": "Download Project Brochure",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Features",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Features",
+      "title": "Key Features",
+      "headings": [
+        "Key Features"
+      ],
+      "text": "Features Key Features Design-Led Philosophy Every project is treated as a piece of art, featuring bespoke interiors, resort-style amenities, and architecture that stands the test of time. High-Yield Investments Ellington properties are known to attract premium tenants, often commanding higher rents and resale values compared to market averages. Award-Winning Developer A consistent winner at the International Property",
+      "y": 3292,
+      "height": 624,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 624,
+        "capturedAt": "2026-10-22T10:00:08.087Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Features Key Features Design-Led Philosophy Every project is treated as a piece of art, featuring bespoke interiors, resort-style amenities, and architecture that stands the test of time. High-Yield Investments Ellington properties are known to attract premium tenants, often commanding higher rents and resale values compared to market averages. Award-Winning Developer A consistent winner at the International Property",
+        "title": "Key Features",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Payment-Plan",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Payment-Plan",
+      "title": "Payment Plan",
+      "headings": [
+        "Payment Plan"
+      ],
+      "text": "Payment Plan Payment Plan Secure your home at Ellington Properties with a flexible payment plan designed for investors. Ellington has designed a payment plan with spread out instalments to make it as easy as possible to invest in a property. Download Brochure Make An Inquiry 20 % Down Payment Pay just 20% to secure your property. 50 % During Construction Spread out instalments during the project construction. 30 % Up",
+      "y": 3916,
+      "height": 1068,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-07-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1069,
+        "capturedAt": "2026-10-22T10:00:08.722Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Payment Plan Payment Plan Secure your home at Ellington Properties with a flexible payment plan designed for investors. Ellington has designed a payment plan with spread out instalments to make it as easy as possible to invest in a property. Download Brochure Make An Inquiry 20 % Down Payment Pay just 20% to secure your property. 50 % During Construction Spread out instalments during the project construction. 30 % Up",
+        "title": "Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(7)",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "",
+      "title": "The Art Of Living Well",
+      "headings": [
+        "The Art Of Living Well"
+      ],
+      "text": "Luxury Property The Art Of Living Well Investing with Ellington Properties means investing in a brand that prioritizes quality over quantity. Their boutique approach ensures that every residence feels exclusive and personal. Whether it's the signature scent in the lobby or the perfectly curated library lounge, Ellington creates environments where residents don't just live—they thrive. This dedication to \"liveability\"",
+      "y": 4984,
+      "height": 810,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-08-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 811,
+        "capturedAt": "2026-10-22T10:00:09.238Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Luxury Property The Art Of Living Well Investing with Ellington Properties means investing in a brand that prioritizes quality over quantity. Their boutique approach ensures that every residence feels exclusive and personal. Whether it's the signature scent in the lobby or the perfectly curated library lounge, Ellington creates environments where residents don't just live—they thrive. This dedication to \"liveability\"",
+        "title": "The Art Of Living Well",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Unit-Types",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Unit-Types",
+      "title": "Floor Plans And Unit Types",
+      "headings": [
+        "Floor Plans And Unit Types"
+      ],
+      "text": "Unit Types Floor Plans And Unit Types 1 Bedroom Apartment 740+ sq. ft. View Unit Type Starting from: AED 1,700,000 2 Bedroom Apartment 1103+ sq. ft. View Unit Type Starting from: AED 2,300,000 3 Bedroom Apartment 1745+ sq. ft. View Unit Type Starting from: AED 3,800,000",
+      "y": 5794,
+      "height": 750,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-09-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 751,
+        "capturedAt": "2026-10-22T10:00:09.749Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Unit Types Floor Plans And Unit Types 1 Bedroom Apartment 740+ sq. ft. View Unit Type Starting from: AED 1,700,000 2 Bedroom Apartment 1103+ sq. ft. View Unit Type Starting from: AED 2,300,000 3 Bedroom Apartment 1745+ sq. ft. View Unit Type Starting from: AED 3,800,000",
+        "title": "Floor Plans And Unit Types",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Floor-Plans",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Floor-Plans",
+      "title": "View All Floor Plans In 1-Click",
+      "headings": [
+        "View All Floor Plans In 1-Click"
+      ],
+      "text": "View All Floor Plans In 1-Click Get a detailed PDF with all floor plans options at Ellington Properties. Pick the unit that fits your needs most. View All Floor Plans Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+      "y": 6544,
+      "height": 758,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 759,
+        "capturedAt": "2026-10-22T10:00:10.239Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "View All Floor Plans In 1-Click Get a detailed PDF with all floor plans options at Ellington Properties. Pick the unit that fits your needs most. View All Floor Plans Get the brochure in less than 10 seconds .PDF - 24.5 mb.",
+        "title": "View All Floor Plans In 1-Click",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Project-Location",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Project-Location",
+      "title": "Project Locations",
+      "headings": [
+        "Project Locations"
+      ],
+      "text": "Location Project Locations Ellington strategically selects high-growth and prestigious districts across Dubai, ensuring every development benefits from prime connectivity, iconic views, and proximity to key landmarks. Ocean House Palm Jumeirah Belgravia Series JVC Wilton Terraces MBR City Soto Grande RAK Learn More",
+      "y": 7303,
+      "height": 1079,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-11-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1079,
+        "capturedAt": "2026-10-22T10:00:10.750Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Location Project Locations Ellington strategically selects high-growth and prestigious districts across Dubai, ensuring every development benefits from prime connectivity, iconic views, and proximity to key landmarks. Ocean House Palm Jumeirah Belgravia Series JVC Wilton Terraces MBR City Soto Grande RAK Learn More",
+        "title": "Project Locations",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Amenities",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Amenities",
+      "title": "Ellington Style Living",
+      "headings": [
+        "Ellington Style Living",
+        "Contact Sales Team",
+        "Get Your Personal Investment Plan"
+      ],
+      "text": "Amenities Ellington Style Living Experience the signature Ellington lifestyle, where every amenity is designed to foster wellness, leisure, and community connection. Sky Bridge Infinity Pool A stunning 60-meter lap pool connecting the two towers, offering uninterrupted ocean views. Clubhouse Lounge A sophisticated social hub with private dining, a kitchenette, and spaces to work or relax. Indoor & Outdoor Fitness Sta",
+      "y": 8382,
+      "height": 2345,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-12-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 2345,
+        "capturedAt": "2026-10-22T10:00:11.296Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Amenities Ellington Style Living Experience the signature Ellington lifestyle, where every amenity is designed to foster wellness, leisure, and community connection. Sky Bridge Infinity Pool A stunning 60-meter lap pool connecting the two towers, offering uninterrupted ocean views. Clubhouse Lounge A sophisticated social hub with private dining, a kitchenette, and spaces to work or relax. Indoor & Outdoor Fitness Sta",
+        "title": "Ellington Style Living",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Developer-Info",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Developer-Info",
+      "title": "Why Invest With Ellington Properties?",
+      "headings": [
+        "Why Invest With Ellington Properties?"
+      ],
+      "text": "About Developer Why Invest With Ellington Properties? Ellington creates \"homes people actually want to live in,\" which is the ultimate driver of investment value. Learn More About Ellington Strong Track Record A proven history of delivering high-quality projects on time, building deep trust with investors globally. Tenant Retention The superior build quality and lifestyle amenities lead to lower vacancy rates and ten",
+      "y": 10726,
+      "height": 1243,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-13-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1244,
+        "capturedAt": "2026-10-22T10:00:11.874Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "About Developer Why Invest With Ellington Properties? Ellington creates \"homes people actually want to live in,\" which is the ultimate driver of investment value. Learn More About Ellington Strong Track Record A proven history of delivering high-quality projects on time, building deep trust with investors globally. Tenant Retention The superior build quality and lifestyle amenities lead to lower vacancy rates and ten",
+        "title": "Why Invest With Ellington Properties?",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(13)",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "",
+      "title": "Invest With Trust",
+      "headings": [
+        "Invest With Trust",
+        "This Project Has Been Verified"
+      ],
+      "text": "Verified Invest With Trust Authorized Sales Partner This Project Has Been Verified This project has been verified and approved by the Dubai Land Department (DLD)",
+      "y": 11970,
+      "height": 609,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-14-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 609,
+        "capturedAt": "2026-10-22T10:00:12.467Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Verified Invest With Trust Authorized Sales Partner This Project Has Been Verified This project has been verified and approved by the Dubai Land Department (DLD)",
+        "title": "Invest With Trust",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#FAQ",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "FAQ",
+      "title": "Get Answers To Frequently Asked Questions",
+      "headings": [
+        "Get Answers To Frequently Asked Questions"
+      ],
+      "text": "FAQ Get Answers To Frequently Asked Questions What makes Ellington Properties different? Where are their main projects located? Are Ellington properties good for investment? Do they offer payment plans? Is Ellington Properties a freehold developer? Has Ellington won any awards?",
+      "y": 12578,
+      "height": 857,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-15-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 857,
+        "capturedAt": "2026-10-22T10:00:13.042Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "FAQ Get Answers To Frequently Asked Questions What makes Ellington Properties different? Where are their main projects located? Are Ellington properties good for investment? Do they offer payment plans? Is Ellington Properties a freehold developer? Has Ellington won any awards?",
+        "title": "Get Answers To Frequently Asked Questions",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Contact-us",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "Contact-us",
+      "title": "Talk To One Of Our Advisors?",
+      "headings": [
+        "Talk To One Of Our Advisors?"
+      ],
+      "text": "Talk To One Of Our Advisors? Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Full name Email Phone +31 Message This site is protected by reCAPTCHA and the Google Terms & Conditions and Privacy Policy apply.",
+      "y": 13435,
+      "height": 900,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-16-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:00:15.386Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Talk To One Of Our Advisors? Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Full name Email Phone +31 Message This site is protected by reCAPTCHA and the Google Terms & Conditions and Privacy Policy apply.",
+        "title": "Talk To One Of Our Advisors?",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#More-Projects",
+      "tag": "DIV",
+      "cls": "section",
+      "elementId": "More-Projects",
+      "title": "View Other Projects From Ellington Properties",
+      "headings": [
+        "View Other Projects From Ellington Properties"
+      ],
+      "text": "Other Projects View Other Projects From Ellington Properties Handover Q4 2029 Portside Square AED 1,700,000 View Project Handover Q4 2027 The Hillgate AED 1,150,000 View Project Handover Q2 2027 Claydon House AED 1,500,000 View Project",
+      "y": 14335,
+      "height": 753,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-17-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 754,
+        "capturedAt": "2026-10-22T10:00:16.618Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Other Projects View Other Projects From Ellington Properties Handover Q4 2029 Portside Square AED 1,700,000 View Project Handover Q4 2027 The Hillgate AED 1,150,000 View Project Handover Q2 2027 Claydon House AED 1,500,000 View Project",
+        "title": "View Other Projects From Ellington Properties",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(17)",
+      "tag": "DIV",
+      "cls": "footer-1",
+      "elementId": "",
+      "title": "Speak Directly To Our Sales Team",
+      "headings": [
+        "Speak Directly To Our Sales Team"
+      ],
+      "text": "Speak Directly To Our Sales Team Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Follow us on socials: Project Overview Image Gallery Download Brochure Features Payment Plan Floor plans Location Amenities Investment Plan FAQ Contact us Developer Info More Projects Browse Projects About us Terms of Service Privacy Policy Contact Westcore Salescentre.com is owned and operated by Westcore P",
+      "y": 15088,
+      "height": 1036,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-28-18-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1057,
+        "capturedAt": "2026-10-22T10:00:18.662Z",
+        "failedImages": 0,
+        "font": "\"Canela Trial\", Georgia, sans-serif",
+        "fontSize": "32px",
+        "text": "Speak Directly To Our Sales Team Get an answer to all of your questions in 60 seconds or less Chat On WhatsApp Follow us on socials: Project Overview Image Gallery Download Brochure Features Payment Plan Floor plans Location Amenities Investment Plan FAQ Contact us Developer Info More Projects Browse Projects About us Terms of Service Privacy Policy Contact Westcore Salescentre.com is owned and operated by Westcore P",
+        "title": "Speak Directly To Our Sales Team",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-28",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:00:02.179Z"
+}

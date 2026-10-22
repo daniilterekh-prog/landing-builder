@@ -1,0 +1,40 @@
+{
+  "url": "https://podbor.dubai-realty.com/b/",
+  "title": "Подбор новостроек Дубая – Dubai Realty",
+  "height": 900,
+  "blocks": [
+    {
+      "selector": "body",
+      "tag": "HERO",
+      "cls": "first-viewport",
+      "title": "Квартиры и виллы в новостройках Дубая",
+      "text": "Первый экран страницы",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "viewportOnly": true,
+      "h1Words": 6,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-26-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:10:14.307Z",
+        "failedImages": 0,
+        "font": "\"PT Serif\", Georgia, serif",
+        "fontSize": "60px",
+        "text": "Первый экран страницы",
+        "title": "Квартиры и виллы в новостройках Дубая",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-26",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:10:14.211Z"
+}

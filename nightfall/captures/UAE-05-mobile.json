@@ -1,0 +1,313 @@
+{
+  "url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+  "title": "Sobha Siniya Island | Exclusive Island Living in UAQ | Sobha Realty",
+  "height": 9457,
+  "blocks": [
+    {
+      "selector": "body > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "ABOUT COMMUNITIES PROPERTIES MEDIA CENTER CAREERS CONTACT US EN AR RU CH",
+      "y": 0,
+      "height": 82,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 82,
+        "capturedAt": "2026-10-22T10:01:26.333Z",
+        "failedImages": 0,
+        "font": "Ringside",
+        "fontSize": "16px",
+        "text": "ABOUT COMMUNITIES PROPERTIES MEDIA CENTER CAREERS CONTACT US EN AR RU CH",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "community-detail-banner",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 0,
+      "height": 666,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 666,
+        "capturedAt": "2026-10-22T10:01:26.996Z",
+        "failedImages": 0,
+        "font": "Ringside",
+        "fontSize": "16px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "community-detail-detail-sec ",
+      "elementId": "",
+      "title": "LIVE THE GOOD LIFE: Sobha Siniya Island – UAE’s Most Natural Pristine Island.",
+      "headings": [
+        "LIVE THE GOOD LIFE: Sobha Siniya Island – UAE’s Most Natural Pristine Island."
+      ],
+      "text": "LIVE THE GOOD LIFE: Sobha Siniya Island – UAE’s Most Natural Pristine Island. 19 Million Sq. Ft. of the Land Area 1 Upcoming Luxury Resorts 40 % Open Green Spaces",
+      "y": 586,
+      "height": 516,
+      "width": 390,
+      "h1Words": 13,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 516,
+        "capturedAt": "2026-10-22T10:01:27.607Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "26px",
+        "text": "LIVE THE GOOD LIFE: Sobha Siniya Island – UAE’s Most Natural Pristine Island. 19 Million Sq. Ft. of the Land Area 1 Upcoming Luxury Resorts 40 % Open Green Spaces",
+        "title": "LIVE THE GOOD LIFE: Sobha Siniya Island – UAE’s Most Natural Pristine Island.",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(3) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "community-detail-content section-space-bottom",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Sobha Siniya Island, situated 50 minutes from Dubai, beautifully harmonises luxury with nature, offering an exquisite collection of resorts, mansions, villas and residences. This island paradise captures the tranquillity of untouched natural beauty, preserving its pristine mangroves and wildlife such as rare turtles, gazelles, and flamingos. Experience the vibrant pulse of UAE’s cosmopolitan life while enjoying the p",
+      "y": 1102,
+      "height": 864,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 864,
+        "capturedAt": "2026-10-22T10:01:28.563Z",
+        "failedImages": 0,
+        "font": "Ringside",
+        "fontSize": "16px",
+        "text": "Sobha Siniya Island, situated 50 minutes from Dubai, beautifully harmonises luxury with nature, offering an exquisite collection of resorts, mansions, villas and residences. This island paradise captures the tranquillity of untouched natural beauty, preserving its pristine mangroves and wildlife such as rare turtles, gazelles, and flamingos. Experience the vibrant pulse of UAE’s cosmopolitan life while enjoying the p",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(3) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "community-anim-gallery white-bg position-relative section-space-bottom",
+      "elementId": "",
+      "title": "Luxury",
+      "headings": [
+        "Luxury"
+      ],
+      "text": "IN THE HEART OF Luxury",
+      "y": 1966,
+      "height": 575,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 575,
+        "capturedAt": "2026-10-22T10:01:29.448Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "90px",
+        "text": "IN THE HEART OF Luxury",
+        "title": "Luxury",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(3) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "comunity-detail-markers position-relative ",
+      "elementId": "",
+      "title": "WELCOME TO YOUR Island Lifestyle",
+      "headings": [
+        "WELCOME TO YOUR Island Lifestyle"
+      ],
+      "text": "WELCOME TO YOUR Island Lifestyle",
+      "y": 2541,
+      "height": 905,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 905,
+        "capturedAt": "2026-10-22T10:01:30.363Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "42px",
+        "text": "WELCOME TO YOUR Island Lifestyle",
+        "title": "WELCOME TO YOUR Island Lifestyle",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(3) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "section-space-bottom amenities-list-of-community",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "LIVE Crafting a Lifestyle of Your Dreams Discover the epitome of island living with our luxurious mansions, villas and fully furnished Beach Residences. At Sobha Siniya Island each home and residence boast breathtaking infinite sea views and exceptional comfort. BEACH RESIDENCES ISLAND VILLAS MARINA RESIDENCES DINE IN Indulge in Artisanal Delicacies Clubhouse and Boardwalk: Indulge in exquisite cuisine at our Clubhou",
+      "y": 3446,
+      "height": 2030,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-07-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 2030,
+        "capturedAt": "2026-10-22T10:01:31.225Z",
+        "failedImages": 0,
+        "font": "Ringside",
+        "fontSize": "16px",
+        "text": "LIVE Crafting a Lifestyle of Your Dreams Discover the epitome of island living with our luxurious mansions, villas and fully furnished Beach Residences. At Sobha Siniya Island each home and residence boast breathtaking infinite sea views and exceptional comfort. BEACH RESIDENCES ISLAND VILLAS MARINA RESIDENCES DINE IN Indulge in Artisanal Delicacies Clubhouse and Boardwalk: Indulge in exquisite cuisine at our Clubhou",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "right-in-dubai position-relative",
+      "elementId": "",
+      "title": "UAE’S Pristine Natural Island",
+      "headings": [
+        "UAE’S Pristine Natural Island"
+      ],
+      "text": "UAE’S Pristine Natural Island",
+      "y": 5575,
+      "height": 266,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-08-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 266,
+        "capturedAt": "2026-10-22T10:01:33.304Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "42px",
+        "text": "UAE’S Pristine Natural Island",
+        "title": "UAE’S Pristine Natural Island",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#block-sobha-uplift-content > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "faq-section-common c-detail-faq white-bg position-relative section-space-top section-space-bottom",
+      "elementId": "",
+      "title": "FAQs",
+      "headings": [
+        "FAQs"
+      ],
+      "text": "FAQs Q 1 Is Sobha Siniya Island a good place to live? Q 2 What amenities does Sobha Siniya Island offer? Q 3 How does Sobha Siniya Island balance luxury and sustainability? Q 4 Is investing in Sobha Siniya Island a good idea?",
+      "y": 5841,
+      "height": 784,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-09-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 784,
+        "capturedAt": "2026-10-22T10:01:33.833Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "42px",
+        "text": "FAQs Q 1 Is Sobha Siniya Island a good place to live? Q 2 What amenities does Sobha Siniya Island offer? Q 3 How does Sobha Siniya Island balance luxury and sustainability? Q 4 Is investing in Sobha Siniya Island a good idea?",
+        "title": "FAQs",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#footer-common-form",
+      "tag": "SECTION",
+      "cls": "planning-section white-bg position-relative section-space-bottom",
+      "elementId": "footer-common-form",
+      "title": "WE’D LOVE TO Hear From You",
+      "headings": [
+        "WE’D LOVE TO Hear From You"
+      ],
+      "text": "WE’D LOVE TO Hear From You BUY PROPERTY SEEK JOB CHANNEL PARTNER Preferred Mode of Contact * Request a call back Schedule a video call +971 Type Property Type Apartments Villas Project Project - Not Decided Yet - Selene Beach Residences Delphine Beach Residences Coraline Beach Residences Coral Beach Villas Aquamarine Beach Residences Palm Grove Villas Florine Beach Residences Coastline Beach Residences Bayside Marina",
+      "y": 6686,
+      "height": 1214,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1214,
+        "capturedAt": "2026-10-22T10:01:34.404Z",
+        "failedImages": 0,
+        "font": "\"Chronicle Display XLight\"",
+        "fontSize": "42px",
+        "text": "WE’D LOVE TO Hear From You BUY PROPERTY SEEK JOB CHANNEL PARTNER Preferred Mode of Contact * Request a call back Schedule a video call +971 Type Property Type Apartments Villas Project Project - Not Decided Yet - Selene Beach Residences Delphine Beach Residences Coraline Beach Residences Coral Beach Villas Aquamarine Beach Residences Palm Grove Villas Florine Beach Residences Coastline Beach Residences Bayside Marina",
+        "title": "WE’D LOVE TO Hear From You",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "APARTMENTS VILLAS VILLAMENTS PENTHOUSES COMMUNITIES MEDIA CENTER ABOUT US CONTACT US CHANNEL PARTNER CAREERS OUR PRESENCE FAQ DIGITAL WALKTHROUGH COMMERCIAL LEASING Sobha Realty 4.7 / 5 © 2026. SOBHA REALTY, ALL RIGHTS RESERVED. PRIVACY POLICY | SITEMAP",
+      "y": 7900,
+      "height": 1556,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-05-11-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1557,
+        "capturedAt": "2026-10-22T10:01:34.954Z",
+        "failedImages": 0,
+        "font": "Ringside",
+        "fontSize": "16px",
+        "text": "APARTMENTS VILLAS VILLAMENTS PENTHOUSES COMMUNITIES MEDIA CENTER ABOUT US CONTACT US CHANNEL PARTNER CAREERS OUR PRESENCE FAQ DIGITAL WALKTHROUGH COMMERCIAL LEASING Sobha Realty 4.7 / 5 © 2026. SOBHA REALTY, ALL RIGHTS RESERVED. PRIVACY POLICY | SITEMAP",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-05",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:01:24.197Z"
+}

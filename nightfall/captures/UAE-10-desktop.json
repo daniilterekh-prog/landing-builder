@@ -1,0 +1,320 @@
+{
+  "url": "https://object-1.com/project/lum1nar-tower-1/",
+  "title": "LUM1NAR TOWER 1 - Object-1",
+  "height": 7077,
+  "blocks": [
+    {
+      "selector": "body > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "header",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "RU AR MENU ABOUT PROJECTS AREAS MEDIA INVESTMENT CAREER CONTACT US",
+      "y": 0,
+      "height": 144,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-01-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 144,
+        "capturedAt": "2026-10-22T10:13:30.072Z",
+        "failedImages": 7,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "14px",
+        "text": "RU AR MENU ABOUT PROJECTS AREAS MEDIA INVESTMENT CAREER CONTACT US",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "section-welcome",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 0,
+      "height": 900,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-02-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 900,
+        "capturedAt": "2026-10-22T10:13:30.604Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "14px",
+        "text": "",
+        "title": "",
+        "note": "Видеофон: стоп-кадр 00:08 исходного ролика. Браузер не декодирует видеодорожку.",
+        "mediaFallback": {
+          "kind": "original-video-frame",
+          "timeSeconds": 8,
+          "sourceUrl": "https://object-1.com/wp-content/uploads/2026/06/Object-1-%E2%80%94-Luminar-CLEAN_4K.mp4"
+        }
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "section-project",
+      "elementId": "",
+      "title": "LUM1NAR TOWER 1",
+      "headings": [
+        "LUM1NAR TOWER 1"
+      ],
+      "text": "All Projects Jumeirah Village Triangle LUM1NAR TOWER 1 Dubai | Jumeirah Village Triangle Unit types: 1 Bedroom, 1.5 Bedroom Welcome to LUM1NAR TOWER 1 where every corner is infused with an enchanting ambiance, inviting you into a world of timeless elegance and modern allure. Matte glass panels, softly lit from within, welcome you with a shimmering embrace blending the warmth of wood with the bold sophistication of da",
+      "y": 900,
+      "height": 503,
+      "width": 1440,
+      "h1Words": 3,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-03-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 503,
+        "capturedAt": "2026-10-22T10:13:31.127Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "All Projects Jumeirah Village Triangle LUM1NAR TOWER 1 Dubai | Jumeirah Village Triangle Unit types: 1 Bedroom, 1.5 Bedroom Welcome to LUM1NAR TOWER 1 where every corner is infused with an enchanting ambiance, inviting you into a world of timeless elegance and modern allure. Matte glass panels, softly lit from within, welcome you with a shimmering embrace blending the warmth of wood with the bold sophistication of da",
+        "title": "LUM1NAR TOWER 1",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "section-gallery",
+      "elementId": "",
+      "title": "GALLERY",
+      "headings": [
+        "GALLERY"
+      ],
+      "text": "GALLERY",
+      "y": 1403,
+      "height": 555,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-04-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 555,
+        "capturedAt": "2026-10-22T10:13:33.165Z",
+        "failedImages": 7,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "GALLERY",
+        "title": "GALLERY",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "section-amenit",
+      "elementId": "",
+      "title": "AMENITIES",
+      "headings": [
+        "AMENITIES"
+      ],
+      "text": "AMENITIES LOBBY SWIMMING POOL KIDS PLAY ROOM OUTDOOR LOUNGE BBQ AREA CLUBHOUSE POOL DECK WITH SUN LOUNGERS GYM REGISTER INTEREST",
+      "y": 1958,
+      "height": 678,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-05-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 678,
+        "capturedAt": "2026-10-22T10:13:33.706Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "AMENITIES LOBBY SWIMMING POOL KIDS PLAY ROOM OUTDOOR LOUNGE BBQ AREA CLUBHOUSE POOL DECK WITH SUN LOUNGERS GYM REGISTER INTEREST",
+        "title": "AMENITIES",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "section-video",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "",
+      "y": 2636,
+      "height": 912,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-06-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 913,
+        "capturedAt": "2026-10-22T10:13:34.556Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "14px",
+        "text": "",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "section-apparts",
+      "elementId": "",
+      "title": "LAYOUT",
+      "headings": [
+        "LAYOUT"
+      ],
+      "text": "LAYOUT CLICK ON IMAGE TO EXPAND",
+      "y": 3548,
+      "height": 585,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-07-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 585,
+        "capturedAt": "2026-10-22T10:13:36.601Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "LAYOUT CLICK ON IMAGE TO EXPAND",
+        "title": "LAYOUT",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "section-maparea",
+      "elementId": "",
+      "title": "AREA",
+      "headings": [
+        "AREA"
+      ],
+      "text": "AREA Jumeirah Village Triangle (JVT) is a well-planned residential community known for its low-density development, and convenient access to key areas of Dubai. Object 1 selects strategic plots in JVT and develops modern residential projects that balance privacy, comfort, and long-term investment value, making the area attractive for both investors and end users. LUM1NAR TOWER 1 NEARBY 7 NEARBY 3 NEARBY 5 NEARBY 5 NE",
+      "y": 4133,
+      "height": 1173,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-08-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 1173,
+        "capturedAt": "2026-10-22T10:13:37.325Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "AREA Jumeirah Village Triangle (JVT) is a well-planned residential community known for its low-density development, and convenient access to key areas of Dubai. Object 1 selects strategic plots in JVT and develops modern residential projects that balance privacy, comfort, and long-term investment value, making the area attractive for both investors and end users. LUM1NAR TOWER 1 NEARBY 7 NEARBY 3 NEARBY 5 NEARBY 5 NE",
+        "title": "AREA",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > main:nth-of-type(1) > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "section-projects",
+      "elementId": "",
+      "title": "NEARBY PROJECTS",
+      "headings": [
+        "NEARBY PROJECTS"
+      ],
+      "text": "NEARBY PROJECTS ESSENL1FE City Dubai Area JVT More info ELAR1S RISE City Dubai Area JVT More info S1LVIANA PARK City Dubai Area JVT More info",
+      "y": 5306,
+      "height": 504,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-09-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 504,
+        "capturedAt": "2026-10-22T10:13:37.832Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "30px",
+        "text": "NEARBY PROJECTS ESSENL1FE City Dubai Area JVT More info ELAR1S RISE City Dubai Area JVT More info S1LVIANA PARK City Dubai Area JVT More info",
+        "title": "NEARBY PROJECTS",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#reg",
+      "tag": "SECTION",
+      "cls": "section-feed bg-black",
+      "elementId": "reg",
+      "title": "/ REGISTER YOUR INTEREST /",
+      "headings": [
+        "/ REGISTER YOUR INTEREST /"
+      ],
+      "text": "/ REGISTER YOUR INTEREST / DISCOVER EXCLUSIVE DEVELOPMENTS! CONTACT US TO SECURE YOUR PLACE IN UAE REAL ESTATE. Full Name* Company Email Address * Phone Number* +31 I agree to the processing of my personal data in accordance with the Privacy Policy. SUBMIT REQUEST",
+      "y": 5810,
+      "height": 848,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-10-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 849,
+        "capturedAt": "2026-10-22T10:13:38.345Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "74px",
+        "text": "/ REGISTER YOUR INTEREST / DISCOVER EXCLUSIVE DEVELOPMENTS! CONTACT US TO SECURE YOUR PLACE IN UAE REAL ESTATE. Full Name* Company Email Address * Phone Number* +31 I agree to the processing of my personal data in accordance with the Privacy Policy. SUBMIT REQUEST",
+        "title": "/ REGISTER YOUR INTEREST /",
+        "note": ""
+      }
+    },
+    {
+      "selector": "body > div:nth-of-type(1) > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "footer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "About Home All projects Contacts DUBAI G03 – Emaar Square Building 3-Downtown Dubai Tel.: +971 52 381 0148 info@object-1.com ABU DHABI B101, Addax Office Tower, Abu Dhabi Tel.: +971 52 381 0148 info@object-1.com Email By subscribing, you agree to receive marketing communications from Object. You can unsubscribe at any time. See our Privacy Policy. SUBSCRIBE",
+      "y": 6658,
+      "height": 418,
+      "width": 1440,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-10-11-desktop.jpg",
+        "captureWidth": 1440,
+        "captureHeight": 419,
+        "capturedAt": "2026-10-22T10:13:38.855Z",
+        "failedImages": 0,
+        "font": "HelveticaNeueCyr, sans-serif",
+        "fontSize": "14px",
+        "text": "About Home All projects Contacts DUBAI G03 – Emaar Square Building 3-Downtown Dubai Tel.: +971 52 381 0148 info@object-1.com ABU DHABI B101, Addax Office Tower, Abu Dhabi Tel.: +971 52 381 0148 info@object-1.com Email By subscribing, you agree to receive marketing communications from Object. You can unsubscribe at any time. See our Privacy Policy. SUBSCRIBE",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-10",
+  "mode": "desktop",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:13:28.053Z"
+}

@@ -1,0 +1,543 @@
+{
+  "url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+  "title": "Palm Central by Nakheel – Apartments on Palm Jebel Ali",
+  "height": 15562,
+  "blocks": [
+    {
+      "selector": "#__next > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "_0_E81q_baseClass _0_E81q_desktopSticky _0_E81q_entered enter-done",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "open navigation Sign in",
+      "y": 105,
+      "height": 57,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-01-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 57,
+        "capturedAt": "2026-10-22T10:05:16.651Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "open navigation Sign in",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "TlmJna_wrapper TlmJna_tabletLandscapel TlmJna_laptopxl sc-2830e683-0 cKsMJI",
+      "elementId": "",
+      "title": "Palm Central by Nakheel",
+      "headings": [
+        "Palm Central by Nakheel"
+      ],
+      "text": "Palm Central by Nakheel Palm Central by Nakheel unveils a new benchmark for waterfront living on Palm Jebel Ali, offering contemporary beachfront residences designed for those who seek modern luxury and timeless island serenity in Dubai’s most iconic master development. Register your interest",
+      "y": 162,
+      "height": 870,
+      "width": 390,
+      "h1Words": 4,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-02-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 870,
+        "capturedAt": "2026-10-22T10:05:17.196Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "32px",
+        "text": "Palm Central by Nakheel Palm Central by Nakheel unveils a new benchmark for waterfront living on Palm Jebel Ali, offering contemporary beachfront residences designed for those who seek modern luxury and timeless island serenity in Dubai’s most iconic master development. Register your interest",
+        "title": "Palm Central by Nakheel",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(2)",
+      "tag": "SECTION",
+      "cls": "",
+      "elementId": "",
+      "title": "The First Residential Apartments on Palm Jebel Ali",
+      "headings": [
+        "The First Residential Apartments on Palm Jebel Ali"
+      ],
+      "text": "PROJECT OVERVIEW The First Residential Apartments on Palm Jebel Ali Introducing Palm Central by Nakheel, the first residential development on Palm Jebel Ali, redefining coastal luxury in Dubai. Positioned on the Palm Spine between Fronds M and N, this visionary project offers a contemporary collection of 1–3 bedroom beachfront apartments with panoramic Arabian Gulf views and direct access to pristine beaches. Designe",
+      "y": 1032,
+      "height": 812,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-03-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 812,
+        "capturedAt": "2026-10-22T10:05:17.724Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "PROJECT OVERVIEW The First Residential Apartments on Palm Jebel Ali Introducing Palm Central by Nakheel, the first residential development on Palm Jebel Ali, redefining coastal luxury in Dubai. Positioned on the Palm Spine between Fronds M and N, this visionary project offers a contemporary collection of 1–3 bedroom beachfront apartments with panoramic Arabian Gulf views and direct access to pristine beaches. Designe",
+        "title": "The First Residential Apartments on Palm Jebel Ali",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(3)",
+      "tag": "SECTION",
+      "cls": "TlmJna_wrapper TlmJna_tabletLandscapel TlmJna_laptopm TlmJna_smallerBottomSpace",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "DEVELOPER Nakheel PAYMENT PLAN 70/30 HANDOVER 2029 STARTING PRICE AED 2.5M",
+      "y": 1844,
+      "height": 720,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-04-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 720,
+        "capturedAt": "2026-10-22T10:05:18.210Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "DEVELOPER Nakheel PAYMENT PLAN 70/30 HANDOVER 2029 STARTING PRICE AED 2.5M",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(4)",
+      "tag": "SECTION",
+      "cls": "TlmJna_wrapper TlmJna_tabletLandscapel TlmJna_laptopl sc-763f3d4-0 gShgZQ",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Dubai’s Visionary Island Destination DISCOVER MORE Elevated Beachfront Serenity DISCOVER MORE The Essence of Coastal Architecture DISCOVER MORE View Gallery",
+      "y": 2564,
+      "height": 403,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-05-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 404,
+        "capturedAt": "2026-10-22T10:05:18.717Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "Dubai’s Visionary Island Destination DISCOVER MORE Elevated Beachfront Serenity DISCOVER MORE The Essence of Coastal Architecture DISCOVER MORE View Gallery",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(5)",
+      "tag": "SECTION",
+      "cls": "",
+      "elementId": "",
+      "title": "The Private Residences at Palm Central",
+      "headings": [
+        "The Private Residences at Palm Central",
+        "1-Bedroom Apartment",
+        "2-Bedroom Apartment (incl. maid)",
+        "3-Bedroom Apartment",
+        "4-Bedroom Apartment / Beach House"
+      ],
+      "text": "The Private Residences at Palm Central 1-Bedroom Apartment Ranging from 1-bedroom layouts, these residences at Palm Central by Nakheel offer elegant beachfront living on Palm Jebel Ali. Designed for young professionals and couples, each apartment features open-plan interiors, premium finishes, and sweeping views of the Arabian Gulf. The combination of resort-style amenities and Nakheel’s craftsmanship makes these apa",
+      "y": 2967,
+      "height": 2244,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-06-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 2244,
+        "capturedAt": "2026-10-22T10:05:19.293Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "The Private Residences at Palm Central 1-Bedroom Apartment Ranging from 1-bedroom layouts, these residences at Palm Central by Nakheel offer elegant beachfront living on Palm Jebel Ali. Designed for young professionals and couples, each apartment features open-plan interiors, premium finishes, and sweeping views of the Arabian Gulf. The combination of resort-style amenities and Nakheel’s craftsmanship makes these apa",
+        "title": "The Private Residences at Palm Central",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(5) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi",
+      "elementId": "",
+      "title": "The Private Residences at Palm Central",
+      "headings": [
+        "The Private Residences at Palm Central"
+      ],
+      "text": "The Private Residences at Palm Central",
+      "y": 2991,
+      "height": 72,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-07-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 72,
+        "capturedAt": "2026-10-22T10:05:19.782Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "The Private Residences at Palm Central",
+        "title": "The Private Residences at Palm Central",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(6)",
+      "tag": "SECTION",
+      "cls": "TlmJna_colored",
+      "elementId": "",
+      "title": "When the Sun Sets Over Palm Central",
+      "headings": [
+        "When the Sun Sets Over Palm Central"
+      ],
+      "text": "When the Sun Sets Over Palm Central",
+      "y": 5211,
+      "height": 200,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-08-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 200,
+        "capturedAt": "2026-10-22T10:05:20.238Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "When the Sun Sets Over Palm Central",
+        "title": "When the Sun Sets Over Palm Central",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(6) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi",
+      "elementId": "",
+      "title": "When the Sun Sets Over Palm Central",
+      "headings": [
+        "When the Sun Sets Over Palm Central"
+      ],
+      "text": "When the Sun Sets Over Palm Central",
+      "y": 5283,
+      "height": 72,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-09-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 72,
+        "capturedAt": "2026-10-22T10:05:20.735Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "When the Sun Sets Over Palm Central",
+        "title": "When the Sun Sets Over Palm Central",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(7)",
+      "tag": "SECTION",
+      "cls": "TlmJna_wrapper TlmJna_tabletLandscapel TlmJna_laptopl sc-763f3d4-0 gShgZQ",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "View Gallery",
+      "y": 5451,
+      "height": 571,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-10-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 571,
+        "capturedAt": "2026-10-22T10:05:21.223Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "View Gallery",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(8)",
+      "tag": "SECTION",
+      "cls": "",
+      "elementId": "",
+      "title": "Flexible Payment Plan",
+      "headings": [
+        "Flexible Payment Plan"
+      ],
+      "text": "STRESS-FREE BUYING Flexible Payment Plan Own at Palm Central by Nakheel on Palm Jebel Ali with just 20% booking and a flexible payment plan. Whether you’re investing or purchasing your dream beachfront home, this landmark development offers a seamless buying experience with thoughtfully structured payments, exceptional design, and the prestige of owning in Dubai’s newest island destination. Request payment plan",
+      "y": 6751,
+      "height": 580,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-11-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 580,
+        "capturedAt": "2026-10-22T10:05:21.704Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "STRESS-FREE BUYING Flexible Payment Plan Own at Palm Central by Nakheel on Palm Jebel Ali with just 20% booking and a flexible payment plan. Whether you’re investing or purchasing your dream beachfront home, this landmark development offers a seamless buying experience with thoughtfully structured payments, exceptional design, and the prestige of owning in Dubai’s newest island destination. Request payment plan",
+        "title": "Flexible Payment Plan",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > section:nth-of-type(9)",
+      "tag": "SECTION",
+      "cls": "",
+      "elementId": "",
+      "title": "Palm Central Amenities",
+      "headings": [
+        "Palm Central Amenities",
+        "Gym",
+        "Infinity Pool",
+        "Private Beach",
+        "Upper Terrace"
+      ],
+      "text": "Palm Central Amenities Gym Infinity Pool Private Beach Upper Terrace Clubhouse Yoga Studio Outdoor Terrace",
+      "y": 7331,
+      "height": 1108,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-12-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 1109,
+        "capturedAt": "2026-10-22T10:05:22.256Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "24px",
+        "text": "Palm Central Amenities Gym Infinity Pool Private Beach Upper Terrace Clubhouse Yoga Studio Outdoor Terrace",
+        "title": "Palm Central Amenities",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#form-17d2051e-93f5-4f24-b4e4-89a3faeaf002 > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi sc-5b36c694-1 kjHpfo",
+      "elementId": "",
+      "title": "Register your interest now",
+      "headings": [
+        "Register your interest now"
+      ],
+      "text": "LIMITED RELEASE NOW AVAILABLE Register your interest now Be among the first to own at Palm Central on Palm Jebel Ali. With flexible payment plans and high growth potential, it’s your gateway to Dubai’s next icon of luxury living.",
+      "y": 9710,
+      "height": 296,
+      "width": 324,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-13-mobile.jpg",
+        "captureWidth": 324,
+        "captureHeight": 296,
+        "capturedAt": "2026-10-22T10:05:22.770Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "32px",
+        "text": "LIMITED RELEASE NOW AVAILABLE Register your interest now Be among the first to own at Palm Central on Palm Jebel Ali. With flexible payment plans and high growth potential, it’s your gateway to Dubai’s next icon of luxury living.",
+        "title": "Register your interest now",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > main:nth-of-type(1) > div:nth-of-type(4) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi",
+      "elementId": "",
+      "title": "Frequently Asked Questions",
+      "headings": [
+        "Frequently Asked Questions"
+      ],
+      "text": "Frequently Asked Questions",
+      "y": 10812,
+      "height": 72,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-14-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 72,
+        "capturedAt": "2026-10-22T10:05:23.218Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "Frequently Asked Questions",
+        "title": "Frequently Asked Questions",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#locationpreview-8b3559d9-9545-4c20-8c15-d8a3edcee3c0 > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi",
+      "elementId": "",
+      "title": "Explore Similar Projects to Palm Central at Palm Jebel Ali",
+      "headings": [
+        "Explore Similar Projects to Palm Central at Palm Jebel Ali"
+      ],
+      "text": "Explore Similar Projects to Palm Central at Palm Jebel Ali",
+      "y": 11627,
+      "height": 108,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-15-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 108,
+        "capturedAt": "2026-10-22T10:05:23.697Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "Explore Similar Projects to Palm Central at Palm Jebel Ali",
+        "title": "Explore Similar Projects to Palm Central at Palm Jebel Ali",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Contact-3011cd44-9b19-441c-a10e-fc0cfc3b38ca",
+      "tag": "SECTION",
+      "cls": "sc-a02a4eff-1 kpgPPp",
+      "elementId": "Contact-3011cd44-9b19-441c-a10e-fc0cfc3b38ca",
+      "title": "Contact your personal advisor",
+      "headings": [
+        "Contact your personal advisor"
+      ],
+      "text": "CONTACT Contact your personal advisor Engel & Völkers Dubai 7th Floor, Al Khail Plaza Jumeirah Village Triangle, Dubai, UAE Tel: +971 4 4223500 Get in contact",
+      "y": 13691,
+      "height": 930,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-16-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 930,
+        "capturedAt": "2026-10-22T10:05:24.245Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "CONTACT Contact your personal advisor Engel & Völkers Dubai 7th Floor, Al Khail Plaza Jumeirah Village Triangle, Dubai, UAE Tel: +971 4 4223500 Get in contact",
+        "title": "Contact your personal advisor",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#Contact-3011cd44-9b19-441c-a10e-fc0cfc3b38ca > div:nth-of-type(1) > div:nth-of-type(1) > div:nth-of-type(1) > header:nth-of-type(1)",
+      "tag": "HEADER",
+      "cls": "sc-3e2591c0-1 lneZoi",
+      "elementId": "",
+      "title": "Contact your personal advisor",
+      "headings": [
+        "Contact your personal advisor"
+      ],
+      "text": "CONTACT Contact your personal advisor",
+      "y": 13787,
+      "height": 104,
+      "width": 358,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-17-mobile.jpg",
+        "captureWidth": 358,
+        "captureHeight": 104,
+        "capturedAt": "2026-10-22T10:05:24.767Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Head VF App\", \"Fallback Georgia\", \"Fallback Georgia\", \"Times New Roman\", Times, serif",
+        "fontSize": "28px",
+        "text": "CONTACT Contact your personal advisor",
+        "title": "Contact your personal advisor",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > section:nth-of-type(1)",
+      "tag": "SECTION",
+      "cls": "TlmJna_wrapper TlmJna_tabletLandscapel TlmJna_laptopxl sc-60a3cbd8-0 kfoyFq",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Engel & Völkers Dubai Palm Central",
+      "y": 14661,
+      "height": 72,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-18-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 72,
+        "capturedAt": "2026-10-22T10:05:25.220Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "Engel & Völkers Dubai Palm Central",
+        "title": "",
+        "note": ""
+      }
+    },
+    {
+      "selector": "#__next > footer:nth-of-type(1)",
+      "tag": "FOOTER",
+      "cls": "_2yA6NG_footer",
+      "elementId": "",
+      "title": "",
+      "headings": [],
+      "text": "Contact us up Al Khail Plaza, 7 Floor, Jumeirah Village Triangle, PO Box 2608, Dubai, UAE +97144223500 instagram facebook linkedin twitter youtube tiktok PROPERTY OFFERS SELL REAL ESTATE LOCATIONS COMPANY Manage cookie settings Cookie policy Privacy policy Imprint",
+      "y": 14757,
+      "height": 781,
+      "width": 390,
+      "h1Words": 0,
+      "state": {
+        "status": "ok",
+        "rawFile": "shots/uae-22-19-mobile.jpg",
+        "captureWidth": 390,
+        "captureHeight": 781,
+        "capturedAt": "2026-10-22T10:05:25.676Z",
+        "failedImages": 0,
+        "font": "\"Engel Voelkers Text VF App\", Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "text": "Contact us up Al Khail Plaza, 7 Floor, Jumeirah Village Triangle, PO Box 2608, Dubai, UAE +97144223500 instagram facebook linkedin twitter youtube tiktok PROPERTY OFFERS SELL REAL ESTATE LOCATIONS COMPANY Manage cookie settings Cookie policy Privacy policy Imprint",
+        "title": "",
+        "note": ""
+      }
+    }
+  ],
+  "source": "UAE-22",
+  "mode": "mobile",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "httpStatus": 200,
+  "capturedAt": "2026-10-22T10:05:16.176Z"
+}
