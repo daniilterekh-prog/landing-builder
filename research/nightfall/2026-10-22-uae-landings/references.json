@@ -1,0 +1,794 @@
+[
+  {
+    "name": "MERED — ICONIC Residences",
+    "url": "https://mered.ae/iconic",
+    "owner": "Застройщик MERED",
+    "query": "buy off plan property dubai",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://mered.ae/iconic",
+    "title": "Iconic Residences design by Pininfarina | Mered",
+    "id": "UAE-01",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Архитектура и автор дизайна, виды, локация, инфраструктура, отделка и меблировка.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 14,
+      "h3": 4
+    },
+    "google_evidence": {
+      "query": "buy off plan property dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=buy+off+plan+property+dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Meraas — The Acres",
+    "url": "https://theacres.meraas.com/",
+    "owner": "Застройщик Meraas",
+    "query": "Meraas The Acres villas",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://theacres.meraas.com/",
+    "title": "The Acres by Meraas, an exclusive community of standalone 3 to 7-bedroom villas",
+    "id": "UAE-02",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Разделение вилл и резиденций, концепция природы, генплан и инфраструктура.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 9,
+      "h2": 1
+    },
+    "google_evidence": {
+      "query": "Meraas The Acres villas",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Meraas+The+Acres+villas&hl=en&gl=ae"
+  },
+  {
+    "name": "OMNIYAT — The Alba",
+    "url": "https://thealbadestination.omniyat.com/",
+    "owner": "Застройщик OMNIYAT",
+    "query": "Omniyat The Alba residences Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://thealbadestination.omniyat.com/",
+    "title": "The Alba Residences, Dorchester Collection, Dubai",
+    "id": "UAE-03",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "История проекта через архитектуру, wellness, свет и локацию; запись на частную встречу.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 9
+    },
+    "google_evidence": {
+      "query": "Omniyat The Alba residences Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Omniyat+The+Alba+residences+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Emaar — Grand Polo Club & Resort",
+    "url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+    "owner": "Застройщик Emaar",
+    "query": "Emaar Grand Polo Club Resort",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.emaar.com/en/our-communities/grand-polo-club-and-resort",
+    "title": "Grand Polo Club & Resort | Emaar Properties",
+    "id": "UAE-04",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Лендинг большого сообщества: концепция, новые очереди, расположение и общественные пространства.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 5,
+      "h3": 5
+    },
+    "google_evidence": {
+      "query": "Emaar Grand Polo Club Resort",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Emaar+Grand+Polo+Club+Resort&hl=en&gl=ae"
+  },
+  {
+    "name": "Sobha — Siniya Island",
+    "url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+    "owner": "Застройщик Sobha Realty",
+    "query": "Sobha Siniya Island residences",
+    "ad": false,
+    "emirate": "Умм-эль-Кайвайн",
+    "status": 200,
+    "final_url": "https://sobharealty.com/sobha-communities/sobha-siniya-island",
+    "title": "Sobha Siniya Island | Exclusive Island Living in UAQ | Sobha Realty",
+    "id": "UAE-05",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Островной образ жизни, природа, описание сообщества, FAQ и регистрация интереса.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h3": 1,
+      "h1": 1,
+      "h2": 6
+    },
+    "google_evidence": {
+      "query": "Sobha Siniya Island residences",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Sobha+Siniya+Island+residences&hl=en&gl=ae"
+  },
+  {
+    "name": "Ellington — One River Point",
+    "url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+    "owner": "Застройщик Ellington",
+    "query": "Ellington One River Point",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://ellingtonproperties.ae/en/property-for-sale/one-river-point-business-bay",
+    "title": "Chat with us",
+    "id": "UAE-06",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Страница отдельного проекта внутри сайта девелопера; галереи и переходы к другим проектам.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "One River Point by Ellington in Business Bay Apartments for Sale",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 7
+    },
+    "google_evidence": {
+      "query": "Ellington One River Point",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Ellington+One+River+Point&hl=en&gl=ae"
+  },
+  {
+    "name": "Taraf — Karl Lagerfeld Villas",
+    "url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+    "owner": "Застройщик Taraf",
+    "query": "Taraf Karl Lagerfeld villas Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.tarafholding.com/en/project/karl-lagerfeld-villas",
+    "title": "Karl Lagerfeld Luxury Villas in Meydan Dubai | Taraf Holding",
+    "id": "UAE-07",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Коллаборация с модным брендом, архитектурная концепция, клубный дом и скачивание брошюры.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h2": 10,
+      "h1": 2,
+      "h3": 3
+    },
+    "google_evidence": {
+      "query": "Taraf Karl Lagerfeld villas Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Taraf+Karl+Lagerfeld+villas+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Select Group — Six Senses Dubai Marina",
+    "url": "https://www.select-group.ae/developments/six-senses-residences-dubai-marina",
+    "owner": "Застройщик Select Group",
+    "query": "Select Group Six Senses Residences Dubai Marina",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.select-group.ae/developments/six-senses-residences-dubai-marina",
+    "title": "Six Senses Residences Dubai Marina- Ultra-Luxury Branded Residences, Dubai",
+    "id": "UAE-08",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Брендированные резиденции: архитектура, интерьеры, wellness и контакт с отделом продаж.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h2": 15,
+      "h3": 11,
+      "h1": 1
+    },
+    "google_evidence": {
+      "query": "Select Group Six Senses Residences Dubai Marina",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Select+Group+Six+Senses+Residences+Dubai+Marina&hl=en&gl=ae"
+  },
+  {
+    "name": "RAK Properties — Quattro Del Mar",
+    "url": "https://quattrodelmar.rakproperties.ae/",
+    "owner": "Застройщик RAK Properties",
+    "query": "RAK Properties Quattro Del Mar",
+    "ad": false,
+    "emirate": "Рас-эль-Хайма",
+    "status": 403,
+    "final_url": "https://quattrodelmar.rakproperties.ae/",
+    "title": "Forbidden",
+    "id": "UAE-09",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Отдельный промосайт: инфраструктура по категориям, окружение острова и регистрация интереса.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "Quattro Del Mar by RAK Properties",
+    "heading_counts": {
+      "h1": 1
+    },
+    "google_evidence": {
+      "query": "RAK Properties Quattro Del Mar",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=RAK+Properties+Quattro+Del+Mar&hl=en&gl=ae"
+  },
+  {
+    "name": "Object 1 — LUM1NAR Tower 1",
+    "url": "https://object-1.com/project/lum1nar-tower-1/",
+    "owner": "Застройщик Object 1",
+    "query": "Object 1 Lum1nar Dubai residences",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://object-1.com/project/lum1nar-tower-1/",
+    "title": "LUM1NAR TOWER 1 - Object-1",
+    "id": "UAE-10",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Компактный набор проектных модулей: галерея, инфраструктура, планировки, район и соседние проекты.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 6
+    },
+    "google_evidence": {
+      "query": "Object 1 Lum1nar Dubai residences",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Object+1+Lum1nar+Dubai+residences&hl=en&gl=ae"
+  },
+  {
+    "name": "BEYOND — ORISE",
+    "url": "https://beyonddevelopments.ae/Projects/orise/",
+    "owner": "Застройщик BEYOND",
+    "query": "Beyond Orise Dubai residences",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://beyonddevelopments.ae/Projects/orise/",
+    "title": "Orise by Beyond – A New Icon of Coastal Living",
+    "id": "UAE-11",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Прибрежная концепция, типы резиденций, удобства и расстояния до городских ориентиров.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 4,
+      "h3": 6
+    },
+    "google_evidence": {
+      "query": "Beyond Orise Dubai residences",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Beyond+Orise+Dubai+residences&hl=en&gl=ae"
+  },
+  {
+    "name": "Danube — BAYZ 102",
+    "url": "https://danubeproperties.com/portfolio/bayz102/",
+    "owner": "Застройщик Danube",
+    "query": "Danube Bayz 102 Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://danubeproperties.com/portfolio/bayz102/",
+    "title": "BAYZ102 - Apartments for Sale in Business Bay - Danube Properties",
+    "id": "UAE-12",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Карточка ключевых параметров: цена, срок, план оплаты, типы квартир; инфраструктура и медиа.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h3": 7,
+      "h2": 20
+    },
+    "google_evidence": {
+      "query": "Danube Bayz 102 Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Danube+Bayz+102+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Imtiaz — Cove Edition I",
+    "url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+    "owner": "Застройщик Imtiaz",
+    "query": "Imtiaz Cove Edition Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://imtiaz.ae/property/cove-edition-i-by-imtiaz-1",
+    "title": "Cove Edition I | Dubai Land Residence Complex | Imtiaz",
+    "id": "UAE-13",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Разделение интерьера и экстерьера, инфраструктура, ход строительства и FAQ.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 7,
+      "h3": 7
+    },
+    "google_evidence": {
+      "query": "Imtiaz Cove Edition Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Imtiaz+Cove+Edition+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Arada — Armani Beach Residences",
+    "url": "https://www.arada.com/en/armani-beach-residences/",
+    "owner": "Застройщик Arada",
+    "query": "Arada Armani Beach Residences",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.arada.com/en/armani-beach-residences/",
+    "title": "Armani Beach Residences Palm Jumeirah - Luxury Apartments, Townhouses & Penthouses, | Arada, UAE",
+    "id": "UAE-14",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Проект через три имени: Armani/Casa, Tadao Ando и Arada; расположение и подбор недвижимости.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 12
+    },
+    "google_evidence": {
+      "query": "Arada Armani Beach Residences",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Arada+Armani+Beach+Residences&hl=en&gl=ae"
+  },
+  {
+    "name": "Aldar — Sama Yas",
+    "url": "https://www.aldar.com/samayas/",
+    "owner": "Застройщик Aldar",
+    "query": "Aldar Sama Yas residences",
+    "ad": false,
+    "emirate": "Абу-Даби",
+    "status": 200,
+    "final_url": "https://www.aldar.com/samayas/",
+    "title": "SAMA YAS",
+    "id": "UAE-15",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Отдельный микросайт: виртуальный тур, отделка, экологичность и жизнь в парке.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h2": 8,
+      "h3": 2
+    },
+    "google_evidence": {
+      "query": "Aldar Sama Yas residences",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Aldar+Sama+Yas+residences&hl=en&gl=ae"
+  },
+  {
+    "name": "Nakheel — Palm Jebel Ali",
+    "url": "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali",
+    "owner": "Застройщик Nakheel",
+    "query": "Nakheel Palm Jebel Ali apartments buy",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.nakheel.com/en/developments/nakheel-collections/palmjebelali",
+    "title": "Palm Jebel Ali Dubai - Waterfront Villas & Apartments | Nakheel",
+    "id": "UAE-16",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Страница мастер-проекта: дома, описание острова и расположение.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 1,
+      "h3": 1
+    },
+    "google_evidence": {
+      "query": "Nakheel Palm Jebel Ali apartments buy",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Nakheel+Palm+Jebel+Ali+apartments+buy&hl=en&gl=ae"
+  },
+  {
+    "name": "NEXT — Coral",
+    "url": "https://next-property.com/ru/next-coral",
+    "owner": "Застройщик NEXT",
+    "query": "купить квартиру в дубае",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 403,
+    "final_url": "https://next-property.com/ru/next-coral",
+    "title": "403 Forbidden",
+    "id": "UAE-17",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Подробный русскоязычный лендинг: параметры, локация, инфраструктура, планировки и этапы покупки.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "NEXT Coral | Жилой комплекс расположенный на островах Dubai Islands",
+    "heading_counts": {
+      "h1": 1
+    },
+    "google_evidence": {
+      "query": "купить квартиру в дубае",
+      "language": "ru",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83+%D0%B2+%D0%B4%D1%83%D0%B1%D0%B0%D0%B5&hl=ru&gl=ae"
+  },
+  {
+    "name": "Binghatti — Premium Property",
+    "url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+    "owner": "Застройщик Binghatti",
+    "query": "buy off plan property dubai",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://promotions.binghatti.com/premium-property-with-binghatti/",
+    "title": "Binghatti",
+    "id": "UAE-18",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Брендовый рекламный лендинг: преимущества девелопера, достижения, проекты и повторные обращения.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 7,
+      "h2": 1
+    },
+    "google_evidence": {
+      "query": "buy off plan property dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=buy+off+plan+property+dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "DAMAC — Investment Landing",
+    "url": "https://promotions.damacproperties.com/usa/dubai-real-estate-investment-from-usa/",
+    "owner": "Застройщик DAMAC",
+    "query": "buy off plan property dubai",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 403,
+    "final_url": "https://promotions.damacproperties.com/usa/dubai-real-estate-investment-from-usa/",
+    "title": "",
+    "id": "UAE-19",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Рекламный инвестиционный лендинг: несколько предложений, условия оплаты, портфолио и формы.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "Dubai Real Estate Investment | Invest in Dubai Property, ROI & Golden Visa",
+    "heading_counts": {},
+    "google_evidence": {
+      "query": "buy off plan property dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=buy+off+plan+property+dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Whitewill — Riverside Views",
+    "url": "https://whitewill.ae/riverside-views",
+    "owner": "Агентство Whitewill",
+    "query": "Whitewill Dubai residential project apartments",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://riverside-views.ae.house",
+    "title": "DAMAC Riverside Views — Luxury Apartments in Dubai | Whitewill Dubai",
+    "id": "UAE-20",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Агентский микролендинг: описание, галерея, план оплаты, отделка, застройщик, инфраструктура, карта.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 10,
+      "h3": 16
+    },
+    "google_evidence": {
+      "query": "Whitewill Dubai residential project apartments",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Whitewill+Dubai+residential+project+apartments&hl=en&gl=ae"
+  },
+  {
+    "name": "Metropolitan — Bugatti Residences",
+    "url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+    "owner": "Агентство Metropolitan",
+    "query": "купить квартиру в дубае",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 403,
+    "final_url": "https://metropolitan.realestate/business-bay/bugatti-residences/",
+    "title": "Just a moment...",
+    "id": "UAE-21",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Агентская страница: обзор, галерея, планировки, этапы оплаты, инфраструктура, карта, консультант, FAQ.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "Bugatti Residences Penthouses & Apartments for Sale by Binghatti | Metropolitan Premium Properties",
+    "heading_counts": {},
+    "google_evidence": {
+      "query": "купить квартиру в дубае",
+      "language": "ru",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83+%D0%B2+%D0%B4%D1%83%D0%B1%D0%B0%D0%B5&hl=ru&gl=ae"
+  },
+  {
+    "name": "Engel & Völkers — Palm Central",
+    "url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+    "owner": "Агентство Engel & Völkers",
+    "query": "Nakheel Palm Jebel Ali apartments buy",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://www.engelvoelkers.com/ae/en/off-plan/palm-central-palm-jebel-ali-nakheel",
+    "title": "Engel & Völkers",
+    "id": "UAE-22",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Агентский лендинг: типы резиденций по спальням, описание локации и аргументы в пользу девелопера.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 13,
+      "h3": 26
+    },
+    "google_evidence": {
+      "query": "Nakheel Palm Jebel Ali apartments buy",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Nakheel+Palm+Jebel+Ali+apartments+buy&hl=en&gl=ae"
+  },
+  {
+    "name": "LUXHABITAT — The Alba",
+    "url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+    "owner": "Площадка LUXHABITAT; брокер на странице требует проверки",
+    "query": "Omniyat The Alba residences Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 403,
+    "final_url": "https://www.luxhabitat.ae/developments/dubai/the-alba-residences-by-omniyat/",
+    "title": "Just a moment...",
+    "id": "UAE-23",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Площадка с описанием проекта: инфраструктура, район, оплата, застройщик, FAQ и похожие комплексы.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "The Alba Residences in Palm Jumeirah by Omniyat | Luxhabitat",
+    "heading_counts": {},
+    "google_evidence": {
+      "query": "Omniyat The Alba residences Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Omniyat+The+Alba+residences+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Everhomes — One River Point",
+    "url": "https://everhomes.ae/off-plan/one-river-point/",
+    "owner": "Агентство Everhomes",
+    "query": "Ellington One River Point",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://everhomes.ae/off-plan/one-river-point/",
+    "title": "One River Point by Ellington Properties in Business Bay, Dubai | Everhomes",
+    "id": "UAE-24",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Агентская страница: локация, описание, планировки по типам квартир, план оплаты и инфраструктура.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h3": 10,
+      "h2": 5
+    },
+    "google_evidence": {
+      "query": "Ellington One River Point",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Ellington+One+River+Point&hl=en&gl=ae"
+  },
+  {
+    "name": "Tanami — Karl Lagerfeld Villas",
+    "url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+    "owner": "Агентство Tanami Properties",
+    "query": "Taraf Karl Lagerfeld villas Dubai",
+    "ad": false,
+    "emirate": "Дубай",
+    "status": 403,
+    "final_url": "https://www.tanamiproperties.com/Projects/Karl-Lagerfeld-Villas",
+    "title": "Attention Required! | Cloudflare",
+    "id": "UAE-25",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Агентский справочный формат: сводка параметров, преимущества, оплата, карта, генплан, планировки.",
+    "inspection": "Chrome: прочитан DOM страницы; автоматический HTTP мог быть заблокирован или неполон",
+    "browser_title": "Karl Lagerfeld Villas by Taraf Holding in MBR City, Dubai",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 3
+    },
+    "google_evidence": {
+      "query": "Taraf Karl Lagerfeld villas Dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Обычный результат / ссылка в выдаче; рекламный статус не подтверждён"
+    },
+    "google_search_url": "https://www.google.com/search?q=Taraf+Karl+Lagerfeld+villas+Dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Dubai Realty — Подбор новостроек",
+    "url": "https://podbor.dubai-realty.com/",
+    "owner": "Агентство Dubai Realty",
+    "query": "купить квартиру в дубае",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://podbor.dubai-realty.com/",
+    "title": "Подбор недвижимости в ОАЭ",
+    "id": "UAE-26",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Квиз подбора: цель, тип жилья, спальни, срок, эмират, район, бюджет, способ оплаты и канал связи.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 2,
+      "h2": 10,
+      "h3": 1
+    },
+    "google_evidence": {
+      "query": "купить квартиру в дубае",
+      "language": "ru",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C+%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83+%D0%B2+%D0%B4%D1%83%D0%B1%D0%B0%D0%B5&hl=ru&gl=ae"
+  },
+  {
+    "name": "Property Sales Centre — Binghatti",
+    "url": "https://projects.property-sales-centre.com/binghatti/",
+    "owner": "Посредник; юридическое лицо требует проверки",
+    "query": "buy off plan property dubai",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://projects.property-sales-centre.com/binghatti/",
+    "title": "Binghatti Projects Dubai: 2026 Launches & Price Lists",
+    "id": "UAE-27",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Брендовая посадочная посредника: новые запуски, сравнение проектов и получение прайс-листов.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 1,
+      "h2": 3,
+      "h3": 36
+    },
+    "google_evidence": {
+      "query": "buy off plan property dubai",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=buy+off+plan+property+dubai&hl=en&gl=ae"
+  },
+  {
+    "name": "Salescentre — Ellington",
+    "url": "https://ellington.salescentre.com/ellingtonproperties",
+    "owner": "Посредник; не официальный домен Ellington",
+    "query": "Ellington Dubai residences buy",
+    "ad": true,
+    "emirate": "Дубай",
+    "status": 200,
+    "final_url": "https://ellington.salescentre.com/ellingtonproperties",
+    "title": "Ellington Properties - Dubai's Premier Boutique Luxury Developer",
+    "id": "UAE-28",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Рекламный шаблон посредника: галерея, брошюра, преимущества и план оплаты; сравнить с Fahid.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h2": 22,
+      "h3": 4,
+      "h1": 1
+    },
+    "google_evidence": {
+      "query": "Ellington Dubai residences buy",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=Ellington+Dubai+residences+buy&hl=en&gl=ae"
+  },
+  {
+    "name": "Salescentre — Fahid Beach Terraces",
+    "url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+    "owner": "Посредник; не официальный домен Aldar",
+    "query": "Aldar Abu Dhabi apartments buy",
+    "ad": true,
+    "emirate": "Абу-Даби",
+    "status": 200,
+    "final_url": "https://aldar.salescentre.com/aldarfahidbeachterraces",
+    "title": "Aldar Fahid Beach Terraces - Starting from 3.6m AED",
+    "id": "UAE-29",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Тот же шаблон Salescentre на другом проекте: полезен для проверки заменяемого контента и H1.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h2": 22,
+      "h3": 4,
+      "h1": 1
+    },
+    "google_evidence": {
+      "query": "Aldar Abu Dhabi apartments buy",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=Aldar+Abu+Dhabi+apartments+buy&hl=en&gl=ae"
+  },
+  {
+    "name": "Aeon & Trisl — Saadiyat Island",
+    "url": "https://saadiyat-island.aeontrisl.com/",
+    "owner": "Агентство Aeon & Trisl",
+    "query": "Aldar Abu Dhabi apartments buy",
+    "ad": true,
+    "emirate": "Абу-Даби",
+    "status": 200,
+    "final_url": "https://saadiyat-island.aeontrisl.com/",
+    "title": "Saadiyat Island by Aldar in Abu Dhabi | Saadiyat Island Properties",
+    "id": "UAE-30",
+    "observed_at": "2026-10-22",
+    "blocks_to_review": "Рекламная агентская страница района: ключевые условия, подборка проектов и обращение к брокеру.",
+    "inspection": "HTTP HTML; извлечены заголовки разделов",
+    "heading_counts": {
+      "h1": 2,
+      "h2": 9,
+      "h3": 8
+    },
+    "google_evidence": {
+      "query": "Aldar Abu Dhabi apartments buy",
+      "language": "en",
+      "country_parameter": "ae",
+      "result_type": "Sponsored / Реклама: наблюдалась пометка"
+    },
+    "google_search_url": "https://www.google.com/search?q=Aldar+Abu+Dhabi+apartments+buy&hl=en&gl=ae"
+  }
+]
